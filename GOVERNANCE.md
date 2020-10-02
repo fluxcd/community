@@ -1,0 +1,223 @@
+<!-- see https://github.com/yzhang-gh/vscode-markdown/blob/master/README.md#table-of-contents -->
+<!-- omit in toc -->
+# Flux Governance
+
+This document <github.com/fluxcd/community/blob/main/GOVERNANCE.md> defines the governance process for the Flux CNCF project and community.
+
+The `fluxcd` github org is home to the Teams and source repositories listed below.
+
+- [Values](#values)
+  - [Code of Conduct](#code-of-conduct)
+- [Member Roles](#member-roles)
+  - [Users](#users)
+  - [Contributors](#contributors)
+  - [Maintainers](#maintainers)
+- [Teams](#teams)
+  - [Org team](#org-team)
+  - [Dev team](#dev-team)
+  - [Security team](#security-team)
+  - [Community team](#community-team)
+- [Proposal Process](#proposal-process)
+- [Decision Making](#decision-making)
+- [Voting](#voting)
+  - [Simple Majority Changes](#simple-majority-changes)
+  - [Supermajority Changes](#supermajority-changes)
+  - [Membership Changes](#membership-changes)
+- [Licenses](#licenses)
+
+## Values
+
+- **Open:**
+The Flux community strives to be open, accessible and welcoming to everyone.
+Anyone may contribute, and contributions are available to all users according to open source values and licenses.
+- **Transparent:**
+Flux strives for transparency in all discussions, announcements, disclosures and decision making.
+- **Unbiased:**
+Flux strives to operate independently of specific partisan interests, and for decision making to fairly balance the wider community interests of its end users and contributors.
+In future, the aspiration is no one company or organization should employ a Simple Majority of the Org team members, however that is not yet realistic at this stage.
+The goal is to broaden membership of the Teams defined below to include a wider range of organizations during CNCF incubation.
+
+### Code of Conduct
+
+The Flux community adheres to the CNCF Code of Conduct <github.com/cncf/foundation/blob/master/code-of-conduct.md>.
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a _Flux_ project maintainer.
+
+If the possible violation is against one of the Flux maintainers that member will be recused from voting on the issue.
+Such issues must be escalated to the CNCF mediator, Mishi Choudhary <mishi@linux.com>, in which case CNCF may choose to intervene.
+
+## Member Roles
+
+The Flux community is comprised of the following member roles:
+
+### Users
+
+Flux end users are the most important members of the community, without whom the project would have no purpose. Users are anyone who has a need for the project.
+Apart from following the Code of Conduct, there are no special requirements.
+As users continue to engage and become more involved with the Flux community, they may find themselves becoming contributors.
+
+### Contributors
+
+Flux welcomes all kinds of contributions, including code, issues, documentation, external tools, advocacy and community work.
+Contributors are accepted based on the merit of their contributions.
+Contributions help Maintainers ensure that the project continues to satisfy end user needs.
+Teams defined below may have different contribution processes and requirements for the various areas of Flux appropriate to their team.
+
+### Maintainers
+
+Maintainers are elected Contributors who serve on one or more Teams.
+For the election process, see Membership Changes below.
+
+Maintainers are expected to:
+
+- enable and promote Flux community Values
+- engage with end Users through appropriate communication channels appropriate to their teams
+- serve as a point of conflict resolution between Contributors to the Flux area appropriate to their teams
+- maintain open collaboration within and across teams
+- additional responsibilites are defined per team below
+
+## Teams
+
+The Flux project is governed by Maintainer teams, each with defined scope and resonsibilities.
+Teams are responsible for the overall organization, code development, community management, and security.
+
+The goal of governing by teams is to allow parts of the project to act independently as appropriate, enabling the project to grow horizontally while remaining well-maintained.
+
+Teams below are also mapped to github teams within the fluxcd github org.
+Their members are mapped to github user accounts.
+
+### Org team
+
+@fluxcd/org <github.com/orgs/fluxcd/teams/org>
+
+Scope and responsibilities:
+
+- shared Maintainers responsibilies, as well as
+- overseeing the project health and growth
+- maintaining the brand, mission, vision, values, and scope of the overall project
+- changes to licencing and intellectual property
+- administering access to all project assets
+- handling code of conduct violations
+- managing financial decisions
+- defining the scope and responsibilities of all other teams
+- making descisions that affect multiple teams
+- resolving escalated team decisions when the teams responsible are blocked
+- changes to governance (this document)
+
+### Dev team
+
+@fluxcd/dev <github.com/orgs/fluxcd/teams/dev>
+
+Scope and responsibilities:
+
+- shared Maintainers responsibilies, as well as
+- all technical decisions related to project software
+- administering, creating, archiving, and deleting source code repositories
+- release management
+
+In future, the scope and responsibilities of this team may be split into separate dev-related teams.
+But even if so, due to Flux componentized architecture, there should be no assumption of a 1:1 relationship between a source repository and a team.
+
+### Security team
+
+@fluxcd/security <github.com/orgs/fluxcd/teams/security>
+
+Scope and responsibilities:
+
+- shared Maintainers responsibilies, as well as
+- point of contact for reporting security vulnerabilities
+- responding to and investigating security reports
+- patching and releasing security fixes
+- publishing the vulnerability disclosure once a mitigation strategy is available
+- documenting overall project security best practices
+
+Anyone may email this team privately to safely raise possible security vulnerabilities <lists.cncf.io/g/cncf-flux-community>.
+
+### Community team
+
+@fluxcd/community <github.com/orgs/fluxcd/teams/community>
+
+Scope and responsibilities:
+
+- shared Maintainers responsibilies, as well as
+- listening to the community
+- escalating community issues to appropriate teams
+- planning and executing community events (example: GitOps Days)
+- marketing related tasks required by the project
+- managing partner and ecosystem development
+- managing social media accounts (example: Twitter)
+- managing project mailing lists
+- managing project calendar events
+- managing project blog posts
+- managing the project website
+
+Anyone may email this team with community-related questions <lists.cncf.io/g/cncf-flux-community>.
+
+## Proposal Process
+
+- Code changes should go through the pull request process, where the idea and implementation details can be publicly discussed with maintainers of the appropriate team, other contributors, and end users.
+Pull requests should only be merged after receiving github approval from at least one other member of the appropriate team.
+Voting is not required for most code changes.
+Note that Flux v2 uses github discussions for proposals in the `fluxcd/toolkit` repo <github.com/fluxcd/toolkit/discussions?discussions_q=category%3AProposals>.
+- Non-code changes should be proposed as github issues.
+If unclear which repository to create the issue in, default to the community repo <github.com/fluxcd/community>.
+
+## Decision Making
+
+- Teams oversee activities appropriate to their defined scope and responsibilities.
+- Decisions that affect only one team are made informally by its maintainers.
+- Decisions that affect multiple teams should go through the proposal process.
+- All proposals should be discussed publicly in the appropriate github issue or pull request.
+- If a member of appropriate team feels feedback from members of the same or other teams is warranted they will @mention the users or teams to request feedback.
+- Proposals may also be added to the Flux Dev weekly meetings agenda, as a good avenue for making progress on a decision <lists.cncf.io/g/cncf-flux-dev/calendar>.
+- If there are objections and no consensus can be found, a vote may be called by a team member.
+- When a vote is called, members of the appropriate team team will cast their yes/no vote on that github issue or pull request, and after a suitable period of time, the votes will be tallied and the outcome noted.
+- If a proposal cannot be resolved by the affected teams, the decision may be escalated to the Org team.
+
+## Voting
+
+- Most team decisions are made by lazy consensus <communitymgt.wikia.com/wiki/Lazy_consensus>.
+- In these cases, if no consensus can be reached, the matter may be resolved by Simple Majority Vote <en.wikipedia.org/wiki/Majority> by the appropriate team.
+- However there are cases that always require a Simple Majority or Supermajority Vote <en.wikipedia.org/wiki/Supermajority> by the appropriate team.
+These are defined below.
+
+### Simple Majority Changes
+
+- Org team: Licensing and intellectual property changes
+- Org team: Using Flux/CNCF money for anything CNCF deems "not cheap and easy"
+
+### Supermajority Changes
+
+- Org team: Enforcing a Code of Conduct violation.
+- Org team: Removing a member from a team for any reason other than inactivity.
+- Org team: Material changes to the Governance document.
+  - Editorial changes to governance may be made by Org team lazy consensus, unless challenged.
+These are changes which fix spelling or grammar, update work affiliation or similar, update style or reflect an outside and obvious reality.
+They do not change the intention or meaning of anything in this document.
+
+### Membership Changes
+
+- All team members MUST remain active contributors.
+If they are unresponsive for > 3 months they will be automatically removed unless a supermajority of the other members of that team agrees to extend the period.
+- A member may voluntarily step down from a team by following the proposal process in the community repo.
+These proposals are automatically accepted.
+Once offboarding is complete and the issue is closed, they become an emeritus member of that team.
+- New members may be added to a team by a supermajority vote by the existing members of that team.
+- When a team has no members the Org team become responsible for it and may either archive the team or find new members.
+- When a team is archived, its members become emeritus members of that team.
+
+Org team membership changes have additional considerations:
+
+- Members of any other team are eligible to be nominiated as an Org team member
+- Org maintainers MUST remain current members of other non-archived teams.
+If that status changes, they will also loose Org team membership.
+- If an Org maintainer volunteraily steps down, in addition to the process above, within 7 calendar days the Flux dev list MUST be notified <lists.cncf.io/g/cncf-flux-community>.
+This gives contributors reasonable time to be made aware of the change.
+- When there is an opening for a new Org maintainer, any contributor to a repository in the `fluxcd` github org may nominate a suitable existing member of another team as a replacement.
+  - The nomination period will be three weeks starting the day after an Org team member opening becomes available.
+  - The nomination must be made as a reply to the notification topic in the Flux dev list.
+
+## Licenses
+
+- Apache 2.0 is required for all source code repositories
+- Developer Certificate of Origin (DCO) commit signoff is required for all new code contributions
