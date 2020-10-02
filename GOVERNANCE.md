@@ -4,8 +4,6 @@
 
 This document <https://github.com/fluxcd/community/blob/main/GOVERNANCE.md> defines the governance process for the Flux CNCF project and community.
 
-The `fluxcd` github org is home to the Teams and source repositories listed below.
-
 - [Values](#values)
   - [Code of Conduct](#code-of-conduct)
 - [Member Roles](#member-roles)
@@ -83,7 +81,7 @@ Teams are responsible for the overall organization, code development, community 
 
 The goal of governing by teams is to allow parts of the project to act independently as appropriate, enabling the project to grow horizontally while remaining well-maintained.
 
-Teams below are also mapped to github teams within the fluxcd github org.
+Teams below are also mapped to github teams within the `fluxcd` github org.
 Their members are mapped to github user accounts.
 
 ### Org team
