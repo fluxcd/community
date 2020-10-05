@@ -206,7 +206,7 @@ Once offboarding is complete and the issue is closed, they become an emeritus me
 
 Org team membership changes have additional considerations:
 
-- Members of any other team are eligible to be nominiated as an Org team member.
+- Members of any other team are eligible to be nominated as an Org team member.
 - Org maintainers MUST remain current members of other non-archived teams.
 If that status changes, they will also loose Org team membership.
 - If an Org maintainer volunteraily steps down, in addition to the process above, within 7 calendar days the Flux dev list MUST be notified <https://lists.cncf.io/g/cncf-flux-community>.
