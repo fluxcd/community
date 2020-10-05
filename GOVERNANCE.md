@@ -81,8 +81,8 @@ Teams are responsible for the overall organization, code development, community 
 
 The goal of governing by teams is to allow parts of the project to act independently as appropriate, enabling the project to grow horizontally while remaining well-maintained.
 
-Teams below are also mapped to github teams within the `fluxcd` github org.
-Their members are mapped to github user accounts.
+Teams below are also mapped to GitHub teams within the `fluxcd` GitHub org.
+Their members are mapped to GitHub user accounts.
 
 ### Org team
 
@@ -154,10 +154,10 @@ Anyone may email this team with community-related questions <https://lists.cncf.
 ## Proposal Process
 
 - Code changes should go through the pull request process, where the idea and implementation details can be publicly discussed with maintainers of the appropriate team, other contributors, and end users.
-Pull requests should only be merged after receiving github approval from at least one other member of the appropriate team.
+Pull requests should only be merged after receiving GitHub approval from at least one other member of the appropriate team.
 Voting is not required for most code changes.
-Note that Flux v2 uses github discussions for proposals in the `fluxcd/toolkit` repo <https://github.com/fluxcd/toolkit/discussions?discussions_q=category%3AProposals>.
-- Non-code changes should be proposed as github issues.
+Note that Flux v2 uses GitHub discussions for proposals in the `fluxcd/toolkit` repo <https://github.com/fluxcd/toolkit/discussions?discussions_q=category%3AProposals>.
+- Non-code changes should be proposed as GitHub issues.
 If unclear which repository to create the issue in, default to the community repo <https://github.com/fluxcd/community>.
 
 ## Decision Making
@@ -165,7 +165,7 @@ If unclear which repository to create the issue in, default to the community rep
 - Teams oversee activities appropriate to their defined scope and responsibilities.
 - Decisions that affect only one team are made informally by its maintainers.
 - Decisions that affect multiple teams should go through the proposal process.
-- All proposals should be discussed publicly in the appropriate github issue or pull request.
+- All proposals should be discussed publicly in the appropriate GitHub issue or pull request.
 - If a member of appropriate team feels feedback from members of the same or other teams is warranted they will @mention the users or teams to request feedback.
 - Proposals may also be added to the Flux Dev weekly meetings agenda, as a good avenue for making progress on a decision <https://lists.cncf.io/g/cncf-flux-dev/calendar>.
 - If there are objections and no consensus can be found, a vote may be called by a team member.
@@ -181,8 +181,8 @@ These are defined below.
 
 ### Simple Majority Changes
 
-- Org team: Licensing and intellectual property changes
-- Org team: Using Flux/CNCF money for anything CNCF deems "not cheap and easy"
+- Org team: Licensing and intellectual property changes.
+- Org team: Using Flux/CNCF money for anything CNCF deems "not cheap and easy".
 
 ### Supermajority Changes
 
@@ -206,16 +206,16 @@ Once offboarding is complete and the issue is closed, they become an emeritus me
 
 Org team membership changes have additional considerations:
 
-- Members of any other team are eligible to be nominiated as an Org team member
+- Members of any other team are eligible to be nominiated as an Org team member.
 - Org maintainers MUST remain current members of other non-archived teams.
 If that status changes, they will also loose Org team membership.
 - If an Org maintainer volunteraily steps down, in addition to the process above, within 7 calendar days the Flux dev list MUST be notified <https://lists.cncf.io/g/cncf-flux-community>.
 This gives contributors reasonable time to be made aware of the change.
-- When there is an opening for a new Org maintainer, any contributor to a repository in the `fluxcd` github org may nominate a suitable existing member of another team as a replacement.
+- When there is an opening for a new Org maintainer, any contributor to a repository in the `fluxcd` GitHub org may nominate a suitable existing member of another team as a replacement.
   - The nomination period will be three weeks starting the day after an Org team member opening becomes available.
   - The nomination must be made as a reply to the notification topic in the Flux dev list.
 
 ## Licenses
 
-- Apache 2.0 is required for all source code repositories
-- Developer Certificate of Origin (DCO) commit signoff is required for all new code contributions
+- Apache 2.0 is required for all source code repositories.
+- Developer Certificate of Origin (DCO) commit signoff is required for all new code contributions.
