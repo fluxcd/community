@@ -137,7 +137,7 @@ Anyone may email this team privately to safely raise possible security vulnerabi
 
 Scope and responsibilities:
 
-- shared Maintainers responsibilies, as well as
+- shared Maintainers responsibilities, as well as
 - listening to the community
 - escalating community issues to appropriate teams
 - planning and executing community events (example: GitOps Days)
@@ -209,7 +209,7 @@ Org team membership changes have additional considerations:
 - Members of any other team are eligible to be nominated as an Org team member.
 - Org maintainers MUST remain current members of other non-archived teams.
 If that status changes, they will also loose Org team membership.
-- If an Org maintainer volunteraily steps down, in addition to the process above, within 7 calendar days the Flux dev list MUST be notified <https://lists.cncf.io/g/cncf-flux-community>.
+- If an Org maintainer voluntarily steps down, in addition to the process above, within 7 calendar days the Flux dev list MUST be notified <https://lists.cncf.io/g/cncf-flux-community>.
 This gives contributors reasonable time to be made aware of the change.
 - When there is an opening for a new Org maintainer, any contributor to a repository in the `fluxcd` GitHub org may nominate a suitable existing member of another team as a replacement.
   - The nomination period will be three weeks starting the day after an Org team member opening becomes available.
