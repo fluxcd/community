@@ -199,10 +199,10 @@ They do not change the intention or meaning of anything in this document.
 If they are unresponsive for > 3 months they will be automatically removed unless a supermajority of the other members of that team agrees to extend the period.
 - A member may voluntarily step down from a team by following the proposal process in the community repo.
 These proposals are automatically accepted.
-Once offboarding is complete and the issue is closed, they become an emeritus member of that team.
+Once offboarding is complete and the issue is closed, they become a retired member of that team.
 - New members may be added to a team by a supermajority vote by the existing members of that team.
 - When a team has no members the Org team become responsible for it and may either archive the team or find new members.
-- When a team is archived, its members become emeritus members of that team.
+- When a team is archived, its members become retired members of that team.
 
 Org team membership changes have additional considerations:
 
