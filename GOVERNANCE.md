@@ -214,6 +214,12 @@ Once offboarding is complete and the issue is closed, they become a retired memb
 - When a team has no members the Org team become responsible for it and may either archive the team or find new members.
 - When a team is archived, its members become retired members of that team.
 
+Dev team membership changes have additional considerations:
+
+- To gain and/or maintain Dev team membership the member MUST be a stated maintainer in at least one technical sub-project.
+- Technical sub-project maintainership is stated in a `MAINTAINERS` file at the root of the source code repository.
+- Stated technical sub-project maintainership may be decided by a Simple Majority of existing members listed in the project's `MAINTAINERS` file.
+
 Org team membership changes have additional considerations:
 
 - There should be an odd number of Org team member seats, between 3 and 7.
