@@ -213,7 +213,7 @@ A minimum of 3 is to prevent a single decision point.
 The current maximum is a guess to keep decision making efficient, and is subject to change.
 - Members of any other team are eligible to be nominated to fill an open Org team member seat.
 - Org members MUST also remain current members of at least one other non-archived team.
-If that status changes, they will also loose Org team membership.
+If that status changes, they will also lose Org team membership.
 - If an Org member voluntarily steps down, in addition to the process above, within 7 calendar days the Flux dev list MUST be notified <https://lists.cncf.io/g/cncf-flux-dev>.
 This gives contributors reasonable time to be made aware of the opening.
 - When there is an open Org team member seat, any contributor to a repository in the `fluxcd` GitHub org may nominate a suitable existing member of another team as a replacement.
