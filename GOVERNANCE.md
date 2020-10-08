@@ -90,11 +90,12 @@ Their members are mapped to GitHub user accounts.
 
 Scope and responsibilities:
 
-- shared Maintainers responsibilies, as well as
+- shared Maintainers responsibilies, as well as:
 - overseeing the project health and growth
 - maintaining the brand, mission, vision, values, and scope of the overall project
 - changes to licencing and intellectual property
 - administering access to all project assets
+- administering, creating, archiving, and deleting source code repositories
 - handling code of conduct violations
 - managing financial decisions
 - defining the scope and responsibilities of all other teams
@@ -106,15 +107,15 @@ Scope and responsibilities:
 
 @fluxcd/dev <https://github.com/orgs/fluxcd/teams/dev>
 
+Note: Dev team members are scoped to one or more source code repositories, where they will be listed in a MAINTAINERS file in the root of that repo.
+How current Dev team members are allocated to which git repos may be decided by a Simple Majority of existing members listed in a git repo's MAINTAINERS file.
+In future, if more useful than relying on MAINTAINERS files, this team may explicitly split into separate dev-related teams, each scoped to one or more git repos.
+
 Scope and responsibilities:
 
-- shared Maintainers responsibilies, as well as
-- all technical decisions related to project software
-- administering, creating, archiving, and deleting source code repositories
-- release management
-
-In future, the scope and responsibilities of this team may be split into separate dev-related teams.
-But even if so, due to Flux componentized architecture, there should be no assumption of a 1:1 relationship between a source repository and a team.
+- shared Maintainers responsibilies, as well as:
+- all technical decisions related to project software, according to member's scoped git repos
+- release management, according to member's scoped git repos
 
 ### Security team
 
@@ -122,7 +123,7 @@ But even if so, due to Flux componentized architecture, there should be no assum
 
 Scope and responsibilities:
 
-- shared Maintainers responsibilies, as well as
+- shared Maintainers responsibilies, as well as:
 - point of contact for reporting security vulnerabilities
 - responding to and investigating security reports
 - patching and releasing security fixes
