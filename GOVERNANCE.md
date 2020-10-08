@@ -90,7 +90,7 @@ Their members are mapped to GitHub user accounts.
 
 Scope and responsibilities:
 
-- shared Maintainers responsibilies, as well as:
+- shared Maintainers responsibilities, as well as:
 - overseeing the project health and growth
 - maintaining the brand, mission, vision, values, and scope of the overall project
 - changes to licencing and intellectual property
@@ -113,7 +113,7 @@ In future, if more useful than relying on MAINTAINERS files, this team may expli
 
 Scope and responsibilities:
 
-- shared Maintainers responsibilies, as well as:
+- shared Maintainers responsibilities, as well as:
 - all technical decisions related to project software, according to member's scoped git repos
 - release management, according to member's scoped git repos
 
@@ -123,7 +123,7 @@ Scope and responsibilities:
 
 Scope and responsibilities:
 
-- shared Maintainers responsibilies, as well as:
+- shared Maintainers responsibilities, as well as:
 - point of contact for reporting security vulnerabilities
 - responding to and investigating security reports
 - patching and releasing security fixes
