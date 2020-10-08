@@ -130,7 +130,7 @@ Scope and responsibilities:
 - publishing the vulnerability disclosure once a mitigation strategy is available
 - documenting overall project security best practices
 
-Anyone may email this team privately to safely raise possible security vulnerabilities <https://lists.cncf.io/g/cncf-flux-community>.
+Anyone may email this team privately to safely raise possible security vulnerabilities <https://lists.cncf.io/g/cncf-flux-security>.
 
 ### Community team
 
