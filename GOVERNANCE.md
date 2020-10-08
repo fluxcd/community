@@ -12,6 +12,7 @@ This document <https://github.com/fluxcd/community/blob/main/GOVERNANCE.md> defi
   - [Maintainers](#maintainers)
 - [Teams](#teams)
   - [Org team](#org-team)
+  - [Architecture team](#architecture-team)
   - [Dev team](#dev-team)
   - [Security team](#security-team)
   - [Community team](#community-team)
@@ -93,29 +94,37 @@ Scope and responsibilities:
 - shared Maintainers responsibilities, as well as:
 - overseeing the project health and growth
 - maintaining the brand, mission, vision, values, and scope of the overall project
-- changes to licencing and intellectual property
+- changes to licensing and intellectual property
 - administering access to all project assets
-- administering, creating, archiving, and deleting source code repositories
+- deleting source code repositories
 - handling code of conduct violations
 - managing financial decisions
 - defining the scope and responsibilities of all other teams
-- making descisions that affect multiple teams
+- making decisions that affect multiple teams
 - resolving escalated team decisions when the teams responsible are blocked
 - changes to governance (this document)
+
+### Architecture team
+
+@fluxcd/arch <https://github.com/orgs/fluxcd/teams/arch>
+
+Scope and responsibilities:
+
+- shared Maintainers responsibilities, as well as:
+- technical oversight on the overall project
+- providing architectural guidance to Dev team members
+- making technical decisions that are applicable to multiple sub-projects
+- administering and creating source code repositories
 
 ### Dev team
 
 @fluxcd/dev <https://github.com/orgs/fluxcd/teams/dev>
 
-Note: Dev team members are scoped to one or more source code repositories, where they will be listed in a MAINTAINERS file in the root of that repo.
-How current Dev team members are allocated to which git repos may be decided by a Simple Majority of existing members listed in a git repo's MAINTAINERS file.
-In future, if more useful than relying on MAINTAINERS files, this team may explicitly split into separate dev-related teams, each scoped to one or more git repos.
-
 Scope and responsibilities:
 
 - shared Maintainers responsibilities, as well as:
-- all technical decisions related to project software, according to member's scoped git repos
-- release management, according to member's scoped git repos
+- technical decisions related to project software the member maintains
+- release management related to the project software the member maintains
 
 ### Security team
 
