@@ -111,10 +111,14 @@ Scope and responsibilities:
 Scope and responsibilities:
 
 - shared Maintainers responsibilities, as well as:
-- technical oversight on the overall project
-- providing architectural guidance to Dev team members
-- making technical decisions that are applicable to multiple sub-projects
 - administering and creating source code repositories
+- technical oversight on the overall project
+- making technical decisions that are applicable to multiple sub-projects
+- providing architectural guidance to Dev team members on an individual sub-project
+- representing sub-project interests in Architecture team decisions
+
+Every sub-project should have at least one Architecture team member as a Maintainer.
+The involvement of this Maintainer may be passive, but carries being responsible for duties that come with the Architecture team membership, including being a representative for the sub-project.
 
 ### Dev team
 
@@ -123,8 +127,11 @@ Scope and responsibilities:
 Scope and responsibilities:
 
 - shared Maintainers responsibilities, as well as:
+- collaborating with Architecture team member(s) who co-maintain project software
 - technical decisions related to project software the member maintains
 - release management related to the project software the member maintains
+- issue management related to the project software the member maintains
+- keeping documentation updated related to the project software the member maintains
 
 ### Security team
 
@@ -219,6 +226,11 @@ Dev team membership changes have additional considerations:
 - To gain and/or maintain Dev team membership the member MUST be a stated maintainer in at least one technical sub-project.
 - Technical sub-project maintainership is stated in a `MAINTAINERS` file at the root of the source code repository.
 - Stated technical sub-project maintainership may be decided by a Simple Majority of existing members listed in the project's `MAINTAINERS` file.
+
+Architecture team membership changes have additional considerations:
+
+- When an Architecture member leaves the team, their stated maintainership of any technical sub-projects will no longer count toward the required minimum of one Architecture team member.
+If after leaving, there are no other Architecture team members on those sub-projects, the Architecture team is reponsible for deciding how to fulfill that minimum.
 
 Org team membership changes have additional considerations:
 
