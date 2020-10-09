@@ -171,11 +171,11 @@ Anyone may email this team with community-related questions <https://lists.cncf.
 ## Proposal Process
 
 - Code changes should go through the pull request process, where the idea and implementation details can be publicly discussed with maintainers of the appropriate team, other contributors, and end users.
-Pull requests should only be merged after receiving GitHub approval from at least one other member of the appropriate team.
-Voting is not required for most code changes.
-Note that Flux v2 uses GitHub discussions for proposals in the `fluxcd/toolkit` repo <https://github.com/fluxcd/toolkit/discussions?discussions_q=category%3AProposals>.
+  Pull requests should only be merged after receiving GitHub approval from at least one other member of the appropriate team.
+  Voting is not required for most code changes.
+  Note that Flux v2 uses GitHub discussions for proposals in the `fluxcd/toolkit` repo <https://github.com/fluxcd/toolkit/discussions?discussions_q=category%3AProposals>.
 - Non-code changes should be proposed as GitHub issues.
-If unclear which repository to create the issue in, default to the community repo <https://github.com/fluxcd/community>.
+  If unclear which repository to create the issue in, default to the community repo <https://github.com/fluxcd/community>.
 
 ## Decision Making
 
@@ -194,7 +194,7 @@ If unclear which repository to create the issue in, default to the community rep
 - Most team decisions are made by lazy consensus <https://communitymgt.wikia.com/wiki/Lazy_consensus>.
 - In these cases, if no consensus can be reached, the matter may be resolved by Simple Majority Vote <https://en.wikipedia.org/wiki/Majority> by the appropriate team.
 - However there are cases that always require a Simple Majority or Supermajority Vote <https://en.wikipedia.org/wiki/Supermajority> by the appropriate team.
-These are defined below.
+  These are defined below.
 
 ### Simple Majority Changes
 
@@ -207,16 +207,16 @@ These are defined below.
 - Org team: Removing a member from a team for any reason other than inactivity.
 - Org team: Material changes to the Governance document.
   - Editorial changes to governance may be made by Org team lazy consensus, unless challenged.
-These are changes which fix spelling or grammar, update work affiliation or similar, update style or reflect an outside and obvious reality.
-They do not change the intention or meaning of anything in this document.
+    These are changes which fix spelling or grammar, update work affiliation or similar, update style or reflect an outside and obvious reality.
+    They do not change the intention or meaning of anything in this document.
 
 ### Membership Changes
 
 - All team members MUST remain active contributors.
-If they are unresponsive for > 3 months they will be automatically removed unless a supermajority of the other members of that team agrees to extend the period.
+  If they are unresponsive for > 3 months they will be automatically removed unless a supermajority of the other members of that team agrees to extend the period.
 - A member may voluntarily step down from a team by following the proposal process in the community repo.
-These proposals are automatically accepted.
-Once offboarding is complete and the issue is closed, they become a retired member of that team.
+  These proposals are automatically accepted.
+  Once offboarding is complete and the issue is closed, they become a retired member of that team.
 - New members may be added to a team by a supermajority vote by the existing members of that team.
 - When a team has no members the Org team become responsible for it and may either archive the team or find new members.
 - When a team is archived, its members become retired members of that team.
@@ -230,19 +230,19 @@ Dev team membership changes have additional considerations:
 Architecture team membership changes have additional considerations:
 
 - When an Architecture member leaves the team, their stated maintainership of any technical sub-projects will no longer count toward the required minimum of one Architecture team member.
-If after leaving, there are no other Architecture team members on those sub-projects, the Architecture team is reponsible for deciding how to fulfill that minimum.
+  If after leaving, there are no other Architecture team members on those sub-projects, the Architecture team is reponsible for deciding how to fulfill that minimum.
 
 Org team membership changes have additional considerations:
 
 - There should be an odd number of Org team member seats, between 3 and 7.
-An odd number is to avoid a 50/50 decision split.
-A minimum of 3 is to prevent a single decision point.
-The current maximum is a guess to keep decision making efficient, and is subject to change.
+  An odd number is to avoid a 50/50 decision split.
+  A minimum of 3 is to prevent a single decision point.
+  The current maximum is a guess to keep decision making efficient, and is subject to change.
 - Members of any other team are eligible to be nominated to fill an open Org team member seat.
 - Org members MUST also remain current members of at least one other non-archived team.
-If that status changes, they will also lose Org team membership.
+  If that status changes, they will also lose Org team membership.
 - If an Org member voluntarily steps down, in addition to the process above, within 7 calendar days the Flux dev list MUST be notified <https://lists.cncf.io/g/cncf-flux-dev>.
-This gives contributors reasonable time to be made aware of the opening.
+  This gives contributors reasonable time to be made aware of the opening.
 - When there is an open Org team member seat, any contributor to a repository in the `fluxcd` GitHub org may nominate a suitable existing member of another team as a replacement.
   - The nomination period will be three weeks starting the day after an Org team member opening becomes available.
   - The nomination must be made as a reply to the notification topic in the Flux dev list.
