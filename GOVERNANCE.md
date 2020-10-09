@@ -157,7 +157,7 @@ Scope and responsibilities:
 - shared Maintainers responsibilities, as well as
 - listening to the community
 - escalating community issues to appropriate teams
-- planning and executing community events (example: GitOps Days)
+- planning and executing community events
 - marketing related tasks required by the project
 - managing partner and ecosystem development
 - managing social media accounts (example: Twitter)
