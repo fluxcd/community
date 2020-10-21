@@ -73,7 +73,7 @@ Maintainers are expected to:
 - engage with end Users through appropriate communication channels appropriate to their teams
 - serve as a point of conflict resolution between Contributors to the Flux area appropriate to their teams
 - maintain open collaboration within and across teams
-- additional responsibilites are defined per team below
+- additional responsibilities are defined per team below
 
 ## Teams
 
