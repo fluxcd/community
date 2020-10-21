@@ -77,7 +77,7 @@ Maintainers are expected to:
 
 ## Teams
 
-The Flux project is governed by Maintainer teams, each with defined scope and resonsibilities.
+The Flux project is governed by Maintainer teams, each with defined scope and responsibilities.
 Teams are responsible for the overall organization, code development, community management, and security.
 
 The goal of governing by teams is to allow parts of the project to act independently as appropriate, enabling the project to grow horizontally while remaining well-maintained.
