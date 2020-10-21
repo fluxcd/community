@@ -230,7 +230,7 @@ Dev team membership changes have additional considerations:
 Architecture team membership changes have additional considerations:
 
 - When an Architecture member leaves the team, their stated maintainership of any technical sub-projects will no longer count toward the required minimum of one Architecture team member.
-  If after leaving, there are no other Architecture team members on those sub-projects, the Architecture team is reponsible for deciding how to fulfill that minimum.
+  If after leaving, there are no other Architecture team members on those sub-projects, the Architecture team is responsible for deciding how to fulfill that minimum.
 
 Org team membership changes have additional considerations:
 
