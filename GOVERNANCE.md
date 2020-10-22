@@ -84,7 +84,7 @@ Ultimately the committee - after consulting with the collective of Maintainers a
 This committee will initially be comprised of Flux Maintainers who have steered the project prior to this initial Governance document.
 The aspiration is no one company or organization should have oversight of the overall project, however that is not yet realistic at this stage. The goal is to broaden maintainership to include a wider range of organizations during CNCF incubation.
 
-Oversight Committee members are publicly listed the `@fluxcd/oversight-committee` <https://github.com/orgs/fluxcd/teams/oversight-committee> GitHub team.
+Oversight Committee members are publicly listed in the `@fluxcd/oversight-committee` <https://github.com/orgs/fluxcd/teams/oversight-committee> GitHub team.
 
 ## Proposal Process
 
