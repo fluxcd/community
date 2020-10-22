@@ -79,7 +79,7 @@ This committee is responsible for the overall project, and anything not easily m
 - Handling Code of Conduct violations
 - Managing financial decisions
 - Defining the scope of each git repository
-- Resolving escalated decisions when the git repository Maintainers responsible are blocked
+- Resolving escalated decisions when Maintainers responsible are blocked
 
 Ultimately the committee - after consulting with the collective of Maintainers and their community - drive the direction, values and governance of the overall project.
 
