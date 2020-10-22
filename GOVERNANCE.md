@@ -115,7 +115,7 @@ Oversight Committee members are publicly listed in the `@fluxcd/oversight-commit
 
 ### Simple Majority Changes
 
-- Maintainers: Election of new git project Maintainers by current Maintainers.
+- Maintainers: Election of new Maintainers by current git repository Maintainers.
 - Oversight Committee: Licensing and intellectual property changes.
 - Oversight Committee: Using Flux/CNCF money for anything CNCF deems "not cheap and easy".
 
