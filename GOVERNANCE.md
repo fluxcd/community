@@ -38,7 +38,7 @@ If no conclusion can be reached in meditation, such issues can be escalated to t
 
 ## Roles in the Flux Community
 
-The Flux community is comprised of the following roles:
+The Flux community comprises the following roles:
 
 ### Users
 
