@@ -11,8 +11,10 @@ This document <https://github.com/fluxcd/community/blob/main/GOVERNANCE.md> defi
   - [Contributors](#contributors)
   - [Maintainers](#maintainers)
   - [Oversight Committee](#oversight-committee)
-- [Proposal Process](#proposal-process)
 - [Decision Making](#decision-making)
+  - [Deciders](#deciders)
+  - [Kinds of Decisions](#kinds-of-decisions)
+- [Proposal Process](#proposal-process)
 - [Voting](#voting)
   - [Simple Majority Changes](#simple-majority-changes)
   - [Supermajority Changes](#supermajority-changes)
@@ -86,6 +88,18 @@ The aspiration is no one company or organization should have oversight of the ov
 
 Oversight Committee members are publicly listed in the `@fluxcd/oversight-committee` <https://github.com/orgs/fluxcd/teams/oversight-committee> GitHub team.
 
+## Decision Making
+
+### Deciders
+
+- Decisions that affect only one git repository are decided by its Maintainers.
+- Decisions that are outside the scope of a single git repository are decided by the Oversight Committee.
+
+### Kinds of Decisions
+
+- Most decisions do not require wider input, and may be made informally by the appropriate Deciders.
+- Decisions that warrant wider input should go through the Proposal Process.
+
 ## Proposal Process
 
 - Code changes should go through the pull request process, where the idea and implementation details can be publicly discussed with Maintainers, other contributors, and end users.
@@ -94,11 +108,6 @@ Oversight Committee members are publicly listed in the `@fluxcd/oversight-commit
   Note that Flux v2 uses GitHub discussions for proposals in the `fluxcd/toolkit` git repository <https://github.com/fluxcd/toolkit/discussions?discussions_q=category%3AProposals>.
 - Non-code changes should be proposed as GitHub issues.
   If unclear which git repository to create the issue in, default to the community repository <https://github.com/fluxcd/community>.
-
-## Decision Making
-
-- Decisions that affect only one git repository may be made informally by its Maintainers.
-- Decisions that affect multiple repositories, or otherwise warrant wider input, should go through the proposal process.
 - All proposals should be discussed publicly in an appropriate GitHub issue or pull request.
 - If a Maintainer of an affected git repository feels feedback from specific people is warranted they will @mention those users or teams to request feedback.
 - Proposals may also be added to the Flux Dev weekly meetings agenda, as a good avenue for making progress on a decision <https://lists.cncf.io/g/cncf-flux-dev/calendar>.
