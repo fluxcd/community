@@ -60,7 +60,7 @@ Maintainers are expected to:
 - Enable and promote Flux community values
 - Engage with end Users through appropriate communication channels
 - Serve as a point of conflict resolution between Contributors to their git repository
-- Maintain open collaboration within and across teams
+- Maintain open collaboration with Contributors and other Maintainers
 - Ask for help when unsure and step down considerately
 
 Maintainers will be invited to the `@fluxcd/maintainers` <https://github.com/orgs/fluxcd/teams/maintainers> team, and are members of this team for as long as they are involved with the project.
