@@ -13,11 +13,11 @@ This document <https://github.com/fluxcd/community/blob/main/GOVERNANCE.md> defi
   - [Oversight Committee](#oversight-committee)
 - [Decision Making](#decision-making)
   - [Deciders](#deciders)
-  - [Kinds of Decisions](#kinds-of-decisions)
+  - [Decision Guidelines](#decision-guidelines)
+  - [Simple Majority Decisions](#simple-majority-decisions)
+  - [Supermajority Decisions](#supermajority-decisions)
+  - [Unanimity Decisions](#unanimity-decisions)
 - [Proposal Process](#proposal-process)
-- [Voting](#voting)
-  - [Simple Majority Changes](#simple-majority-changes)
-  - [Supermajority Changes](#supermajority-changes)
 - [Licenses and Copyright](#licenses-and-copyright)
 
 ## Values
@@ -92,19 +92,54 @@ Oversight Committee members are publicly listed in the `@fluxcd/oversight-commit
 
 ### Deciders
 
-- Decisions that affect only one git repository are decided by its Maintainers.
-- Decisions that are outside the scope of a single git repository are decided by the Oversight Committee.
+- Repository Maintainers: Decisions that affect only one git repository.
+- Oversight Committee: Decisions that are outside the scope of a single git repository.
 
-### Kinds of Decisions
+### Decision Guidelines
 
-- Most decisions do not require wider input, and may be made informally by the appropriate Deciders.
-- Decisions that warrant wider input should go through the Proposal Process.
+- Decisions that warrant wider input should be made public by using the below guidelines in combination with the Proposal Process below.
+- Whether or not wider input is required, the Flux community believes that the best decisions are reached through Consensus <https://en.wikipedia.org/wiki/Consensus_decision-making>.
+- Most decisions start by seeking Lazy Consensus <https://communitymgt.wikia.com/wiki/Lazy_consensus>.
+- If an objection is raised through the Lazy Consensus process, Deciders work together to seek an agreeable solution.
+- If Consensus can not be reached, but a decision must be made, the next step is try to attempt to agree that a Vote should be called.
+  This is important, as it gives dissenting views a chance to request more information or raise further points.
+  If Deciders are the Oversight Committee, part of that responsibility is the final point of escalation, so agreeing to a Vote is assumed if timeline doesn't allow the consensus process to continue.
+- If Deciders are Repository Maintainers, and they can't agree on calling a Vote, they may escalate to the Oversight Committee.
+  This should only be done at this stage if:
+  1. An unmovable deadline is threatened by continuing the Consensus process; or
+  2. A Decider feels there is unreasonable blocking of both reaching Consensus and agreeing to a Vote.
+      This should be rare, due to the social cost of discontinuing the Consensus process for this reason.
+      Most decisions should wait for the above process to take its course.
+- If Deciders agree to a Vote, the default is a Simple Majority Vote.
+- However, there are cases that require a stringer vote, specified below:
+
+### Simple Majority Decisions
+
+If a vote is called, the default is a Simple Majority Vote <https://en.wikipedia.org/wiki/Majority>.
+
+### Supermajority Decisions
+
+If a vote is called, the following decisions require a Supermajority Vote <https://en.wikipedia.org/wiki/Supermajority>.
+
+- Oversight Committee: Enforcing a Code of Conduct violation by a community member.
+- Oversight Committee: Licensing and intellectual property changes.
+- Oversight Committee: Material changes to the Governance document.
+  - Note: editorial changes to governance may be made by lazy consensus, unless challenged.
+    These are changes which fix spelling or grammar, update work affiliation or similar, update style or reflect an outside and obvious reality.
+    They do not change the intention or meaning of anything in this document.
+
+### Unanimity Decisions
+
+If a vote is called, the following decisison require Unanimity <https://en.wikipedia.org/wiki/Unanimity>.
+
+- Repository Maintainers: Electing new Maintainers of the same repository.
+- Oversight Committee: Electing new Committee members.
+- Oversight Committee: Removing a Repository Maintainer or Committee member for any reason other than inactivity.
 
 ## Proposal Process
 
 - Code changes should go through the pull request process, where the idea and implementation details can be publicly discussed with Maintainers, other contributors, and end users.
   Pull requests should only be merged after receiving GitHub approval from at least one other Maintainer.
-  Voting is not required for most code changes.
   Note that Flux v2 uses GitHub discussions for proposals in the `fluxcd/toolkit` git repository <https://github.com/fluxcd/toolkit/discussions?discussions_q=category%3AProposals>.
 - Non-code changes should be proposed as GitHub issues.
   If unclear which git repository to create the issue in, default to the community repository <https://github.com/fluxcd/community>.
@@ -114,28 +149,6 @@ Oversight Committee members are publicly listed in the `@fluxcd/oversight-commit
 - If there are objections and no consensus can be found, a vote may be called by a Maintainer.
 - When a vote is called, Maintainers will cast their yes/no vote on that GitHub issue or pull request, and after a suitable period of time, the outcome will be noted there.
 - If a proposal cannot be resolved by the affected git repository Maintainers, the decision may be escalated to the Oversight Committee.
-
-## Voting
-
-- Most Maintainer decisions are made by lazy consensus <https://communitymgt.wikia.com/wiki/Lazy_consensus>.
-- If no consensus can be reached, the matter may be resolved by Simple Majority Vote <https://en.wikipedia.org/wiki/Majority>.
-- However there are cases that always require a Simple Majority or Supermajority Vote <https://en.wikipedia.org/wiki/Supermajority>.
-  These are defined below:
-
-### Simple Majority Changes
-
-- Maintainers: Election of new Maintainers by current git repository Maintainers.
-- Oversight Committee: Licensing and intellectual property changes.
-- Oversight Committee: Using Flux/CNCF money for anything CNCF deems "not cheap and easy".
-
-### Supermajority Changes
-
-- Oversight Committee: Enforcing a Code of Conduct violation.
-- Oversight Committee: Removing a Maintainer for any reason other than inactivity.
-- Oversight Committee: Material changes to the Governance document.
-  - Editorial changes to governance may be made by lazy consensus, unless challenged.
-    These are changes which fix spelling or grammar, update work affiliation or similar, update style or reflect an outside and obvious reality.
-    They do not change the intention or meaning of anything in this document.
 
 ## Licenses and Copyright
 
