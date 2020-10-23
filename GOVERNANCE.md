@@ -101,17 +101,17 @@ Oversight Committee members are publicly listed in the `@fluxcd/oversight-commit
 - Whether or not wider input is required, the Flux community believes that the best decisions are reached through Consensus <https://en.wikipedia.org/wiki/Consensus_decision-making>.
 - Most decisions start by seeking Lazy Consensus <https://communitymgt.wikia.com/wiki/Lazy_consensus>.
 - If an objection is raised through the Lazy Consensus process, Deciders work together to seek an agreeable solution.
-- If Consensus can not be reached, but a decision must be made, the next step is try to attempt to agree that a Vote should be called.
+- If Consensus can not be reached, but a decision must be made, the next step is try to attempt to agree that a vote should be called.
   This is important, as it gives dissenting views a chance to request more information or raise further points.
-  If Deciders are the Oversight Committee, part of that responsibility is the final point of escalation, so agreeing to a Vote is assumed if timeline doesn't allow the consensus process to continue.
-- If Deciders are Repository Maintainers, and they can't agree on calling a Vote, they may escalate to the Oversight Committee.
+  If Deciders are the Oversight Committee, part of that responsibility is the final point of escalation, so agreeing to a vote is assumed if timeline doesn't allow the consensus process to continue.
+- If Deciders are Repository Maintainers, and they can't agree on calling a vote, they may escalate to the Oversight Committee.
   This should only be done at this stage if:
   1. An unmovable deadline is threatened by continuing the Consensus process; or
-  2. A Decider feels there is unreasonable blocking of both reaching Consensus and agreeing to a Vote.
+  2. A Decider feels there is unreasonable blocking of both reaching Consensus and agreeing to a vote.
       This should be rare, due to the social cost of discontinuing the Consensus process for this reason.
       Most decisions should wait for the above process to take its course.
-- If Deciders agree to a Vote, the default is a Simple Majority Vote.
-- However, there are cases that require a stringer vote, specified below:
+- If Deciders agree to a vote, the default is a Simple Majority.
+- However, there are cases that require stronger voting – Supermajority or Unanimity – specified below:
 
 ### Simple Majority Decisions
 
