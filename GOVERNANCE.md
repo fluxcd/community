@@ -146,9 +146,6 @@ If a vote is called, the following decisison require Unanimity <https://en.wikip
 - All proposals should be discussed publicly in an appropriate GitHub issue or pull request.
 - If a Maintainer of an affected git repository feels feedback from specific people is warranted they will @mention those users or teams to request feedback.
 - Proposals may also be added to the Flux Dev weekly meetings agenda, as a good avenue for making progress on a decision <https://lists.cncf.io/g/cncf-flux-dev/calendar>.
-- If there are objections and no consensus can be found, a vote may be called by a Maintainer.
-- When a vote is called, Maintainers will cast their yes/no vote on that GitHub issue or pull request, and after a suitable period of time, the outcome will be noted there.
-- If a proposal cannot be resolved by the affected git repository Maintainers, the decision may be escalated to the Oversight Committee.
 
 ## Licenses and Copyright
 
