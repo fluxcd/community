@@ -139,7 +139,7 @@ If a vote is called, the following decisison require Unanimity <https://en.wikip
 ## Proposal Process
 
 - Code changes should go through the pull request process, where the idea and implementation details can be publicly discussed with Maintainers, other contributors, and end users.
-  Pull requests should only be merged after receiving GitHub approval from at least one other Maintainer.
+  Pull requests should only be merged after receiving GitHub approval from at least one Maintainer who is not the pull request author.
   Note that Flux v2 uses GitHub discussions for proposals in the `fluxcd/toolkit` git repository <https://github.com/fluxcd/toolkit/discussions?discussions_q=category%3AProposals>.
 - Non-code changes should be proposed as GitHub issues.
   If unclear which git repository to create the issue in, default to the community repository <https://github.com/fluxcd/community>.
