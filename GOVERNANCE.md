@@ -2,7 +2,7 @@
 <!-- omit in toc -->
 # Flux Governance
 
-This document <https://github.com/fluxcd/community/blob/main/GOVERNANCE.md> defines the governance process for the Flux CNCF project and community.
+This document <https://github.com/fluxcd/community/blob/main/GOVERNANCE.md> defines the governance process for the Flux project and community.
 
 - [Values](#values)
   - [Code of Conduct](#code-of-conduct)
