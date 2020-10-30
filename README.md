@@ -47,4 +47,5 @@ To add the meetings to your e.g. Google calendar
 ### Upcoming
 
 - 2 Nov 2020 - [The Power of GitOps with Flux & GitOps Toolkit - Part 2](https://www.meetup.com/GitOps-Community/events/273934676/)
+- 5 Nov 2020 - Philip Laine and Stefan Prodan will speak about ["Backstage and Flux v2" at Cloud Native Göteborg](https://www.meetup.com/TheCloudNativeGbg/events/273413291/)
 - 12-13 Nov 2020 - [GitOps Days EMEA](https://www.gitopsdays.com/) with talks and workshops on migrating to Flux v2 and Helm Controller
