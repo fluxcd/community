@@ -6,7 +6,7 @@ These guidelines apply to all git repositories in the `fluxcd` GitHub org, howev
 ## Welcome
 
 We gratefully welcome all kinds of contributions, including code, issues, documentation, external tools, advocacy and community work.
-All members of the Flux community, including contribors, are expected to uphold the Flux community [Values](https://github.com/fluxcd/community/blob/main/GOVERNANCE.md#values) and [Code of Conduct](https://github.com/fluxcd/community/blob/main/GOVERNANCE.md#code-of-conduct).
+All members of the Flux community, including contributors, are expected to uphold the Flux community [Values](https://github.com/fluxcd/community/blob/main/GOVERNANCE.md#values) and [Code of Conduct](https://github.com/fluxcd/community/blob/main/GOVERNANCE.md#code-of-conduct).
 
 ## Communication
 
