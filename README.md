@@ -8,7 +8,19 @@ Started 2016 to automate deployments at Weaveworks, the project has grown dramat
 
 The Flux community is governed by the [governance document](GOVERNANCE.md). We as a community follow the [code of conduct](CODE_OF_CONDUCT.md).
 
-## Meetings
+## Contributing
+
+The Flux project is always looking for new contributors and there are a multitude of ways to get involved.
+Depending on what you want to do, some of the following bits might be your first steps:
+
+- Join our upcoming dev meetings ([meeting access and agenda](https://docs.google.com/document/d/1l_M0om0qUEN_NNiGgpqJ2tvsF2iioHkaARDeh6b70B0/view))
+- Talk to us in the #flux channel on [CNCF Slack](https://slack.cncf.io/)
+- Join the [planning discussions](https://github.com/fluxcd/flux2/discussions)
+- And if you are completely new to Flux and the GitOps Toolkit, take a look at our [Get Started guide](https://toolkit.fluxcd.io/get-started/) and give us feedback
+- To be part of the conversation about Flux's development, [join the flux-dev mailing list](https://lists.cncf.io/g/cncf-flux-dev)
+- Check out [how to contribute](CONTRIBUTING.md) to the project
+
+### Meetings
 
 We run regular meetings and discuss things there. We are very happy if new users, contributors and developers join and we can put names to faces.
 
