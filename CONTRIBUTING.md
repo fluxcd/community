@@ -10,7 +10,7 @@ All members of the Flux community, including contributors, are expected to uphol
 
 ## Communication
 
-As a contributor we want to invite you to join the discussions in a variety of forums laid out in <https://github.com/fluxcd/community>.
+As a contributor we want to invite you to join the discussions in a variety of forums laid out in <https://github.com/fluxcd/community/blob/main/README.md#communication>.
 All contributions – code or non-code – should follow the steps outlined in the [Proposal Process](https://github.com/fluxcd/community/blob/main/GOVERNANCE.md#proposal-process).
 
 ## Semantic Versioning

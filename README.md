@@ -49,3 +49,12 @@ To add the meetings to your e.g. Google calendar
 - 2 Nov 2020 - [The Power of GitOps with Flux & GitOps Toolkit - Part 2](https://www.meetup.com/GitOps-Community/events/273934676/)
 - 5 Nov 2020 - Philip Laine and Stefan Prodan will speak about ["Backstage and Flux v2" at Cloud Native Göteborg](https://www.meetup.com/TheCloudNativeGbg/events/273413291/)
 - 12-13 Nov 2020 - [GitOps Days EMEA](https://www.gitopsdays.com/) with talks and workshops on migrating to Flux v2 and Helm Controller
+
+## Communication
+
+- Join our upcoming [dev meetings](#meetings)
+- Talk to us in the #flux channel on [CNCF Slack](https://slack.cncf.io/)
+- Join the [planning discussions](https://github.com/fluxcd/flux2/discussions)
+- And if you are completely new to Flux and the GitOps Toolkit, take a look at our [Get Started guide](https://toolkit.fluxcd.io/get-started/) and give us feedback
+- To be part of the conversation about Flux's development, [join the flux-dev mailing list](https://lists.cncf.io/g/cncf-flux-dev).
+- Check out [how to contribute](CONTRIBUTING.md)
