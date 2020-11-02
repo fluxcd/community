@@ -30,13 +30,13 @@ See `git help commit`:
 
 ### CLI
 
-When signing commits with `git commit -s`, signoff is drawn automatically from your  `user.name` and `user.email` git configs.
-If you choose to manually add a signoff line to yoru commit message, it must be properly formatted and match your commit information. For example, when using the GitHub [private email option](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address) you must set your git config email accordingly.
+When signing commits with `git commit -s`, signoff is drawn automatically from your `user.name` and `user.email` git configs.
+If you choose to manually add a signoff line to your commit message, it must be properly formatted and match your commit information. For example, when using the GitHub [private email option](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address) you must set your git config email accordingly.
 For those who wish to ensure this is always done in your CLI, consider implementing something like [this gist](https://gist.github.com/scottrigby/0c043c0bfbbdb5949e2d824fc3adeaa4).
 
 ### Browser
 
-For contributions made with the GitHub UI — including [applying suggested changes](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request) — the [scottrigby/dco-gh-ui](https://github.com/scottrigby/dco-gh-ui) browser extention is recommended.
+For contributions made with the GitHub UI — including [applying suggested changes](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request) — the [scottrigby/dco-gh-ui](https://github.com/scottrigby/dco-gh-ui) browser extension is recommended.
 This pre-fills GitHub's commit textareas with a properly formatted signoff from your configured name and email.
 Otherwise, you will need to be sure to do so manually.
 
