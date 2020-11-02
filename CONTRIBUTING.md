@@ -21,7 +21,7 @@ For this reason, all code contributions must follow the Semantic Versioning 2.0.
 ## Certificate of Origin
 
 Developer Certificate of Origin (DCO) commit signoff is required for all new code contributions.
-This is automaically checked by the [Probot: DCO](https://github.com/probot/dco/) integration across all `fluxcd` GitHub org repositories.
+This is automatically checked by the [Probot: DCO](https://github.com/probot/dco/) integration across all `fluxcd` GitHub org repositories.
 
 Commit signoff is a simple statement that you, as a contributor, have the legal right to make the contribution.
 See `git help commit`:
