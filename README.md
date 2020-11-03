@@ -38,6 +38,7 @@ To add the meetings to your e.g. Google calendar
 
 ### Featured
 
+- 2 Nov 2020 - [The Power of GitOps with Flux & GitOps Toolkit - Part 2](https://youtu.be/fC2YCxQRUwU)
 - 19 Oct 2020 - [The Power of GitOps with Flux & GitOps Toolkit - Part 1](https://youtu.be/0v5bjysXTL8)
 - 12 Oct 2020 - [Rawkode Live: Introduction to GitOps Toolkit with Stefan Prodan](https://youtu.be/HqTzuOBP0eY)
 - 4 Sep 2020 - [KubeCon/CloudNativeCon Europe: The road to Flux v2 and Progressive Delivery with Stefan Prodan & Hidde Beydals](https://youtu.be/8v94nUkXsxU)
@@ -46,8 +47,7 @@ To add the meetings to your e.g. Google calendar
 
 ### Upcoming
 
-- 2 Nov 2020 - [The Power of GitOps with Flux & GitOps Toolkit - Part 2](https://www.meetup.com/GitOps-Community/events/273934676/)
-- 5 Nov 2020 - Philip Laine and Stefan Prodan will speak about ["Backstage and Flux v2" at Cloud Native Göteborg](https://www.meetup.com/TheCloudNativeGbg/events/273413291/)
+- 5 Nov 2020 - Philip Laine and Stefan Prodan will speak about [Flux v2 at Cloud Native Göteborg](https://www.meetup.com/TheCloudNativeGbg/events/273413291/)
 - 12-13 Nov 2020 - [GitOps Days EMEA](https://www.gitopsdays.com/) with talks and workshops on migrating to Flux v2 and Helm Controller
 
 ## Communication
