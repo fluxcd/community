@@ -14,11 +14,11 @@ We're very thankful for – and if desired happy to credit – security researc
 
 ## Security Team
 
-Crrent Security Team members:
+Current Security Team members:
 
 | Name | GitHub | Key URL | Fingerprint |
 | -- | -- | -- | -- |
-| Scott Rigby | [@scottrigby](https://github.com/scottrigby) | <https://keybase.io/r6by/pgp_keys.asc> | 208D D36E D5BB 3745 A167  43A4 C7C6 FBB5 B91C 1155 |
+| Scott Rigby | [@scottrigby](https://github.com/scottrigby) | <https://keybase.io/r6by/pgp_keys.asc> | 208D D36E D5BB 3745 A167 43A4 C7C6 FBB5 B91C 1155 |
 | Hidde Beydals | [@hiddeco](https://github.com/hiddeco) | <https://keybase.io/hidde/pgp_keys.asc> | C910 7A9B 55A4 DD77 062B 9731 B6E3 6A6A C54A CD59 |
 
 ## Handling
@@ -35,4 +35,4 @@ Vulnerability disclosures are emailed to the Flux Dev mailing list <https://list
 Disclosures will contain an overview, details about the vulnerability, a fix that will typically be an update, and optionally a workaround if one is available.
 
 We prefer to fully disclose the vulnerability as soon as possible once a user mitigation is available.
-Disclosures will be published on the same day as a release fixing the vulnerability after the release is published.
+Disclosures will be published on the same day as a release fixing the vulnerability, after the release is published.
