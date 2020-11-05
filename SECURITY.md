@@ -1,10 +1,10 @@
 # Flux Security
 
-This document <https://github.com/fluxcd/community/blob/main/SECURITY.md> defines security reporting, handling, and disclosure information for the Flux CNCF project and community.
+This document <https://github.com/fluxcd/community/blob/main/SECURITY.md> defines security reporting, handling, and disclosure information for the Flux project and community.
 
 ## Report a Vulnerability
 
-We're very thankful for – and if desired happy to credit – security researchers and users who report vulnerabilities to the Flux Community.
+We're very thankful for – and if desired happy to credit – security researchers and users who report vulnerabilities to the Flux community.
 
 - To make a report please email the private security list at <cncf-flux-security@lists.cncf.io> with the details.
   We ask that reporters act in good faith by not disclosing the issue to others.
@@ -23,7 +23,7 @@ Crrent Security Team members:
 
 ## Handling
 
-- All reports are thoroughly investigated by the Flux security team.
+- All reports are thoroughly investigated by the Security Team.
 - Any vulnerability information shared with the Security Team will not be shared with others unless it is necessary to fix the issue.
   Information is shared only on a need to know basis.
 - As the security issue moves through the identification and resolution process, the reporter will be notified.
