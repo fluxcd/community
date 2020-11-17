@@ -17,7 +17,9 @@ As opposed to defining a big overarching burden of responsibilities the team wou
 
 Starting off the team are
 
-- Daniel Holbach, `@dholbach`, Weaveworks
-- Scott Rigby, `@scottrigby`, Weaveworks
+| Name           | Slack handle  | Github handle | Affiliation |
+| -------------- | ------------- | ------------- | ----------- |
+| Daniel Holbach | `@dholbach`   | `@dholbach`   | Weaveworks  |
+| Scott Rigby    | `@scottrigby` | `@scottrigby` | Weaveworks  |
 
-Talk to us in `#flux` on [Slack](https://slack.cncf.io) and let us know if you're interested in contributing. We would love to have you part of the team.
+Talk to us in [`#flux`](https://cloud-native.slack.com/archives/flux) on [Slack](https://slack.cncf.io) and let us know if you're interested in contributing. We would love to have you part of the team.
