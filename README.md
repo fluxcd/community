@@ -8,6 +8,18 @@ Started 2016 to automate deployments at Weaveworks, the project has grown dramat
 
 The Flux community is governed by the [governance document](GOVERNANCE.md). We as a community follow the [code of conduct](CODE_OF_CONDUCT.md).
 
+## Teams
+
+Up until we started defining governance the Flux project had implicit teams only - if at all. In reality we all were one big team. Of course every contributing member of the community had their own area of interest and motivation.
+
+We are in the process of slowly formalising some team structures apart from "interest in one or more given sub-project(s)". There currently are
+
+- The [Oversight committee](GOVERNANCE.md#oversight-committee)
+- The [Security team](SECURITY.md)
+- The [Community team](COMMUNITY.md)
+
+All projects and teams are open to contributors and every part of the Flux project appreciates your help and consideration. Check out the links above to learn more about the team in question.
+
 ## Meetings
 
 We run regular meetings and discuss things there. We are very happy if new users, contributors and developers join and we can put names to faces.
