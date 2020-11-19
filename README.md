@@ -8,6 +8,18 @@ Started 2016 to automate deployments at Weaveworks, the project has grown dramat
 
 The Flux community is governed by the [governance document](GOVERNANCE.md). We as a community follow the [code of conduct](CODE_OF_CONDUCT.md).
 
+## Teams
+
+Up until we started defining governance the Flux project had implicit teams only - if at all. In reality we all were one big team. Of course every contributing member of the community had their own area of interest and motivation.
+
+We are in the process of slowly formalising some team structures apart from "interest in one or more given sub-project(s)". There currently are
+
+- The [Oversight committee](GOVERNANCE.md#oversight-committee)
+- The [Security team](SECURITY.md)
+- The [Community team](COMMUNITY.md)
+
+All projects and teams are open to contributors and every part of the Flux project appreciates your help and consideration. Check out the links above to learn more about the team in question.
+
 ## Meetings
 
 We run regular meetings and discuss things there. We are very happy if new users, contributors and developers join and we can put names to faces.
@@ -38,17 +50,14 @@ To add the meetings to your e.g. Google calendar
 
 ### Featured
 
+- 12-13 Nov 2020 - [GitOps Days EMEA](https://www.gitopsdays.com/) with talks and workshops on migrating to Flux v2 and Helm Controller
+- 5 Nov 2020 - Philip Laine and Stefan Prodan will speak about [Flux v2 at Cloud Native Göteborg](https://www.meetup.com/TheCloudNativeGbg/events/273413291/)
 - 2 Nov 2020 - [The Power of GitOps with Flux & GitOps Toolkit - Part 2](https://youtu.be/fC2YCxQRUwU)
 - 19 Oct 2020 - [The Power of GitOps with Flux & GitOps Toolkit - Part 1](https://youtu.be/0v5bjysXTL8)
 - 12 Oct 2020 - [Rawkode Live: Introduction to GitOps Toolkit with Stefan Prodan](https://youtu.be/HqTzuOBP0eY)
 - 4 Sep 2020 - [KubeCon/CloudNativeCon Europe: The road to Flux v2 and Progressive Delivery with Stefan Prodan & Hidde Beydals](https://youtu.be/8v94nUkXsxU)
 - 25 June 2020 - [Cloud Native Nordics: Introduction to GitOps & GitOps Toolkit with Alexis Richardson & Stefan Prodan](https://youtu.be/qQBtSkgl7tI)
 - 7 May 2020 - [GitOps Days - Community Special: GitOps Toolkit Experimentation with Stefan Prodan](https://youtu.be/WHzxunv4DKk?t=6521)
-
-### Upcoming
-
-- 5 Nov 2020 - Philip Laine and Stefan Prodan will speak about [Flux v2 at Cloud Native Göteborg](https://www.meetup.com/TheCloudNativeGbg/events/273413291/)
-- 12-13 Nov 2020 - [GitOps Days EMEA](https://www.gitopsdays.com/) with talks and workshops on migrating to Flux v2 and Helm Controller
 
 ## Communication
 
