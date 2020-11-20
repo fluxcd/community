@@ -13,6 +13,32 @@ As opposed to defining a big overarching burden of responsibilities the team wou
   - Slack
 - Oversight of [this repository](https://github.com/fluxcd/community).
 
+### Communications
+
+We as a project want to make it a priority to inform our community and the wider world of developments well. It's what helps new contributors get up to speed, enables collaboration, integrations and more.
+
+Part of our team wants to own comms on
+
+- Slack: [#flux](https://cloud-native.slack.com/archives/flux), [#gitops](https://kubernetes.slack.com/archives/gitops), likely more to follow
+- the `cncf-flux-dev` [project mailing list](https://lists.cncf.io/g/cncf-flux-dev)
+- [our blog](https://github.com/fluxcd/website/issues/27) (WIP)
+- Twitter (WIP)
+- [LinkedIn](https://www.linkedin.com/groups/8985374/)
+- [Kubernetes Discuss - Ecosystem forum](https://discuss.kubernetes.io/c/announcements/announcements-eco)
+
+This means that the team will figure out what kind of news should go where (process still TBD) and execute in a timely fashion.
+
+### How to use this
+
+#### As a maintainer or contributor
+
+Add news-worthy items to our [planning spreadsheet](https://docs.google.com/spreadsheets/d/1hPV3qJ95I_RKPyeo3zUJOPrHc0LNeSlP3f9fjXTen-c/edit#gid=0) - ask for editing permissions if necessary. Ping any of the folks at the bottom of this page, if urgent.
+
+#### As comms team member
+
+1. Check the [comms planning spreadsheet](https://docs.google.com/spreadsheets/d/1hPV3qJ95I_RKPyeo3zUJOPrHc0LNeSlP3f9fjXTen-c/edit#gid=0) and see if there are items that still need doing.
+1. We would like to get monthly updates out to our community, so writing up the post, getting quotes from relevant people, etc is of importance to us. Check the ["Monthly Updates" folder](https://drive.google.com/drive/u/0/folders/1-vODozxyaDruofIWfnrY8hFr2xauFatf) and please help getting things ready for the end of the month.
+
 ## Contacts and how to join
 
 Starting off the team are
