@@ -27,7 +27,7 @@ Part of our team wants to own comms on
   + [#gitops](https://kubernetes.slack.com/archives/gitops)
 - Social media
   + [LinkedIn](https://www.linkedin.com/groups/8985374/)
-  + Twitter (WIP)
+  + [Twitter @fluxcd](https://twitter.com/fluxcd)
 - [Kubernetes Discuss: Ecosystem forum](https://discuss.kubernetes.io/c/announcements/announcements-eco)
 
 This means that the team will figure out what kind of news should go where (process still TBD) and execute in a timely fashion.
