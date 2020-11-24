@@ -20,7 +20,7 @@ Currently on our agenda are:
 We as a project want to make it a priority to inform our community and the wider world of developments well.
 It's what helps new contributors get up to speed, enables collaboration, integrations and more.
 
-Part of our team wants to own comms on:
+The Community team helps with communication channels, including:
 
 - The `cncf-flux-dev` [project mailing list](https://lists.cncf.io/g/cncf-flux-dev)
 - [Our blog](https://github.com/fluxcd/website/issues/27) (WIP)
