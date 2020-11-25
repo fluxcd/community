@@ -1,12 +1,14 @@
 # The Flux Community Team
 
-The wider Flux community identified work that falls into the categories of contributor experience, advocacy and communications, community management as integral to its success long ago. While this has been an implicit focus of the team for a while, we want to build out the team, open it up and formalise processes.
+The wider Flux community identified work that falls into the categories of contributor experience, advocacy and communications, community management as integral to its success long ago.
+While this has been an implicit focus of the team for a while, we want to build out the team, open it up and formalise processes.
 
 ## Responsibilities
 
 As opposed to defining a big overarching burden of responsibilities the team would have a hard time to actually realise, we want to slowly and carefully add tasks as we build out the team.
 
-- **Project communications** the process for this needs to be formalised still, but we would like to provide a simple and scalable process for all Flux sub-projects to report their progress to the world. Currently on our agenda are:
+- **Project communications** the process for this needs to be formalised still, but we would like to provide a simple and scalable process for all Flux sub-projects to report their progress to the world.
+Currently on our agenda are:
   - Monthly blog post
   - Social media
   - Mailing list
@@ -18,16 +20,16 @@ As opposed to defining a big overarching burden of responsibilities the team wou
 We as a project want to make it a priority to inform our community and the wider world of developments well.
 It's what helps new contributors get up to speed, enables collaboration, integrations and more.
 
-Part of our team wants to own comms on
+The Community team helps with communication channels, including:
 
 - The `cncf-flux-dev` [project mailing list](https://lists.cncf.io/g/cncf-flux-dev)
 - [Our blog](https://github.com/fluxcd/website/issues/27) (WIP)
 - Slack (likely more to follow)
-  + [#flux](https://cloud-native.slack.com/archives/flux)
-  + [#gitops](https://kubernetes.slack.com/archives/gitops)
+  - [#flux](https://cloud-native.slack.com/archives/flux)
+  - [#gitops](https://kubernetes.slack.com/archives/gitops)
 - Social media
-  + [LinkedIn](https://www.linkedin.com/groups/8985374/)
-  + Twitter (WIP)
+  - [LinkedIn](https://www.linkedin.com/groups/8985374/)
+  - [Twitter @fluxcd](https://twitter.com/fluxcd)
 - [Kubernetes Discuss: Ecosystem forum](https://discuss.kubernetes.io/c/announcements/announcements-eco)
 
 This means that the team will figure out what kind of news should go where (process still TBD) and execute in a timely fashion.
