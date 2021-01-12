@@ -1,14 +1,35 @@
-# Flux community
+# Joining the Flux community
 
-The [Flux project](https://github.com/fluxcd) aspires to be a vendor-neutral home for GitOps in a Cloud Native world.
+We want the [Flux project](https://github.com/fluxcd) to be the vendor-neutral home for GitOps in a Cloud Native world.
 
-Started 2016 to automate deployments at Weaveworks, the project has grown dramatically since then. Especially since the planning of Flux v2 and GitOps Toolkit SDK it became clearer that the scope became more ambitious and that the Flux project has become the home for the Flux family of projects, all solving specific GitOps needs.
+Started 2016 to automate deployments at Weaveworks, the project has grown dramatically since then. Especially since the planning of Flux v2 and GitOps Toolkit SDK it was clearer that the scope became more ambitious and that the Flux project has become the home for the Flux family of projects, all solving specific GitOps needs.
 
-## Rules
+We also want our community to be diverse, helpful, collaborative and a fun place to be, so we would love to have you join us!
 
-The Flux community is governed by the [governance document](GOVERNANCE.md). We as a community follow the [code of conduct](CODE_OF_CONDUCT.md).
+## Getting involved
 
-## Teams
+### Finding your interest
+
+To get started, it's important you find out which parts of Flux you are interested in first.
+
+Currently stable:
+
+- Flux v1: <https://github.com/fluxcd/flux)>
+- As a Helm user: <https://github.com/fluxcd/helm-operator> (v1)
+- If you are interested in progressive delivery, e.g. blue-green testing, etc. <https://github.com/fluxcd/flagger>
+
+V2 - soon to replace all v1 projects:
+
+- Flux v2: <https://github.com/fluxcd/flux2>
+- As a Helm user: <https://github.com/fluxcd/helm-controller>
+
+And there is loads more under <https://github.com/fluxcd>, we all work on this as a community together.
+
+### Joining the community
+
+All the projects have docs to help you get started, so a first step is obviously using the projects and getting some first-hand experience. Afterwards you can help out on Slack answering questions, maybe extend the docs or fix some small issues.
+
+### Teams
 
 Up until we started defining governance the Flux project had implicit teams only - if at all. In reality we all were one big team. Of course every contributing member of the community had their own area of interest and motivation.
 
@@ -20,7 +41,7 @@ We are in the process of slowly formalising some team structures apart from "int
 
 All projects and teams are open to contributors and every part of the Flux project appreciates your help and consideration. Check out the links above to learn more about the team in question.
 
-## Meetings
+### Meetings
 
 We run regular meetings and discuss things there. We are very happy if new users, contributors and developers join and we can put names to faces.
 
@@ -33,7 +54,7 @@ We run regular meetings and discuss things there. We are very happy if new users
 
 We are looking forward to seeing you there.
 
-### Subscribing to the flux-dev calendar
+#### Subscribing to the flux-dev calendar
 
 To add the meetings to your e.g. Google calendar
 
@@ -68,3 +89,7 @@ To add the meetings to your e.g. Google calendar
 - To be part of the conversation about Flux's development, [join the flux-dev mailing list](https://lists.cncf.io/g/cncf-flux-dev).
 - Social media: Follow [Flux on Twitter](https://twitter.com/fluxcd), join the discussion in the [Flux LinkedIn group](https://www.linkedin.com/groups/8985374/).
 - Check out [how to contribute](CONTRIBUTING.md)
+
+## Rules
+
+The Flux community is governed by the [governance document](GOVERNANCE.md). We as a community follow the [code of conduct](CODE_OF_CONDUCT.md).
