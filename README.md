@@ -69,11 +69,20 @@ To add the meetings to your e.g. Google calendar
 
 ## Talks
 
+### Upcoming
+
+- 25 Jan 2021 - [GitOps Core Concepts & How to Teach Your Teams with Leigh Capili](https://www.meetup.com/GitOps-Community/events/275625806/)
+
 ### Featured
 
+- 11 Jan 2021 - [Helm + GitOps = ⚡️⚡️⚡️ with Scott Rigby](https://www.meetup.com/GitOps-Community/events/275348736/)
+- 14 Dec 2020 - [The Power of GitOps with Flux and Flagger (GitOps Hands-On) with Leigh Capili](https://youtu.be/cB7iXeNLteE)
+- 30 Nov 2020 - [The Power of GitOps with Flux 2 - Part 3 with Leigh Capili](https://youtu.be/N_K5g7o9JKg)
+- 24 Nov 2020 - [Flux CD v2 with GitOps Toolkit - Kubernetes Deployment and Sync Mechanism](https://youtu.be/R6OeIgb7lUI)
 - 12-13 Nov 2020 - [GitOps Days EMEA](https://www.gitopsdays.com/) with talks and workshops on migrating to Flux v2 and Helm Controller
 - 5 Nov 2020 - Philip Laine and Stefan Prodan will speak about [Flux v2 at Cloud Native Göteborg](https://www.meetup.com/TheCloudNativeGbg/events/273413291/)
 - 2 Nov 2020 - [The Power of GitOps with Flux & GitOps Toolkit - Part 2](https://youtu.be/fC2YCxQRUwU)
+- 28 Oct 2020 - [The Kubelist Podcast: Flux with Michael Bridgen](https://www.heavybit.com/library/podcasts/the-kubelist-podcast/ep-5-flux-with-michael-bridgen-of-weaveworks/)
 - 19 Oct 2020 - [The Power of GitOps with Flux & GitOps Toolkit - Part 1](https://youtu.be/0v5bjysXTL8)
 - 12 Oct 2020 - [Rawkode Live: Introduction to GitOps Toolkit with Stefan Prodan](https://youtu.be/HqTzuOBP0eY)
 - 4 Sep 2020 - [KubeCon/CloudNativeCon Europe: The road to Flux v2 and Progressive Delivery with Stefan Prodan & Hidde Beydals](https://youtu.be/8v94nUkXsxU)
