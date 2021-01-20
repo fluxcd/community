@@ -14,7 +14,7 @@ To get started, it's important you find out which parts of Flux you are interest
 
 Currently stable:
 
-- Flux v1: <https://github.com/fluxcd/flux)>
+- Flux v1: <https://github.com/fluxcd/flux>
 - As a Helm user: <https://github.com/fluxcd/helm-operator> (v1)
 - If you are interested in progressive delivery, e.g. blue-green testing, etc. <https://github.com/fluxcd/flagger>
 
