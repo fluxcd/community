@@ -6,7 +6,7 @@ You might still run into issues. This page is meant to be a guide to help you fi
 
 ## Documentation for individual Flux projects
 
-Implementing GitOps or any *Ops is a process which involves many layers and technologies. We therefore place a lot of importance on encoding shared knowledge and best practices in our documentation.
+Implementing GitOps or any \*Ops is a process which involves many layers and technologies. We therefore place a lot of importance on encoding shared knowledge and best practices in our documentation.
 
 To be mindful of everybody's time, please make sure you checked and followed the documentation before filing issues, below find good entry points to our documentation:
 
@@ -38,11 +38,27 @@ If all of this sounds like we're putting you off, that's not how this is meant. 
 
 ### Consider this
 
-```txt
-TODO:
-- clearly what the limits of community support are
-- which venue is approrpriate for which enquiry
-```
+Support for FluxCD users and community is mostly provided by volunteers, who are all on equal footing as peers in the FluxCD community. This implies that (free) support is provided on a best-effort basis, with no SLA or quality-of-service guarantee.
+
+[Best-effort delivery](https://en.wikipedia.org/wiki/Best-effort_delivery) is explained on Wikipedia in terms of a "**best-effort network**, [on which] all users obtain best-effort service. Under best-effort, network performance characteristics such as network delay and packet loss depend on the current network traffic load."
+
+Similar to a best-effort network, the capacity for our community as a whole to provide quality support for community members, and a welcoming environment for all contributors, depends heavily on the grace and good behavior of individual community members.
+
+You can help ensure a higher quality of best-effort support by formulating inquiries thoughtfully and making a considerate effort to place them in the most appropriate venue.
+
+Here are some guidelines about which venue makes the most sense:
+
+| Form of inquiry                                             | Venue                 |
+| ------------------------------------------------------------| --------------------- |
+| Something is not working as intended / I found a bug        | [Issue](https://github.com/fluxcd/flux2/issues) |
+| A feature is too limited for my `<use-case>`                | Discussion ([General](https://github.com/fluxcd/flux2/discussions/categories/general)) |
+| I want Flux to be able to do `<x>`                          | Discussion ([Proposal](https://github.com/fluxcd/flux2/discussions/categories/proposals)) |
+| Something is not working, (but I am not sure if I am doing it right) | Discussion ([Q&A](https://github.com/fluxcd/flux2/discussions/categories/q-a)) |
+| Quick question                                              | [#flux][] on [CNCF Slack][] |
+
+Bearing in mind that Issues and [Discussions](https://github.com/fluxcd/flux2/discussions) are more permanent and searchable than Slack conversations, we can avoid unduly expending finite community resources by searching before asking. If you are not exactly sure how to ask your question or otherwise daunted by the idea of permanence, visitors are always welcome in [#flux][] on the [CNCF Slack][].
+
+If your needs are more urgent, more broadly demanding, or more persistent than the best-effort community support resources can provide, you may also consider [a paid support option](#my-employer-needs-additional-help).
 
 ## Community Help Resources
 
@@ -73,3 +89,6 @@ Luckily some of the companies who employ Flux developers offer paid support, so 
 *Flux is a CNCF project, so this "paid support" section is not tied to any single company in particular. If you want to add your company to the list, please file a PR and tag the [Flux Oversight Committee](https://github.com/fluxcd/community/blob/main/GOVERNANCE.md#oversight-committee).*
 
 *If your company has a track record of Flux engineering and/or support we will get you added.*
+
+[#flux]: https://cloud-native.slack.com/archives/CLAJ40HV3
+[CNCF Slack]: https://slack.cncf.io/
