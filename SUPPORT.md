@@ -70,13 +70,33 @@ If you made sure you encountered an actual issue, we definitely want to hear abo
 
 Here's how to proceed:
 
-1. Check [Github](https://github.com/fluxcd)
+1. Check [Github](https://github.com/fluxcd) to locate the correct project
 
-```txt
-TODO:
-- how to submit clear information if you really found an issue
-- figure out which project under `fluxcd` to file the issue on
-```
+Many FluxCD projects and project facets are maintained by different code owners under separate repositories, and filing your issue under the correct repository can better ensure that relevant maintainers are notified.
+
+#### Flux core projects (in active development):
+* [flux2](https://github.com/fluxcd/flux2) - the main Flux project repository (current version)
+* [source-controller](https://github.com/fluxcd/source-controller) - much of the functionality of Flux v2 belongs to one of these controllers...
+* [kustomize-controller](https://github.com/fluxcd/kustomize-controller) - ...
+* [helm-controller](https://github.com/fluxcd/helm-controller) - replaces Helm Operator
+* [notification-controller](https://github.com/fluxcd/notification-controller) - ...
+* [image-reflector-controller](https://github.com/fluxcd/image-reflector-controller) - ...
+* [image-automation-controller](https://github.com/fluxcd/image-automation-controller) - ... (/one of these controllers)
+* [flagger](https://github.com/fluxcd/flagger) - the progressive delivery tool
+
+#### Project documentation:
+* [website](https://github.com/fluxcd/website) - the project's landing page at <https://fluxcd.io>
+* [community](https://github.com/fluxcd/community) - this page!
+
+#### Stable Flux repositories (in maintenance mode):
+* [flux (v1)](https://github.com/fluxcd/flux)
+* [helm-operator](https://github.com/fluxcd/helm-operator)
+
+2. Check the issue template and include any requested information
+
+For example, the [flux2 repo issue template](https://github.com/fluxcd/flux2/issues/new) requests the output of `flux check` and `flux version`. If you are using an older version of the project, review the release notes from later versions to be sure your issue has not already been resolved. Also check for other issue reports, as if your issue was already reported, this can help avoid duplicate reports.
+
+Any relevant information depending on your specific issue should also be included, like your Kubernetes cluster version and/or cloud provider; or for example if you are reporting an issue related to image automation, tell what type of image hosting is used, or what container registry provider hosts your cluster's images.
 
 ## My employer needs additional help
 
