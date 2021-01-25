@@ -38,7 +38,7 @@ If all of this sounds like we're putting you off, that's not how this is meant. 
 
 ### Consider this
 
-Support for FluxCD users and community is mostly provided by volunteers, who are all on equal footing as peers in the FluxCD community. This implies that (free) support is provided on a best-effort basis, with no SLA or quality-of-service guarantee.
+Support for Flux users and community is mostly provided by volunteers, who are all on equal footing as peers in the Flux community. This implies that (free) support is provided on a best-effort basis, with no SLA or quality-of-service guarantee.
 
 [Best-effort delivery](https://en.wikipedia.org/wiki/Best-effort_delivery) is explained on Wikipedia in terms of a "**best-effort network**, [on which] all users obtain best-effort service. Under best-effort, network performance characteristics such as network delay and packet loss depend on the current network traffic load."
 
@@ -72,7 +72,7 @@ Here's how to proceed:
 
 1. Check [Github](https://github.com/fluxcd) to locate the correct project
 
-Many FluxCD projects and project facets are maintained by different code owners under separate repositories, and filing your issue under the correct repository can better ensure that relevant maintainers are notified.
+Many Flux projects and project facets are maintained by different code owners under separate repositories, and filing your issue under the correct repository can better ensure that relevant maintainers are notified.
 
 #### Flux core projects (in active development):
 * [flux2](https://github.com/fluxcd/flux2) - the main Flux project repository (current version)
