@@ -76,13 +76,13 @@ Many Flux projects and project facets are maintained by different code owners un
 
 #### Flux core projects (in active development):
 * [flux2](https://github.com/fluxcd/flux2) - the main Flux project repository (current version)
-* [source-controller](https://github.com/fluxcd/source-controller) - much of the functionality of Flux v2 belongs to one of these controllers...
-* [kustomize-controller](https://github.com/fluxcd/kustomize-controller) - ...
-* [helm-controller](https://github.com/fluxcd/helm-controller) - replaces Helm Operator
-* [notification-controller](https://github.com/fluxcd/notification-controller) - ...
-* [image-reflector-controller](https://github.com/fluxcd/image-reflector-controller) - ...
-* [image-automation-controller](https://github.com/fluxcd/image-automation-controller) - ... (/one of these controllers)
-* [flagger](https://github.com/fluxcd/flagger) - the progressive delivery tool
+* [source-controller](https://github.com/fluxcd/source-controller) - handles artifacts acquisition from external sources such as Git, Helm repositories and S3 buckets.
+* [kustomize-controller](https://github.com/fluxcd/kustomize-controller) - runs continuous delivery pipelines defined with Kubernetes manifests and assembled with Kustomize.
+* [helm-controller](https://github.com/fluxcd/helm-controller) - declaratively manages Helm chart releases (the successor to Helm Operator from Flux v1).
+* [notification-controller](https://github.com/fluxcd/notification-controller) - event forwarder and notification dispatcher.
+* [image-reflector-controller](https://github.com/fluxcd/image-reflector-controller) - scans container image repositories and reflects the metadata in Kubernetes resources. Pairs with the image update automation controller to drive automated config updates.
+* [image-automation-controller](https://github.com/fluxcd/image-automation-controller) - automates updates to Git when new container images are available.
+* [flagger](https://github.com/fluxcd/flagger) - the progressive delivery tool, reduces the risk of introducing a new software version in production by gradually shifting traffic to the new version while measuring metrics and running conformance tests.
 
 #### Project documentation:
 * [website](https://github.com/fluxcd/website) - the project's landing page at <https://fluxcd.io>
