@@ -94,7 +94,7 @@ Many Flux projects and project facets are maintained by different code owners un
 
 2. Check the issue template and include any requested information
 
-For example, the [flux2 repo issue template](https://github.com/fluxcd/flux2/issues/new) requests the output of `flux check` and `flux version`. If you are using an older version of the project, review the release notes from later versions to be sure your issue has not already been resolved. Also check for other issue reports, as if your issue was already reported, this can help avoid duplicate reports.
+For example, the [flux2 repo issue template](https://github.com/fluxcd/flux2/issues/new) requests the output of `flux check` and `flux --version`. If you are using an older version of the project, review the release notes from later versions to be sure your issue has not already been resolved. Also check for other issue reports, as if your issue was already reported, this can help avoid duplicate reports.
 
 Any relevant information depending on your specific issue should also be included, like your Kubernetes cluster version and/or cloud provider; or for example if you are reporting an issue related to image automation, tell what type of image hosting is used, or what container registry provider hosts your cluster's images.
 
