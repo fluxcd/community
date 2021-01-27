@@ -71,11 +71,11 @@ To add the meetings to your e.g. Google calendar
 
 ### Upcoming
 
-- 25 Jan 2021 - [GitOps Core Concepts & How to Teach Your Teams with Leigh Capili](https://www.meetup.com/GitOps-Community/events/275625806/)
 - 8 Feb 2021 - [Fluxv2 Image Update Automation Sneak Peak with Leigh Capili](https://www.meetup.com/GitOps-Community/events/275745174/)
 
 ### Featured
 
+- 25 Jan 2021 - [GitOps Core Concepts & How to Teach Your Teams with Leigh Capili](https://youtu.be/nWN1F6bsuqc)
 - 11 Jan 2021 - [Helm + GitOps = ⚡️⚡️⚡️ with Scott Rigby](https://youtu.be/YG8jMFrYQvM)
 - 14 Dec 2020 - [The Power of GitOps with Flux and Flagger (GitOps Hands-On) with Leigh Capili](https://youtu.be/cB7iXeNLteE)
 - 30 Nov 2020 - [The Power of GitOps with Flux 2 - Part 3 with Leigh Capili](https://youtu.be/N_K5g7o9JKg)
