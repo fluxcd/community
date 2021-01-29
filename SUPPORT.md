@@ -103,6 +103,7 @@ Any relevant information depending on your specific issue should also be include
 Luckily some of the companies who employ Flux developers offer paid support, so if you need an architecture review, training or help implementing certain features, you might want to reach out to the following companies:
 
 - Weaveworks: <https://www.weave.works/contact/>
+- Xenit: <https://xenit.se/contact/>
 
 ---
 
