@@ -70,10 +70,11 @@ To add the meetings to your e.g. Google calendar
 ## Talks
 
 ### Upcoming
+- 8 Mar 2021 - [Migrating from Flux v1 to Flux v2 with Leigh Capili](https://www.meetup.com/GitOps-Community/events/276539791/)
 
-- 22 Feb 2021 - [Manage Kubernetes Secrets with Mozilla SOPS & Flux](https://www.meetup.com/GitOps-Community/events/276169693/)
 
 ### Featured
+- 22 Feb 2021 - [Manage Kubernetes Secrets with Mozilla SOPS & Flux](https://youtu.be/8pbdXAd-F44)
 - 8 Feb 2021 - [Fluxv2 Image Update Automation Sneak Peak with Leigh Capili](https://youtu.be/WnVTY9KQXE0)
 - 25 Jan 2021 - [GitOps Core Concepts & How to Teach Your Teams with Leigh Capili](https://youtu.be/nWN1F6bsuqc)
 - 11 Jan 2021 - [Helm + GitOps = ⚡️⚡️⚡️ with Scott Rigby](https://youtu.be/YG8jMFrYQvM)
