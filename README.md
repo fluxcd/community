@@ -71,6 +71,8 @@ To add the meetings to your e.g. Google calendar
 
 ### Upcoming
 - 8 Mar 2021 - [Migrating from Flux v1 to Flux v2 with Leigh Capili](https://www.meetup.com/GitOps-Community/events/276539791/)
+- 22 Mar 2021 - [GitOps Hands-On Patterns for Helm Users with Scott Rigby](https://www.meetup.com/GitOps-Community/events/276582596/)
+- 19 Apr 2021 - [Setting Up Notifications, Alerts, & Webhooks with Alison Dowdney](https://www.meetup.com/GitOps-Community/events/276582835/)
 
 
 ### Featured
