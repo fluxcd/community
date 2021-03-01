@@ -46,7 +46,7 @@ All projects and teams are open to contributors and every part of the Flux proje
 We run regular meetings and discuss things there. We are very happy if new users, contributors and developers join and we can put names to faces.
 
 - **Meeting times**
-  - "early" meeting: Uneven weeks: Wed, 10:00 UTC
+  - "early" meeting: Uneven weeks: Wed, 12:00 UTC
   - "late" meeting: Even weeks: Thu, 15:00 UTC
 - **Agenda and minutes**: <https://docs.google.com/document/d/1l_M0om0qUEN_NNiGgpqJ2tvsF2iioHkaARDeh6b70B0/edit>
 - **Flux calendar:** <https://lists.cncf.io/g/cncf-flux-dev/calendar>
