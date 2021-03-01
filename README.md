@@ -46,7 +46,7 @@ All projects and teams are open to contributors and every part of the Flux proje
 We run regular meetings and discuss things there. We are very happy if new users, contributors and developers join and we can put names to faces.
 
 - **Meeting times**
-  - "early" meeting: Uneven weeks: Wed, 10:00 UTC
+  - "early" meeting: Uneven weeks: Wed, 12:00 UTC
   - "late" meeting: Even weeks: Thu, 15:00 UTC
 - **Agenda and minutes**: <https://docs.google.com/document/d/1l_M0om0qUEN_NNiGgpqJ2tvsF2iioHkaARDeh6b70B0/edit>
 - **Flux calendar:** <https://lists.cncf.io/g/cncf-flux-dev/calendar>
@@ -70,10 +70,11 @@ To add the meetings to your e.g. Google calendar
 ## Talks
 
 ### Upcoming
+
 - 8 Mar 2021 - [Migrating from Flux v1 to Flux v2 with Leigh Capili](https://www.meetup.com/GitOps-Community/events/276539791/)
 
-
 ### Featured
+
 - 22 Feb 2021 - [Manage Kubernetes Secrets with Mozilla SOPS & Flux](https://youtu.be/8pbdXAd-F44)
 - 8 Feb 2021 - [Fluxv2 Image Update Automation Sneak Peak with Leigh Capili](https://youtu.be/WnVTY9KQXE0)
 - 25 Jan 2021 - [GitOps Core Concepts & How to Teach Your Teams with Leigh Capili](https://youtu.be/nWN1F6bsuqc)
