@@ -7,10 +7,6 @@ This document <https://github.com/fluxcd/community/blob/main/GOVERNANCE.md> defi
 - [Values](#values)
   - [Code of Conduct](#code-of-conduct)
 - [Roles in the Flux Community](#roles-in-the-flux-community)
-  - [Users](#users)
-  - [Contributors](#contributors)
-  - [Maintainers](#maintainers)
-  - [Oversight Committee](#oversight-committee)
 - [Decision Making](#decision-making)
   - [Deciders](#deciders)
   - [Decision Guidelines](#decision-guidelines)
@@ -40,53 +36,7 @@ If no conclusion can be reached in meditation, such issues can be escalated to t
 
 ## Roles in the Flux Community
 
-The Flux community comprises the following roles:
-
-### Users
-
-Flux end users are the most important aspect of the community, without whom the project would have no purpose. Users are anyone who has a need for the project.
-Apart from following the Code of Conduct, there are no special requirements.
-
-### Contributors
-
-Flux welcomes all kinds of contributions, including code, issues, documentation, external tools, advocacy and community work.
-As a contributor we want to invite you to join the discussions in a variety of forums laid out in <https://github.com/fluxcd/community>.
-
-### Maintainers
-
-Maintainers are elected Contributors who showed significant and sustained contributions in a Git repository.
-Current Maintainers are listed in a `MAINTAINERS` file at the root of the Git repository.
-
-Maintainers are expected to:
-
-- Enable and promote Flux community values
-- Engage with end Users through appropriate communication channels
-- Serve as a point of conflict resolution between Contributors to their Git repository
-- Maintain open collaboration with Contributors and other Maintainers
-- Ask for help when unsure and step down considerately
-
-Maintainers will be invited to the `@fluxcd/maintainers` <https://github.com/orgs/fluxcd/teams/maintainers> team, and are members of this team for as long as they are involved with the project.
-
-### Oversight Committee
-
-This committee is responsible for the overall project, and anything not easily managed by the Maintainers of each Git repository. Including:
-
-- Overseeing the project health and growth
-- Maintaining the brand, mission, vision, values, and scope of the overall project
-- Changes to licensing and intellectual property
-- Administering access to all project assets
-- Administering Git repositories as needed
-- Handling Code of Conduct violations
-- Managing financial decisions
-- Defining the scope of each Git repository
-- Resolving escalated decisions when Maintainers responsible are blocked
-
-Ultimately the committee - after consulting with the collective of Maintainers and their community - drive the direction, values and governance of the overall project.
-
-This committee will initially be comprised of Flux Maintainers who have steered the project prior to this initial Governance document.
-The aspiration is no one company or organization should have oversight of the overall project, however that is not yet realistic at this stage. The goal is to broaden maintainership to include a wider range of organizations during CNCF incubation.
-
-Oversight Committee members are publicly listed in the `@fluxcd/oversight-committee` <https://github.com/orgs/fluxcd/teams/oversight-committee> GitHub team.
+See [community-roles.md](community-roles.md)
 
 ## Decision Making
 
