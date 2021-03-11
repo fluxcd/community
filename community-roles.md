@@ -1,12 +1,12 @@
 # Community Roles
 
-This doc outlines the various responsibilities of community roles in Flux.
-
+This document outlines the different roles within the project, along with the responsibilites and privileges that come with them.
 
 | Role                | Responsibilities                                                 | Requirements                                                                                                            | Defined by                                |
 |---------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | User                | Anyone who has a need for the project                            | N/A                                                                                                                     | N/A                                       |
-| Member              | Active contributor in the community                              | Sponsored by 2 maintainers, 1 Oversight Committee member and multiple contributions to a project                        | Flux org Member                           |
+| Community Member    | Participates in community                                        | N/A
+| Contributor              | Active contributor in the community                              | Sponsored by 2 maintainers, 1 Oversight Committee member and multiple contributions to a project                        | Flux org Member                           |
 | Maintainer          | Highly experienced, Active reviewer and contributor to a project | Unanimity from current maintainers, History of significant and substained contributions in a git repository             | Maintainers file entry                    |
 | Oversight Committee | Set direction and priorities of a project                        | Unanimity from current committee members, Flux maintainer who has steered project prior to Governance doc being founded | Member of oversight committee GitHub team |
 
@@ -14,9 +14,16 @@ This doc outlines the various responsibilities of community roles in Flux.
 
 Flux end users are the most important aspect of the community, without whom the project would have no purpose. Users are anyone who has a need for the project. Apart from following the Code of Conduct, there are no special requirements.
 
-## Member
+## Community Member
 
-Members are continuously active contributors in the community.
+A community member participates in the community and contributes their time, thoughts, etc. Users are anonymous users of the project - once they stop being anonymous and participate, they become a community member.
+
+### Responsibilities
+- Must follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
+
+## Contributor
+
+A contributor contributes directly to the project and adds value to it, making the maintainers' lives easier.
 
 **Defined by:** Member of the Flux GitHub organization
 
@@ -65,6 +72,7 @@ Members are continuously active contributors in the community.
   - Tests consistently pass
   - Addresses bugs or issues discovered after code is accepted
 - Note: members who frequently contribute code are expected to proactively perform code reviews and work towards becoming a maintainer
+- Must follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
 
 ## Maintainers
 
@@ -87,6 +95,9 @@ The following apply to the part of the codebase for which one would be in a MAIN
   - Serve as a point of conflict resolution between Contributors to their git repository
   - Maintain open collaboration with Contributors and other Maintainers
   - Ask for help when unsure and step down considerately
+
+The following applies everywhere
+  - Must follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
 
 ## Oversight Committee
 
@@ -116,3 +127,39 @@ The following apply to all assets across the Flux org
 - Managing financial decisions
 - Defining the scope of each git repository
 - Resolving escalated decisions when Maintainers responsible are blocked
+
+The following applies everywhere
+  - Must follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
+
+## Inactivity
+<!--TODO: project leads to fill in exact details for how you measure inactivity for your project-->
+
+It is important for contributors to be and stay active to set an example and show commitment to the project. Inactivity is harmful to the project as it may lead to unexpected delays, contributor attrition, and a lost of trust in the project. 
+* Inactivity is measured by:
+    * Periods of no contributions for longer than X months
+    * Periods of no communication for longer than X months
+* Consequences of being inactive include:
+    * Involuntary Removal
+    * Being asked to move to Emeritus status
+
+
+## Involuntary Removal
+<!-- project leads may want to consider integrating this section under every role description -->
+
+Involuntary removal of a contributor happens when responsibilities and requirements aren't being met. This may include repeated pattern of inactivity, extended period of inactivity, and/or a violation of the Code of Conduct. This process is important because it protects the community and its deliverables while also opens up opportunities for new contributors to step in.
+
+Involuntary removal is handled by X. 
+
+## Stepping Down/Emeritus Process
+If and when contributors' commitment levels change, contributors can consider stepping down (moving down a role) vs moving to emeritus status (completely stepping away from the project). 
+
+Please reach out to X to discuss this process.
+
+## Stepping Back Into a Role
+If and when someone is available to step back into a previous contributor role, this is something that can be arranged and considered by the project oversight committee.
+
+Please reach out to X to discuss this process.
+
+## Contact
+* For inquiries, please reach out to:
+    *  <!-- TODO: fill in contact info-->
