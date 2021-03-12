@@ -34,7 +34,7 @@ A contributor contributes directly to the project and adds value to it, making t
   - Contributing to project or community discussions (e.g. meetings, Slack, email discussion forums, Stack Overflow)
 - Subscribed to : 
 - Actively contributing to 1 or more projects
-- Sponsored by 2 maintainers. **Not the following requirements for sponsors:**
+- Sponsored by 2 maintainers. **Note the following requirements for sponsors:**
   - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.
   - Sponsors must be from multiple companies to demonstrate integration across community
 - Open an issue against the **flux/community** repo
