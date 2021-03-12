@@ -32,7 +32,7 @@ A contributor contributes directly to the project and adds value to it, making t
   - Authoring or reviewing PRs on GitHub
   - Filing or commenting on issues on GitHub
   - Contributing to project or community discussions (e.g. meetings, Slack, email discussion forums, Stack Overflow)
-- Subscribed to : 
+- Subscribed to the [flux-dev mailing list](https://lists.cncf.io/g/cncf-flux-dev/join)
 - Actively contributing to 1 or more projects
 - Sponsored by 2 maintainers. **Note the following requirements for sponsors:**
   - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.
