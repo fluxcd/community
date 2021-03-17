@@ -54,14 +54,14 @@ As a contributor we want to invite you to join the discussions in a variety of f
 
 ### Maintainers
 
-Maintainers are elected Contributors who showed significant and sustained contributions in a git repository.
-Current Maintainers are listed in a `MAINTAINERS` file at the root of the git repository.
+Maintainers are elected Contributors who showed significant and sustained contributions in a Git repository.
+Current Maintainers are listed in a `MAINTAINERS` file at the root of the Git repository.
 
 Maintainers are expected to:
 
 - Enable and promote Flux community values
 - Engage with end Users through appropriate communication channels
-- Serve as a point of conflict resolution between Contributors to their git repository
+- Serve as a point of conflict resolution between Contributors to their Git repository
 - Maintain open collaboration with Contributors and other Maintainers
 - Ask for help when unsure and step down considerately
 
@@ -69,16 +69,16 @@ Maintainers will be invited to the `@fluxcd/maintainers` <https://github.com/org
 
 ### Oversight Committee
 
-This committee is responsible for the overall project, and anything not easily managed by the Maintainers of each git repository. Including:
+This committee is responsible for the overall project, and anything not easily managed by the Maintainers of each Git repository. Including:
 
 - Overseeing the project health and growth
 - Maintaining the brand, mission, vision, values, and scope of the overall project
 - Changes to licensing and intellectual property
 - Administering access to all project assets
-- Administering git repositories as needed
+- Administering Git repositories as needed
 - Handling Code of Conduct violations
 - Managing financial decisions
-- Defining the scope of each git repository
+- Defining the scope of each Git repository
 - Resolving escalated decisions when Maintainers responsible are blocked
 
 Ultimately the committee - after consulting with the collective of Maintainers and their community - drive the direction, values and governance of the overall project.
@@ -92,8 +92,8 @@ Oversight Committee members are publicly listed in the `@fluxcd/oversight-commit
 
 ### Deciders
 
-- Repository Maintainers: Decisions that affect only one git repository.
-- Oversight Committee: Decisions that are outside the scope of a single git repository.
+- Repository Maintainers: Decisions that affect only one Git repository.
+- Oversight Committee: Decisions that are outside the scope of a single Git repository.
 
 ### Decision Guidelines
 
@@ -140,16 +140,16 @@ If a vote is called, the following decisison require Unanimity <https://en.wikip
 
 - Code changes should go through the pull request process, where the idea and implementation details can be publicly discussed with Maintainers, other contributors, and end users.
   Pull requests should only be merged after receiving GitHub approval from at least one Maintainer who is not the pull request author.
-  Note that Flux v2 uses GitHub discussions for proposals in the `fluxcd/flux2` git repository <https://github.com/fluxcd/flux2/discussions?discussions_q=category%3AProposals>.
+  Note that Flux v2 uses GitHub discussions for proposals in the `fluxcd/flux2` Git repository <https://github.com/fluxcd/flux2/discussions?discussions_q=category%3AProposals>.
 - Non-code changes should be proposed as GitHub issues.
-  If unclear which git repository to create the issue in, default to the community repository <https://github.com/fluxcd/community>.
+  If unclear which Git repository to create the issue in, default to the community repository <https://github.com/fluxcd/community>.
 - All proposals should be discussed publicly in an appropriate GitHub issue or pull request.
-- If a Maintainer of an affected git repository feels feedback from specific people is warranted they will @mention those users or teams to request feedback.
+- If a Maintainer of an affected Git repository feels feedback from specific people is warranted they will @mention those users or teams to request feedback.
 - Proposals may also be added to the Flux Dev weekly meetings agenda, as a good avenue for making progress on a decision <https://lists.cncf.io/g/cncf-flux-dev/calendar>.
 
 ## Licenses and Copyright
 
-- Apache 2.0 is required for all git repositories.
+- Apache 2.0 is required for all Git repositories.
 - Developer Certificate of Origin (DCO) commit signoff is required for all new code contributions.
 
 Links to relevant CNCF documentation:
