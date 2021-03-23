@@ -71,13 +71,13 @@ To add the meetings to your e.g. Google calendar
 
 ### Upcoming
 
-- 19 Mar 2021 - [TGIK - GitOps with Flux v2 with Evan Anderson](https://youtu.be/v47-NTb6Qw8)
-- 22 Mar 2021 - [GitOps Hands-On Patterns for Helm Users with Scott Rigby](https://www.meetup.com/GitOps-Community/events/276582596/)
 - 05 Apr 2021 - [Flux v2 on Azure with Leigh Capili](https://www.meetup.com/GitOps-Community/events/276674768/)
 - 19 Apr 2021 - [Setting Up Notifications, Alerts, & Webhooks with Alison Dowdney](https://www.meetup.com/GitOps-Community/events/276582835/)
+- 09-10 Jun 2021 - [GitOps Days 2021](https://www.gitopsdays.com)
 
 ### Featured
 
+- 22 Mar 2021 - [GitOps Hands-On Patterns for Helm Users with Scott Rigby](https://youtu.be/ljouUBPtnuI)
 - 08 Mar 2021 - [Migrating from Flux v1 to Flux v2 with Leigh Capili](https://youtu.be/vwvTwLQhXVI)
 - 25 Feb 2021 - [Dallas Kubernetes Meetup: Introduction to GitOps with Flux & Flagger](https://youtu.be/7E1aFQKNE40)
 - 22 Feb 2021 - [Manage Kubernetes Secrets with Mozilla SOPS & Flux](https://youtu.be/8pbdXAd-F44)
