@@ -71,6 +71,7 @@ To add the meetings to your e.g. Google calendar
 
 ### Upcoming
 
+- 25 Mar 2021 - [CNCF Webinar: Flux is Incubating + The Road Ahead](https://www.cncf.io/webinars/cncf-on-demand-webinar-flux-is-incubating-the-road-ahead/)
 - 05 Apr 2021 - [Flux v2 on Azure with Leigh Capili](https://www.meetup.com/GitOps-Community/events/276674768/)
 - 19 Apr 2021 - [Setting Up Notifications, Alerts, & Webhooks with Alison Dowdney](https://www.meetup.com/GitOps-Community/events/276582835/)
 - 09-10 Jun 2021 - [GitOps Days 2021](https://www.gitopsdays.com)
