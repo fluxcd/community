@@ -73,6 +73,7 @@ To add the meetings to your e.g. Google calendar
 
 - 06 Apr 2021 - [Flux v2 on Azure with Leigh Capili](https://www.meetup.com/GitOps-Community/events/276674768/)
 - 19 Apr 2021 - [Setting Up Notifications, Alerts, & Webhooks with Alison Dowdney](https://www.meetup.com/GitOps-Community/events/276582835/)
+- 29 Apr 2021 - [Doing GitOps for multicloud resource management using Crossplane and Flux2 (at Conf42: Cloud Native 2021)](https://www.conf42.com/Cloud_Native_2021_Leonardo_Murillo_gitops_multicloud_crossplane_flux2)
 - 09-10 Jun 2021 - [GitOps Days 2021](https://www.gitopsdays.com)
 
 ### Featured
