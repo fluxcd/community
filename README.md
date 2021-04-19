@@ -71,8 +71,7 @@ To add the meetings to your e.g. Google calendar
 
 ### Upcoming
 
-- 08 Apr 2021 - [GitOps Guide to the Galaxy (Ep 13): Digging deeper into Flux with Weaveworks - 3pm ET](https://www.openshift.com/streaming)
-- 19 Apr 2021 - [Setting Up Notifications, Alerts, & Webhooks with Alison Dowdney](https://www.meetup.com/GitOps-Community/events/276582835/)
+- 26 Apr 2021 - [Setting Up Notifications, Alerts, & Webhooks with Alison Dowdney](https://www.meetup.com/GitOps-Community/events/276582835/)
 - 28 Apr 2021 - [CNCF Cloud Native Live: Migrating from Flux v1 to Flux v2](https://www.cncf.io/webinars/cloud-native-live-migrating-from-flux-v1-to-flux-v2/)
 - 29 Apr 2021 - [Doing GitOps for multicloud resource management using Crossplane and Flux2 (at Conf42: Cloud Native 2021)](https://www.conf42.com/Cloud_Native_2021_Leonardo_Murillo_gitops_multicloud_crossplane_flux2)
 - 05 May 2021 - [Keynote: CNCF Project Update: Flux - Stefan Prodan](https://kccnceu2021.sched.com/event/iEQx) at KubeCon 2021 Europe
@@ -81,6 +80,7 @@ To add the meetings to your e.g. Google calendar
 
 ### Featured
 
+- 08 Apr 2021 - [GitOps Guide to the Galaxy (Ep 13): Digging deeper into Flux with Weaveworks - 3pm ET](https://www.openshift.com/streaming)
 - 06 Apr 2021 - [Flux v2 on Azure with Leigh Capili](https://youtu.be/K6OQ93UNSB8)
 - 25 Mar 2021 - [CNCF Webinar: Flux is Incubating + The Road Ahead](https://www.youtube.com/watch?v=va1iho7O4WQ)
 - 25 Mar 2021 - [GitOps Guide to the Galaxy (Ep 12): Flux On OpenShift with Cornelia Davis & Scott Rigby](https://youtu.be/W_rcYPZkhFg)
