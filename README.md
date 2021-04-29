@@ -72,8 +72,10 @@ To add the meetings to your e.g. Google calendar
 ### Upcoming
 
 - 26 Apr 2021 - [Setting Up Notifications, Alerts, & Webhooks with Alison Dowdney](https://www.meetup.com/GitOps-Community/events/276582835/)
-- 28 Apr 2021 - [CNCF Cloud Native Live: Migrating from Flux v1 to Flux v2](https://www.cncf.io/webinars/cloud-native-live-migrating-from-flux-v1-to-flux-v2/)
+- 28 Apr 2021 - [CNCF Cloud Native Live: Migrating from Flux v1 to Flux v2 with Leigh Capili](https://www.cncf.io/webinars/cloud-native-live-migrating-from-flux-v1-to-flux-v2/)
 - 29 Apr 2021 - [Doing GitOps for multicloud resource management using Crossplane and Flux2 (at Conf42: Cloud Native 2021)](https://www.conf42.com/Cloud_Native_2021_Leonardo_Murillo_gitops_multicloud_crossplane_flux2)
+- 03 May 2021 - [GitOpsCon at KubeCon EU!](https://hopin.com/events/gitops-con#schedule)
+- 04 - 07 May 2021 - [Flux Pavilion at KubeCon EU! Talks and demos every 30 minutes! Say hello!](https://bit.ly/Flux_KubeConEU2021)
 - 05 May 2021 - [Keynote: CNCF Project Update: Flux - Stefan Prodan](https://kccnceu2021.sched.com/event/iEQx) at KubeCon 2021 Europe
 - 06 May 2021 - [Flux: Multi-tenancy Deep Dive - Philip Laine](https://kccnceu2021.sched.com/event/iona) at KubeCon 2021 Europe
 - 09-10 Jun 2021 - [GitOps Days 2021](https://www.gitopsdays.com)
