@@ -77,6 +77,8 @@ To add the meetings to your e.g. Google calendar
 
 - 06 May 2021 - [Flux: Multi-tenancy Deep Dive - Philip Laine](https://youtu.be/F7B_TBcIyl8) at KubeCon 2021 Europe
 - 05 May 2021 - [Keynote: CNCF Project Update: Flux - Stefan Prodan](https://youtu.be/kuzZpKHLoVM) at KubeCon 2021 Europe
+- 05 May 2021 - [Helm Users! What Flux Can Do For
+  You - Scott Rigby & Kingdon Barrett](https://youtu.be/hCTgCRlU-M0) at KubeCon 2021 Europe
 - 04 - 07 May 2021 - [Flux Pavilion at KubeCon EU! Talks and demos every 30 minutes! Say hello!](https://bit.ly/Flux_KubeConEU2021)
 - 03 May 2021 - [GitOpsCon at KubeCon EU!](https://youtube.com/playlist?list=PLXOML2VBdIo7xEp8Bo9kFB-d6tTlHK5Fk)
 - 29 Apr 2021 - [Doing GitOps for multicloud resource management using Crossplane and Flux2 (at Conf42: Cloud Native 2021)](https://www.conf42.com/Cloud_Native_2021_Leonardo_Murillo_gitops_multicloud_crossplane_flux2)
