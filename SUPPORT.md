@@ -8,7 +8,7 @@ You might still run into issues. This page is meant to be a guide to help you fi
 
 Implementing GitOps or any \*Ops is a process which involves many layers and technologies. We therefore place a lot of importance on encoding shared knowledge and best practices in our documentation.
 
-To be mindful of everybody's time, please make sure you checked and followed the documentation before filing issues. 
+To be mindful of everybody's time, please make sure you checked and followed the documentation before filing issues.
 Here are some good entry points to get started with our documentation including Getting Started Guides:
 
 Project   | Links
@@ -17,7 +17,6 @@ Flux (v2) | [Entry point](https://toolkit.fluxcd.io/), [Core Concepts](https://t
 Flagger   | [Entry point](https://docs.flagger.app/), [Getting Started Guide](https://docs.flagger.app/install/flagger-install-on-kubernetes), [FAQ](https://docs.flagger.app/faq)
 Helm Operator (v1) | [Entry point](https://docs.fluxcd.io/projects/helm-operator/en/stable/), [Getting Started Guide](https://docs.fluxcd.io/projects/helm-operator/en/stable/get-started/quickstart/), [FAQ](https://docs.fluxcd.io/projects/helm-operator/en/stable/faq/), [Troubleshooting](https://docs.fluxcd.io/projects/helm-operator/en/stable/troubleshooting/)
 Flux (v1 - in maintenance mode) | [Entry point](https://docs.fluxcd.io/en/stable/), [Getting Started Guide](https://docs.fluxcd.io/en/stable/get-started/), [FAQ](https://docs.fluxcd.io/en/stable/faq/), [Troubleshooting](https://docs.fluxcd.io/en/stable/troubleshooting/)
-
 
 ## I am stuck
 
@@ -71,29 +70,32 @@ If you made sure you encountered an actual issue, we definitely want to hear abo
 
 Here's how to proceed:
 
-1. Check [Github](https://github.com/fluxcd) to locate the correct project
+Check [Github](https://github.com/fluxcd) to locate the correct project
 
 Many Flux projects and project facets are maintained by different code owners under separate repositories, and filing your issue under the correct repository can better ensure that relevant maintainers are notified.
 
-#### Flux core projects (in active development):
-* [flux2](https://github.com/fluxcd/flux2) - the main Flux project repository (current version)
-* [source-controller](https://github.com/fluxcd/source-controller) - handles artifacts acquisition from external sources such as Git, Helm repositories and S3 buckets.
-* [kustomize-controller](https://github.com/fluxcd/kustomize-controller) - runs continuous delivery pipelines defined with Kubernetes manifests and assembled with Kustomize.
-* [helm-controller](https://github.com/fluxcd/helm-controller) - declaratively manages Helm chart releases (the successor to Helm Operator from Flux v1).
-* [notification-controller](https://github.com/fluxcd/notification-controller) - event forwarder and notification dispatcher.
-* [image-reflector-controller](https://github.com/fluxcd/image-reflector-controller) - scans container image repositories and reflects the metadata in Kubernetes resources. Pairs with the image update automation controller to drive automated config updates.
-* [image-automation-controller](https://github.com/fluxcd/image-automation-controller) - automates updates to Git when new container images are available.
-* [flagger](https://github.com/fluxcd/flagger) - the progressive delivery tool, reduces the risk of introducing a new software version in production by gradually shifting traffic to the new version while measuring metrics and running conformance tests.
+### Flux core projects (in active development
 
-#### Project documentation:
-* [website](https://github.com/fluxcd/website) - the project's landing page at <https://fluxcd.io>
-* [community](https://github.com/fluxcd/community) - this page!
+- [flux2](https://github.com/fluxcd/flux2) - the main Flux project repository (current version)
+- [source-controller](https://github.com/fluxcd/source-controller) - handles artifacts acquisition from external sources such as Git, Helm repositories and S3 buckets.
+- [kustomize-controller](https://github.com/fluxcd/kustomize-controller) - runs continuous delivery pipelines defined with Kubernetes manifests and assembled with Kustomize.
+- [helm-controller](https://github.com/fluxcd/helm-controller) - declaratively manages Helm chart releases (the successor to Helm Operator from Flux v1).
+- [notification-controller](https://github.com/fluxcd/notification-controller) - event forwarder and notification dispatcher.
+- [image-reflector-controller](https://github.com/fluxcd/image-reflector-controller) - scans container image repositories and reflects the metadata in Kubernetes resources. Pairs with the image update automation controller to drive automated config updates.
+- [image-automation-controller](https://github.com/fluxcd/image-automation-controller) - automates updates to Git when new container images are available.
+- [flagger](https://github.com/fluxcd/flagger) - the progressive delivery tool, reduces the risk of introducing a new software version in production by gradually shifting traffic to the new version while measuring metrics and running conformance tests.
 
-#### Stable Flux repositories (in maintenance mode):
-* [flux (v1)](https://github.com/fluxcd/flux)
-* [helm-operator](https://github.com/fluxcd/helm-operator)
+### Project documentation
 
-2. Check the issue template and include any requested information
+- [website](https://github.com/fluxcd/website) - the project's landing page at <https://fluxcd.io> and docs
+- [community](https://github.com/fluxcd/community) - this page!
+
+### Stable Flux repositories (in maintenance mode)
+
+- [flux (v1)](https://github.com/fluxcd/flux)
+- [helm-operator](https://github.com/fluxcd/helm-operator)
+
+Now check the issue template and include any requested information
 
 For example, the [flux2 repo issue template](https://github.com/fluxcd/flux2/issues/new) requests the output of `flux check` and `flux --version`. If you are using an older version of the project, review the release notes from later versions to be sure your issue has not already been resolved. Also check for other issue reports, as if your issue was already reported, this can help avoid duplicate reports.
 
