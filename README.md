@@ -75,7 +75,7 @@ To add the meetings to your e.g. Google calendar
 
 ### Featured
 
-- 06 May 2021 - [Flux: Multi-tenancy Deep Dive - Philip Laine](https://youtu.be/F7B_TBcIyl8) at KubeCon 2021 Europe 
+- 06 May 2021 - [Flux: Multi-tenancy Deep Dive - Philip Laine](https://youtu.be/F7B_TBcIyl8) at KubeCon 2021 Europe
 - 05 May 2021 - [Keynote: CNCF Project Update: Flux - Stefan Prodan](https://youtu.be/kuzZpKHLoVM) at KubeCon 2021 Europe
 - 04 - 07 May 2021 - [Flux Pavilion at KubeCon EU! Talks and demos every 30 minutes! Say hello!](https://bit.ly/Flux_KubeConEU2021)
 - 03 May 2021 - [GitOpsCon at KubeCon EU!](https://youtube.com/playlist?list=PLXOML2VBdIo7xEp8Bo9kFB-d6tTlHK5Fk)
@@ -99,7 +99,7 @@ To add the meetings to your e.g. Google calendar
 - 13 Nov 2020 - [The evolution of Flux with Stefan Prodan at GitOps Days EMEA](https://youtu.be/nGLpUCPX8JE)
 - 13 Nov 2020 - [Helm Users! What Flux 2 can do for you! by Scott Rigby at GitOps Days EMEA](https://youtu.be/JcKUawSQfQ0)
 - 12 Nov 2020 - [THe Power of GitOps with Flux v2: Managing Remote Clusters (CAPI demo) with Leigh Capili at GitOps Days EMEA](https://youtu.be/7W27tAv7Tvs)
-- 05 Nov 2020 - Philip Laine and Stefan Prodan will speak about [Flux v2 at Cloud Native Göteborg](https://www.meetup.com/TheCloudNativeGbg/events/273413291/)
+- 05 Nov 2020 - Philip Laine and Stefan Prodan: [Flux v2 at Cloud Native Göteborg](https://www.meetup.com/TheCloudNativeGbg/events/273413291/)
 - 02 Nov 2020 - [The Power of GitOps with Flux & GitOps Toolkit - Part 2](https://youtu.be/fC2YCxQRUwU)
 - 28 Oct 2020 - [The Kubelist Podcast: Flux with Michael Bridgen](https://www.heavybit.com/library/podcasts/the-kubelist-podcast/ep-5-flux-with-michael-bridgen-of-weaveworks/)
 - 19 Oct 2020 - [The Power of GitOps with Flux & GitOps Toolkit - Part 1](https://youtu.be/0v5bjysXTL8)
