@@ -21,9 +21,9 @@ Roles are progressive, so each include responsibilities, requirements and defini
 
 ### Community Member
 
-Community Members are anyone who interacts with the project.
+Community Members are any user who interacts with the project.
 
-This could be through Slack, Using the project itself, GitHub discussions, etc.
+This could be through Slack, using the project itself, GitHub discussions, etc.
 
 **Responsibilities:**
 
@@ -181,8 +181,7 @@ Please reach out to the [Oversight Committee] to discuss this process.
 
 For inquiries, please reach out to:
 
-<!-- Links -->
-[User]: #user
+<!-- md links -->
 [Community Member]: #community-member
 [Project Member]: #project-member
 [Maintainer]: #maintainer
