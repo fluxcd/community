@@ -20,30 +20,30 @@ This document <https://github.com/fluxcd/community/blob/main/GOVERNANCE.md> defi
 
 - **Open:**
 The Flux community strives to be open, accessible and welcoming to everyone.
-Anyone may contribute, and contributions are available to all users according to open source values and licenses.
+Anyone may contribute, and contributions are available to all [Users][User] according to open source values and licenses.
 - **Transparent:**
 Flux strives for transparency in all discussions, announcements, disclosures and decision making.
 - **Unbiased:**
-Flux strives to operate independently of specific partisan interests, and for decision making to fairly balance the wider community interests of its end users and contributors.
+Flux strives to operate independently of specific partisan interests, and for decision making to fairly balance the wider community interests of its end [Users][User] and contributors.
 
 ### Code of Conduct
 
 The Flux community adheres to the CNCF Code of Conduct <https://github.com/cncf/foundation/blob/master/code-of-conduct.md>.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a _Flux_ Oversight Committee member.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a _Flux_ [Oversight Committee] member.
 
 If no conclusion can be reached in meditation, such issues can be escalated to the CNCF mediator, Mishi Choudhary <mishi@linux.com>, in which case CNCF may choose to intervene.
 
 ## Roles in the Flux Community
 
-See [community-roles.md](community-roles.md)
+See [community-roles.md]
 
 ## Decision Making
 
 ### Deciders
 
-- Repository Maintainers: Decisions that affect only one Git repository.
-- Oversight Committee: Decisions that are outside the scope of a single Git repository.
+- Repository [Maintainers]: Decisions that affect only one git repository.
+- [Oversight Committee]: Decisions that are outside the scope of a single git repository.
 
 ### Decision Guidelines
 
@@ -53,8 +53,8 @@ See [community-roles.md](community-roles.md)
 - If an objection is raised through the Lazy Consensus process, Deciders work together to seek an agreeable solution.
 - If Consensus can not be reached, but a decision must be made, the next step is try to attempt to agree that a vote should be called.
   This is important, as it gives dissenting views a chance to request more information or raise further points.
-  If Deciders are the Oversight Committee, part of that responsibility is the final point of escalation, so agreeing to a vote is assumed if timeline doesn't allow the consensus process to continue.
-- If Deciders are Repository Maintainers, and they can't agree on calling a vote, they may escalate to the Oversight Committee.
+  If Deciders are the [Oversight Committee], part of that responsibility is the final point of escalation, so agreeing to a vote is assumed if timeline doesn't allow the consensus process to continue.
+- If Deciders are Repository [Maintainers], and they can't agree on calling a vote, they may escalate to the [Oversight Committee].
   This should only be done at this stage if:
   1. An unmovable deadline is threatened by continuing the Consensus process; or
   2. A Decider feels there is unreasonable blocking of both reaching Consensus and agreeing to a vote.
@@ -71,9 +71,9 @@ If a vote is called, the default is a Simple Majority Vote <https://en.wikipedia
 
 If a vote is called, the following decisions require a Supermajority Vote <https://en.wikipedia.org/wiki/Supermajority>.
 
-- Oversight Committee: Enforcing a Code of Conduct violation by a community member.
-- Oversight Committee: Licensing and intellectual property changes.
-- Oversight Committee: Material changes to the Governance document.
+- [Oversight Committee]: Enforcing a Code of Conduct violation by a community member.
+- [Oversight Committee]: Licensing and intellectual property changes.
+- [Oversight Committee]: Material changes to the Governance document.
   - Note: editorial changes to governance may be made by lazy consensus, unless challenged.
     These are changes which fix spelling or grammar, update work affiliation or similar, update style or reflect an outside and obvious reality.
     They do not change the intention or meaning of anything in this document.
@@ -82,19 +82,19 @@ If a vote is called, the following decisions require a Supermajority Vote <https
 
 If a vote is called, the following decisison require Unanimity <https://en.wikipedia.org/wiki/Unanimity>.
 
-- Repository Maintainers: Electing new Maintainers of the same repository.
-- Oversight Committee: Electing new Committee members.
-- Oversight Committee: Removing a Repository Maintainer or Committee member for any reason other than inactivity.
+- Repository [Maintainers]: Electing new Maintainers of the same repository.
+- [Oversight Committee]: Electing new Committee members.
+- [Oversight Committee]: Removing a Repository Maintainer or Committee member for any reason other than inactivity.
 
 ## Proposal Process
 
-- Code changes should go through the pull request process, where the idea and implementation details can be publicly discussed with Maintainers, other contributors, and end users.
+- Code changes should go through the pull request process, where the idea and implementation details can be publicly discussed with [Maintainers], other contributors, and end [Users][User].
   Pull requests should only be merged after receiving GitHub approval from at least one Maintainer who is not the pull request author.
   Note that Flux v2 uses GitHub discussions for proposals in the `fluxcd/flux2` Git repository <https://github.com/fluxcd/flux2/discussions?discussions_q=category%3AProposals>.
 - Non-code changes should be proposed as GitHub issues.
   If unclear which Git repository to create the issue in, default to the community repository <https://github.com/fluxcd/community>.
 - All proposals should be discussed publicly in an appropriate GitHub issue or pull request.
-- If a Maintainer of an affected Git repository feels feedback from specific people is warranted they will @mention those users or teams to request feedback.
+- If a Maintainer of an affected git repository feels feedback from specific people is warranted they will @mention those [Users] or teams to request feedback.
 - Proposals may also be added to the Flux Dev weekly meetings agenda, as a good avenue for making progress on a decision <https://lists.cncf.io/g/cncf-flux-dev/calendar>.
 
 ## Licenses and Copyright
@@ -107,3 +107,8 @@ Links to relevant CNCF documentation:
 - <https://github.com/cncf/foundation/blob/master/charter.md#11-ip-policy>
 - <https://github.com/cncf/foundation/blob/master/allowed-third-party-license-policy.md#approved-licenses-for-allowlist>
 - <https://github.com/cncf/foundation/blob/master/copyright-notices.md#copyright-notices>
+
+[User]: community-roles.md#user
+[Maintainer]: community-roles.md#maintainer
+[Oversight Committee]: community-roles.md#oversight-committee
+[community-roles.md]: community-roles.md
