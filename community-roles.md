@@ -179,7 +179,7 @@ Please reach out to the [Oversight Committee] to discuss this process.
 
 ### Contact
 
-For inquiries, please reach out to:
+For inquiries, please reach out to: <cncf-flux-oversight-committee@lists.cncf.io>
 
 <!-- md links -->
 [Community Member]: #community-member
