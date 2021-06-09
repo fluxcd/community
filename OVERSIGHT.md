@@ -1,6 +1,6 @@
 # Flux Oversight Committee
 
-| Name | Slack handle | Github handle | Affiliation |
+| Name | Slack handle | GitHub handle | Affiliation |
 | -- | -- | -- | -- |
 | Hidde Beydals | `hidde` | `@hiddeco` | Weaveworks  |
 | Stefan Prodan | `stefanprodan` | `@stefanprodan` | Weaveworks  |
