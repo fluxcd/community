@@ -13,10 +13,10 @@ Here are some good entry points to get started with our documentation including 
 
 Project   | Links
 --------- | ----------------------------------------
-Flux (v2) | [Entry point](https://toolkit.fluxcd.io/), [Core Concepts](https://toolkit.fluxcd.io/core-concepts/), [Getting Started Guide](https://toolkit.fluxcd.io/get-started/), [FAQ](https://toolkit.fluxcd.io/faq/)
-Flagger   | [Entry point](https://docs.flagger.app/), [Getting Started Guide](https://docs.flagger.app/install/flagger-install-on-kubernetes), [FAQ](https://docs.flagger.app/faq)
-Helm Operator (v1) | [Entry point](https://docs.fluxcd.io/projects/helm-operator/en/stable/), [Getting Started Guide](https://docs.fluxcd.io/projects/helm-operator/en/stable/get-started/quickstart/), [FAQ](https://docs.fluxcd.io/projects/helm-operator/en/stable/faq/), [Troubleshooting](https://docs.fluxcd.io/projects/helm-operator/en/stable/troubleshooting/)
-Flux (v1 - in maintenance mode) | [Entry point](https://docs.fluxcd.io/en/stable/), [Getting Started Guide](https://docs.fluxcd.io/en/stable/get-started/), [FAQ](https://docs.fluxcd.io/en/stable/faq/), [Troubleshooting](https://docs.fluxcd.io/en/stable/troubleshooting/)
+Flux | [Entry point](https://fluxcd.io/docs/), [Core Concepts](https://fluxcd.io/docs/concepts/), [Getting Started Guide](https://fluxcd.io/docs/get-started/), [FAQ](https://fluxcd.io/docs/faq/)
+Flagger | [Entry point](https://docs.flagger.app/), [Getting Started Guide](https://docs.flagger.app/install/flagger-install-on-kubernetes), [FAQ](https://docs.flagger.app/faq)
+Helm Operator (legacy - v1) | [Entry point](https://fluxcd.io/legacy/helm-operator/), [Getting Started Guide](https://fluxcd.io/legacy/helm-operator/get-started/quickstart/), [FAQ](https://fluxcd.io/legacy/helm-operator/faq/), [Troubleshooting](https://fluxcd.io/legacy/helm-operator/troubleshooting/)
+Flux (legacy - v1) | [Entry point](https://fluxcd.io/legacy/flux/), [Getting Started Guide](https://fluxcd.io/legacy/flux/get-started/), [FAQ](https://fluxcd.io/legacy/flux/faq/), [Troubleshooting](https://fluxcd.io/legacy/flux/troubleshooting/)
 
 ## I am stuck
 
@@ -24,7 +24,7 @@ We as a community are both very thankful and proud to have attracted many incred
 
 As we have been overwhelmed with general questions, troubleshooting requests, feature requests, etc. in the past months, we would like to ask you to:
 
-- Read the [documentation](https://toolkit.fluxcd.io/get-started/) carefully, check the individual troubleshooting sections for advice on how to interpret logs, use relevant tools, etc.
+- Read the [documentation](https://fluxcd.io/docs/get-started/) carefully, check the individual troubleshooting sections for advice on how to interpret logs, use relevant tools, etc.
 - For Flux 2 questions, see if there are answers on the [GH Discussions page](https://github.com/fluxcd/flux2/discussions)
 - Please don't direct-message project maintainers or relevant others with specific support questions. The few Flux maintainers cannot answer all questions. If you post on [GH Discussions page](https://github.com/fluxcd/flux2/discussions) for Flux 2 questions or message in the appropriate Slack channel, you'll have a better chance at getting an answer from a community member willing to help.
 - Make sure you don't share private information.
