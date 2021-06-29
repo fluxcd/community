@@ -71,10 +71,11 @@ To add the meetings to your e.g. Google calendar
 
 ### Upcoming
 
-- 09-10 Jun 2021 - [GitOps Days 2021](https://www.gitopsdays.com)
+- 30 Jun 2021 - [Flux Bug Scrub](https://fluxcd.io/blog/2021/06/flux-bug-scrub-announce/)
 
 ### Featured
 
+- 09-10 Jun 2021 - [GitOps Days 2021](https://www.gitopsdays.com)
 - 06 May 2021 - [Flux: Multi-tenancy Deep Dive - Philip Laine](https://youtu.be/F7B_TBcIyl8) at KubeCon 2021 Europe
 - 05 May 2021 - [Keynote: CNCF Project Update: Flux - Stefan Prodan](https://youtu.be/kuzZpKHLoVM) at KubeCon 2021 Europe
 - 05 May 2021 - [Helm Users! What Flux Can Do For
