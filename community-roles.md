@@ -71,7 +71,7 @@ This can be through Code, Documentation, etc.
     ### List of contributions to the Flux project
     - PRs reviewed / authored
     - Discussions involved in & Issues responded to
-    - Flux subrojects I am involved with (Flagger, Flux, Controllers)
+    - Flux subprojects I am involved with (Flagger, Flux, Controllers)
     ```
 
   - Have your sponsoring maintainers reply confirmation of sponsorship: `+1`
