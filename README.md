@@ -71,11 +71,20 @@ To add the meetings to your e.g. Google calendar
 
 ### Upcoming
 
-- 30 Jun 2021 - [Flux Bug Scrub](https://fluxcd.io/blog/2021/06/flux-bug-scrub-announce/)
+- 01 Jul 2021 - [GitOps Guide to the Galaxy: Helm GitOps Workflows wtiht he Flux Helm Controller - Scott Rigby](https://www.youtube.com/watch?v=kX1fxly9-4Y)
 
 ### Featured
 
-- 09-10 Jun 2021 - [GitOps Days 2021](https://www.gitopsdays.com)
+- 30 Jun 2021 - [Flux Bug Scrub #0001](https://youtu.be/E9vHgvsQNzQ)
+- 10 Jun 2021 - [Building a Web Scale Internal Developer Platform at Alibaba - Lei “Harry” Zhang](https://youtu.be/dEMYVkIU0aU)
+- 10 Jun 2021 - [Handling Dependencies with Flux - Jason Morgan](https://youtu.be/laMwuG8r7Tw)
+- 10 JUn 2021 - [Flux Deep Dive - Stefan Prodan](https://youtu.be/Fzzg4KQavEU)
+- 09 Jun 2021 - [Flux’s Catalog - Keeping Track of Things! - Leigh Capili](https://youtu.be/gfyo6VqgD_k)
+- 09 Jun 2021 - [Flux UI Announcement & Preview - Jordan Pellizzari](https://youtu.be/UYZGym5p0m8)
+- 09 Jun 2021 - [From Wild West to Flux Multi-tenancy - Mae Large & Russ Parmer](https://youtu.be/NLU6b82FhFs)
+- 09 Jun 2021 - [GitOps Loops - A step Towards Autonomous Infrastructure - Vuk Gojnic](https://youtu.be/3jyYNrDqGVQ)
+- 09 Jun 2021 - [How We Sailed Into Production - GitOps-based CaaS at Deutsche Telekom - Maximilian Rink and Marcel Fest](https://youtu.be/59mTx8tBYag)
+- 09 - 10 Jun 2021 - [GitOps Days 2021](https://www.gitopsdays.com)
 - 06 May 2021 - [Flux: Multi-tenancy Deep Dive - Philip Laine](https://youtu.be/F7B_TBcIyl8) at KubeCon 2021 Europe
 - 05 May 2021 - [Keynote: CNCF Project Update: Flux - Stefan Prodan](https://youtu.be/kuzZpKHLoVM) at KubeCon 2021 Europe
 - 05 May 2021 - [Helm Users! What Flux Can Do For
