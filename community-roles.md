@@ -126,7 +126,8 @@ Ensuring that oversight of the project is not controlled by one company or organ
 
 **Requirements:**
 
-We aim to build out requirements for this role during incubation. (link to issue?)
+We aim to build out requirements for the Oversight Committee role during incubation.
+See [fluxcd/community#106](https://github.com/fluxcd/community/issues/106).
 
 **Responsibilities and Privileges:**
 
