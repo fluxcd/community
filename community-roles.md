@@ -44,7 +44,7 @@ This can be through Code, Documentation, etc.
   - Filing or commenting on issues on GitHub
   - Contributing to project or community discussions (for example meetings, Slack, email discussion forums, Stack Overflow)
 - Subscribed to the [flux-dev mailing list](https://lists.cncf.io/g/cncf-flux-dev/join)
-- Actively contributing to 1 or more projects
+- Actively contributing to 1 or more `fluxcd` GitHub org repos
 - Sponsored by 2 maintainers.
   **Note the following requirements for sponsors:**
   - Sponsors must have close interactions with the prospective member - for example code/design/proposal review, coordinating on issues, etc.
@@ -60,7 +60,7 @@ This can be through Code, Documentation, etc.
     ### Requirements
     - [ ] I have reviewed the community membership guidelines [https://github.com/fluxcd/community/blob/main/community-roles.md](https://github.com/fluxcd/community/blob/main/community-roles.md)
     - [ ] I have subscribed to the cncf-flux-dev e-mail list [https://lists.cncf.io/g/cncf-flux-dev/join](https://lists.cncf.io/g/cncf-flux-dev/join)
-    - [ ] I am actively contributing to 1 or more Flux subprojects (eg. Flux, Flagger)
+    - [ ] I am actively contributing to 1 or more `fluxcd` GitHub org repos (eg. Flux, Flagger)
     - [ ] I have two sponsors that meet the sponsor requirements listed in the community membership guidelines
     - [ ] I have spoken to my sponsors ahead of this application, and they have agreed to sponsor my application
 
@@ -96,8 +96,8 @@ Maintainers are elected [Project Members][Project Member] who showed significant
 
 **Requirements:**
 
-- Make a PR against the MAINTAINERS.md file for the subproject/repo you are
-- @mention all the other maintainers
+- Make a PR against the `MAINTAINERS` file for a `fluxcd` GitHub org repo
+- @mention all the other current maintainers
 - Have maintainers submit their vote by `+1`
 - Once all maintainers in repo have `+1` the pr will be reviewed by a member of the Flux [Oversight Committee]
 
@@ -122,7 +122,7 @@ The committee is currently comprised of Flux Maintainers who have steered the pr
 In future, Committee Members will come from a diverse background of companies and organizations.
 Ensuring that oversight of the project is not controlled by one company or organization.
 
-**Defined by:** entry in OVERSIGHT.md file in the flux/community repo, and in  `@fluxcd/oversight-committee` GitHub team.
+**Defined by:** entry in `OVERSIGHT.md` file in the flux/community repo, and in  `@fluxcd/oversight-committee` GitHub team.
 
 **Requirements:**
 
