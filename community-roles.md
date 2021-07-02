@@ -58,7 +58,7 @@ This can be through Code, Documentation, etc.
     e.g. (at)example_user
 
     ### Requirements
-    - [ ] I have reviewed the community membership guidelines [https://github.com/fluxcd/community/blob/main/community-roles.md](https://github.com/fluxcd/community/blob/main/community-roles.md)
+    - [ ] I have reviewed the community membership guidelines in `community-roles.md`
     - [ ] I have subscribed to the cncf-flux-dev e-mail list [https://lists.cncf.io/g/cncf-flux-dev/join](https://lists.cncf.io/g/cncf-flux-dev/join)
     - [ ] I am actively contributing to 1 or more `fluxcd` GitHub org repos (eg. Flux, Flagger)
     - [ ] I have two sponsors that meet the sponsor requirements listed in the community membership guidelines
