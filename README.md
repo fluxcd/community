@@ -2,7 +2,8 @@
 
 We want the [Flux project](https://github.com/fluxcd) to be the vendor-neutral home for GitOps in a Cloud Native world.
 
-Started 2016 to automate deployments at Weaveworks, the project has grown dramatically since then. Especially since the planning of Flux v2 and GitOps Toolkit SDK it was clearer that the scope became more ambitious and that the Flux project has become the home for the Flux family of projects, all solving specific GitOps needs.
+Started 2016 to automate deployments at Weaveworks, the project has grown dramatically since then.
+Especially since the planning of Flux v2 and GitOps Toolkit SDK it was clearer that the scope became more ambitious and that the Flux project has become the home for the Flux family of projects, all solving specific GitOps needs.
 
 We also want our community to be diverse, helpful, collaborative and a fun place to be, so we would love to have you join us!
 
@@ -27,23 +28,29 @@ And there is loads more under <https://github.com/fluxcd>, we all work on this a
 
 ### Joining the community
 
-All the projects have docs to help you get started, so a first step is obviously using the projects and getting some first-hand experience. Afterwards you can help out on Slack answering questions, maybe extend the docs or fix some small issues.
+All the projects have docs to help you get started, so a first step is obviously using the projects and getting some first-hand experience.
+Afterwards you can help out on Slack answering questions, maybe extend the docs or fix some small issues.
 
 ### Teams
 
-Up until we started defining governance the Flux project had implicit teams only - if at all. In reality we all were one big team. Of course every contributing member of the community had their own area of interest and motivation.
+The Flux project uses [GitHub org teams](https://docs.github.com/en/organizations) to make it easier for [Project Members](community-roles.md#project-members) and above to communicate within and across teams.
+Members of those teams however should be defined in publicly accessible files for transparency to org non-members.
+See [community-roles.md].
 
-We are in the process of slowly formalising some team structures apart from "interest in one or more given sub-project(s)". There currently are
+The process of formalising team structures apart from "interest in one or more given sub-project(s)" is ongoing.
+There currently are:
 
 - The [Oversight committee](GOVERNANCE.md#oversight-committee)
 - The [Security team](SECURITY.md)
 - The [Community team](COMMUNITY.md)
 
-All projects and teams are open to contributors and every part of the Flux project appreciates your help and consideration. Check out the links above to learn more about the team in question.
+All projects and teams are open to contributors and every part of the Flux project appreciates your help and consideration.
+Check out the links above to learn more about the team in question.
 
 ### Meetings
 
-We run regular meetings and discuss things there. We are very happy if new users, contributors and developers join and we can put names to faces.
+We run regular meetings and discuss things there.
+We are very happy if new users, contributors and developers join and we can put names to faces.
 
 - **Meeting times**
   - "early" meeting: Uneven weeks: Wed, 12:00 UTC
@@ -132,4 +139,5 @@ To add the meetings to your e.g. Google calendar
 
 ## Rules
 
-The Flux community is governed by the [governance document](GOVERNANCE.md). We as a community follow the [code of conduct](CODE_OF_CONDUCT.md).
+The Flux community is governed by the [governance document](GOVERNANCE.md), and involvement is defined in [community-roles.md](community-roles.md).
+We as a community follow the [code of conduct](CODE_OF_CONDUCT.md).
