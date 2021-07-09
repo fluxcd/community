@@ -1,3 +1,4 @@
+name: Get repository stats
 on:
   schedule:
     # Run this once per day, towards the end of the day for keeping the most
@@ -7,7 +8,6 @@ on:
 
 jobs:
   j1:
-    name: repostats-for-nice-project
     runs-on: ubuntu-latest
     strategy:
       matrix:
