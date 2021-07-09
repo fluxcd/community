@@ -1,5 +1,5 @@
 % Statistics for fluxcd/flux2
-% Generated for [fluxcd/flux2](https://github.com/fluxcd/flux2) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-07-09 12:28 UTC.
+% Generated for [fluxcd/flux2](https://github.com/fluxcd/flux2) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-07-09 12:38 UTC.
 
 
 ## Views
