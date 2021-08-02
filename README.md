@@ -78,10 +78,10 @@ To add the meetings to your e.g. Google calendar
 
 ### Upcoming
 
-- 28 Jul 2021 - [Cloud Native @Scale Meetup: CNCF Incubating Projects featuring Flux with Leigh Capili](https://www.meetup.com/cloudnativescale/events/278266856/)
 
 ### Featured
 
+- 28 Jul 2021 - [Cloud Native @Scale Meetup: CNCF Incubating Projects featuring Flux with Leigh Capili](https://youtu.be/Gidqz3D9yes?t=1679)
 - 01 Jul 2021 - [GitOps Guide to the Galaxy: Helm GitOps Workflows wtiht he Flux Helm Controller - Scott Rigby](https://www.youtube.com/watch?v=kX1fxly9-4Y)
 - 30 Jun 2021 - [Flux Bug Scrub #0001](https://youtu.be/E9vHgvsQNzQ)
 - 10 Jun 2021 - [Building a Web Scale Internal Developer Platform at Alibaba - Lei “Harry” Zhang](https://youtu.be/dEMYVkIU0aU)
