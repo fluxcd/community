@@ -57,7 +57,7 @@ We are very happy if new users, contributors and developers join and we can put 
   - "late" meeting: Even weeks: Thu, 15:00 UTC
 - **Agenda and minutes**: <https://docs.google.com/document/d/1l_M0om0qUEN_NNiGgpqJ2tvsF2iioHkaARDeh6b70B0/edit>
 - **Flux calendar:** <https://lists.cncf.io/g/cncf-flux-dev/calendar>
-- **Video recordings:** <https://www.youtube.com/playlist?list=PLbx4FZ4kOKntmgJqaT-iJ8tn4xat150yL>
+- **Video recordings:** <https://www.youtube.com/playlist?list=PLwjBY07V76p5mWNgdINjIiuUiItIeLhIN>
 
 We are looking forward to seeing you there.
 
