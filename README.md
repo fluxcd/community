@@ -78,6 +78,7 @@ To add the meetings to your e.g. Google calendar
 
 ### Upcoming
 
+Please refer to <https://fluxcd.io#calendar> for this.
 
 ### Featured
 
