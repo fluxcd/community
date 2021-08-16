@@ -13,16 +13,19 @@ We also want our community to be diverse, helpful, collaborative and a fun place
 
 To get started, it's important you find out which parts of Flux you are interested in first.
 
+Maintained, with stable APIs:
+
+- Flux: <https://github.com/fluxcd/flux2>
+- As a Helm user: <https://github.com/fluxcd/helm-controller>
+
 Currently stable:
 
-- Flux v1: <https://github.com/fluxcd/flux>
-- As a Helm user: <https://github.com/fluxcd/helm-operator> (v1)
-- If you are interested in progressive delivery, e.g. blue-green testing, etc. <https://github.com/fluxcd/flagger>
+- Progressive delivery, e.g. blue-green testing, etc. <https://github.com/fluxcd/flagger>
 
-V2 - soon to replace all v1 projects:
+Legacy projects, mostly just receive security updates:
 
-- Flux v2: <https://github.com/fluxcd/flux2>
-- As a Helm user: <https://github.com/fluxcd/helm-controller>
+- Flux Legacy: <https://github.com/fluxcd/flux>
+- As a Helm user: <https://github.com/fluxcd/helm-operator>
 
 And there is loads more under <https://github.com/fluxcd>, we all work on this as a community together.
 
