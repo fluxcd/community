@@ -59,3 +59,29 @@ Starting off the team are
 
 Talk to us in [`#flux`](https://cloud-native.slack.com/archives/flux) on [Slack](https://slack.cncf.io) and let us know if you're interested in contributing.
 We would love to have you part of the team.
+
+### Access to things
+
+In case you need access to a particular Flux resource to fulfil your role as team member, please [file an issue on this repository](https://github.com/fluxcd/community/issues/new) and tag some of the folks in the previous section.
+
+Below we list resources that are not tied to GitHub permissions. You can assume that the core Flux maintainers have access, maintainers of the `community` repository and sometimes CNCF staff as backup.
+
+For people listed below we made exceptions:
+
+#### Calendar
+
+<https://lists.cncf.io/g/cncf-flux-dev/calendar>
+
+| Name | Slack handle | Github handle | Affiliation |
+| -- | -- | -- | -- |
+| Kingdon Barrett | `@Kingdon B`     | `@kingdonb`     | Weaveworks |
+| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Weaveworks |
+| Tamao Nakahara  | `@tamao`         | `@mewzherder`   | Weaveworks |
+
+#### YouTube channel
+
+<https://www.youtube.com/channel/UCoZxt-YMhGHb20ZkvcCc5KA>
+
+| Name | Slack handle | Github handle | Affiliation |
+| -- | -- | -- | -- |
+| Kingdon Barrett | `@Kingdon B`     | `@kingdonb`     | Weaveworks |
