@@ -81,56 +81,11 @@ To add the meetings to your e.g. Google calendar
 
 ### Upcoming
 
-Please refer to <https://fluxcd.io#calendar> for this.
+We moved the list of upcoming talks, meetings and other events to [the Flux calendar](https://fluxcd.io#calendar).
 
 ### Featured
 
-- 28 Jul 2021 - [Cloud Native @Scale Meetup: CNCF Incubating Projects featuring Flux with Leigh Capili](https://youtu.be/Gidqz3D9yes?t=1679)
-- 01 Jul 2021 - [GitOps Guide to the Galaxy: Helm GitOps Workflows wtiht he Flux Helm Controller - Scott Rigby](https://www.youtube.com/watch?v=kX1fxly9-4Y)
-- 30 Jun 2021 - [Flux Bug Scrub #0001](https://youtu.be/E9vHgvsQNzQ)
-- 10 Jun 2021 - [Building a Web Scale Internal Developer Platform at Alibaba - Lei “Harry” Zhang](https://youtu.be/dEMYVkIU0aU)
-- 10 Jun 2021 - [Handling Dependencies with Flux - Jason Morgan](https://youtu.be/laMwuG8r7Tw)
-- 10 JUn 2021 - [Flux Deep Dive - Stefan Prodan](https://youtu.be/Fzzg4KQavEU)
-- 09 Jun 2021 - [Flux’s Catalog - Keeping Track of Things! - Leigh Capili](https://youtu.be/gfyo6VqgD_k)
-- 09 Jun 2021 - [Flux UI Announcement & Preview - Jordan Pellizzari](https://youtu.be/UYZGym5p0m8)
-- 09 Jun 2021 - [From Wild West to Flux Multi-tenancy - Mae Large & Russ Parmer](https://youtu.be/NLU6b82FhFs)
-- 09 Jun 2021 - [GitOps Loops - A step Towards Autonomous Infrastructure - Vuk Gojnic](https://youtu.be/3jyYNrDqGVQ)
-- 09 Jun 2021 - [How We Sailed Into Production - GitOps-based CaaS at Deutsche Telekom - Maximilian Rink and Marcel Fest](https://youtu.be/59mTx8tBYag)
-- 09 - 10 Jun 2021 - [GitOps Days 2021](https://www.gitopsdays.com)
-- 06 May 2021 - [Flux: Multi-tenancy Deep Dive - Philip Laine](https://youtu.be/F7B_TBcIyl8) at KubeCon 2021 Europe
-- 05 May 2021 - [Keynote: CNCF Project Update: Flux - Stefan Prodan](https://youtu.be/kuzZpKHLoVM) at KubeCon 2021 Europe
-- 05 May 2021 - [Helm Users! What Flux Can Do For
-  You - Scott Rigby & Kingdon Barrett](https://youtu.be/hCTgCRlU-M0) at KubeCon 2021 Europe
-- 04 - 07 May 2021 - [Flux Pavilion at KubeCon EU! Talks and demos every 30 minutes! Say hello!](https://bit.ly/Flux_KubeConEU2021)
-- 03 May 2021 - [GitOpsCon at KubeCon EU!](https://youtube.com/playlist?list=PLXOML2VBdIo7xEp8Bo9kFB-d6tTlHK5Fk)
-- 29 Apr 2021 - [Doing GitOps for multicloud resource management using Crossplane and Flux2 (at Conf42: Cloud Native 2021)](https://www.conf42.com/Cloud_Native_2021_Leonardo_Murillo_gitops_multicloud_crossplane_flux2)
-- 28 Apr 2021 - [CNCF Cloud Native Live: Migrating from Flux v1 to Flux v2 with Leigh Capili](https://www.youtube.com/watch?v=pYcUukYGyZE)
-- 26 Apr 2021 - [Setting Up Notifications, Alerts, & Webhooks with Alison Dowdney](https://www.youtube.com/watch?v=cakxixc-yQk)
-- 08 Apr 2021 - [GitOps Guide to the Galaxy (Ep 13): Digging deeper into Flux with Weaveworks - 3pm ET](https://youtu.be/QWWzfkdr6Zg)
-- 06 Apr 2021 - [Flux v2 on Azure with Leigh Capili](https://youtu.be/K6OQ93UNSB8)
-- 25 Mar 2021 - [CNCF Webinar: Flux is Incubating + The Road Ahead](https://www.youtube.com/watch?v=va1iho7O4WQ)
-- 25 Mar 2021 - [GitOps Guide to the Galaxy (Ep 12): Flux On OpenShift with Cornelia Davis & Scott Rigby](https://youtu.be/W_rcYPZkhFg)
-- 22 Mar 2021 - [GitOps Hands-On Patterns for Helm Users with Scott Rigby](https://youtu.be/ljouUBPtnuI)
-- 08 Mar 2021 - [Migrating from Flux v1 to Flux v2 with Leigh Capili](https://youtu.be/vwvTwLQhXVI)
-- 25 Feb 2021 - [Dallas Kubernetes Meetup: Introduction to GitOps with Flux & Flagger](https://youtu.be/7E1aFQKNE40)
-- 22 Feb 2021 - [Manage Kubernetes Secrets with Mozilla SOPS & Flux](https://youtu.be/8pbdXAd-F44)
-- 08 Feb 2021 - [Fluxv2 Image Update Automation Sneak Peak with Leigh Capili](https://youtu.be/WnVTY9KQXE0)
-- 25 Jan 2021 - [GitOps Core Concepts & How to Teach Your Teams with Leigh Capili](https://youtu.be/nWN1F6bsuqc)
-- 11 Jan 2021 - [Helm + GitOps = ⚡️⚡️⚡️ with Scott Rigby](https://youtu.be/YG8jMFrYQvM)
-- 14 Dec 2020 - [The Power of GitOps with Flux and Flagger (GitOps Hands-On) with Leigh Capili](https://youtu.be/cB7iXeNLteE)
-- 30 Nov 2020 - [The Power of GitOps with Flux 2 - Part 3 with Leigh Capili](https://youtu.be/N_K5g7o9JKg)
-- 24 Nov 2020 - [Flux CD v2 with GitOps Toolkit - Kubernetes Deployment and Sync Mechanism](https://youtu.be/R6OeIgb7lUI)
-- 13 Nov 2020 - [The evolution of Flux with Stefan Prodan at GitOps Days EMEA](https://youtu.be/nGLpUCPX8JE)
-- 13 Nov 2020 - [Helm Users! What Flux 2 can do for you! by Scott Rigby at GitOps Days EMEA](https://youtu.be/JcKUawSQfQ0)
-- 12 Nov 2020 - [THe Power of GitOps with Flux v2: Managing Remote Clusters (CAPI demo) with Leigh Capili at GitOps Days EMEA](https://youtu.be/7W27tAv7Tvs)
-- 05 Nov 2020 - Philip Laine and Stefan Prodan: [Flux v2 at Cloud Native Göteborg](https://www.meetup.com/TheCloudNativeGbg/events/273413291/)
-- 02 Nov 2020 - [The Power of GitOps with Flux & GitOps Toolkit - Part 2](https://youtu.be/fC2YCxQRUwU)
-- 28 Oct 2020 - [The Kubelist Podcast: Flux with Michael Bridgen](https://www.heavybit.com/library/podcasts/the-kubelist-podcast/ep-5-flux-with-michael-bridgen-of-weaveworks/)
-- 19 Oct 2020 - [The Power of GitOps with Flux & GitOps Toolkit - Part 1](https://youtu.be/0v5bjysXTL8)
-- 12 Oct 2020 - [Rawkode Live: Introduction to GitOps Toolkit with Stefan Prodan](https://youtu.be/HqTzuOBP0eY)
-- 04 Sep 2020 - [KubeCon/CloudNativeCon Europe: The road to Flux v2 and Progressive Delivery with Stefan Prodan & Hidde Beydals](https://youtu.be/8v94nUkXsxU)
-- 25 Jun 2020 - [Cloud Native Nordics: Introduction to GitOps & GitOps Toolkit with Alexis Richardson & Stefan Prodan](https://youtu.be/qQBtSkgl7tI)
-- 07 May 2020 - [GitOps Days - Community Special: GitOps Toolkit Experimentation with Stefan Prodan](https://youtu.be/WHzxunv4DKk?t=6521)
+Please consult the [resources section](https://fluxcd.io/resources) on the Flux website.
 
 ## Communication
 
