@@ -77,16 +77,6 @@ To add the meetings to your e.g. Google calendar
 1. paste iCalendar URL (ends with `.ics`)
 1. done
 
-## Talks
-
-### Upcoming
-
-We moved the list of upcoming talks, meetings and other events to [the Flux calendar](https://fluxcd.io#calendar).
-
-### Featured
-
-Please consult the [resources section](https://fluxcd.io/resources) on the Flux website.
-
 ## Communication
 
 - Join our upcoming [dev meetings](#meetings)
