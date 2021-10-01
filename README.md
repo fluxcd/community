@@ -38,7 +38,7 @@ Afterwards you can help out on Slack answering questions, maybe extend the docs 
 
 The Flux project uses [GitHub org teams](https://docs.github.com/en/organizations) to make it easier for [Project Members](community-roles.md#project-members) and above to communicate within and across teams.
 Members of those teams however should be defined in publicly accessible files for transparency to org non-members.
-See [community-roles.md].
+See [community-roles.md](community-roles.md).
 
 The process of formalising team structures apart from "interest in one or more given sub-project(s)" is ongoing.
 There currently are:
