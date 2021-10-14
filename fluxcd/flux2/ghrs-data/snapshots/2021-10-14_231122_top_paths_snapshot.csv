@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/fluxcd/flux2,3314,1551
+/fluxcd/flux2/issues,932,224
+/fluxcd/flux2/releases,805,393
+/fluxcd/flux2/search,371,72
+/fluxcd/flux2/pulls,326,82
+/fluxcd/flux2/discussions/1916,277,154
+/fluxcd/flux2/discussions,235,75
+/fluxcd/flux2/tree/main/manifests/monitoring,205,53
+/fluxcd/flux2/tree/main/manifests/monitoring/monitoring-config,196,47
+/fluxcd/flux2/tree/main/manifests,185,92
