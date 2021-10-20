@@ -49,7 +49,7 @@ This can be through Code, Documentation, etc.
   **Note the following requirements for sponsors:**
   - Sponsors must have close interactions with the prospective member - for example code/design/proposal review, coordinating on issues, etc.
   - Sponsors must be from multiple companies to demonstrate integration across community
-- Open an issue against the **flux/community** repo
+- [Open an issue against the **fluxcd/community** repo](https://github.com/fluxcd/community/issues/new)
   - Ensure your sponsors are @mentioned on the issue
   - Complete every item on the checklist
 
@@ -122,7 +122,7 @@ The committee is currently comprised of Flux Maintainers who have steered the pr
 In future, Committee Members will come from a diverse background of companies and organizations.
 Ensuring that oversight of the project is not controlled by one company or organization.
 
-**Defined by:** entry in `OVERSIGHT.md` file in the flux/community repo, and in  `@fluxcd/oversight-committee` GitHub team.
+**Defined by:** entry in `OVERSIGHT.md` file in the fluxcd/community repo, and in  `@fluxcd/oversight-committee` GitHub team.
 
 **Requirements:**
 
