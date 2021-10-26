@@ -85,7 +85,7 @@ To add the meetings to your e.g. Google calendar
 - And if you are completely new to Flux and the GitOps Toolkit, take a look at our [Get Started guide](https://fluxcd.io/docs/get-started/) and give us feedback
 - To be part of the conversation about Flux's development, [join the flux-dev mailing list](https://lists.cncf.io/g/cncf-flux-dev).
 - Social media: Follow [Flux on Twitter](https://twitter.com/fluxcd), join the discussion in the [Flux LinkedIn group](https://www.linkedin.com/groups/8985374/).
-- Check out [how to contribute](CONTRIBUTING.md)
+- Check out [how to contribute](https://fluxcd.io/contributing)
 
 ## Rules
 
