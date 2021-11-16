@@ -85,3 +85,4 @@ For people listed below we made exceptions:
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
 | Kingdon Barrett | `@Kingdon B`     | `@kingdonb`     | Weaveworks |
+| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Weaveworks |

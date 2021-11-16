@@ -38,7 +38,7 @@ Afterwards you can help out on Slack answering questions, maybe extend the docs 
 
 The Flux project uses [GitHub org teams](https://docs.github.com/en/organizations) to make it easier for [Project Members](community-roles.md#project-members) and above to communicate within and across teams.
 Members of those teams however should be defined in publicly accessible files for transparency to org non-members.
-See [community-roles.md].
+See [community-roles.md](community-roles.md).
 
 The process of formalising team structures apart from "interest in one or more given sub-project(s)" is ongoing.
 There currently are:
@@ -85,7 +85,7 @@ To add the meetings to your e.g. Google calendar
 - And if you are completely new to Flux and the GitOps Toolkit, take a look at our [Get Started guide](https://fluxcd.io/docs/get-started/) and give us feedback
 - To be part of the conversation about Flux's development, [join the flux-dev mailing list](https://lists.cncf.io/g/cncf-flux-dev).
 - Social media: Follow [Flux on Twitter](https://twitter.com/fluxcd), join the discussion in the [Flux LinkedIn group](https://www.linkedin.com/groups/8985374/).
-- Check out [how to contribute](CONTRIBUTING.md)
+- Check out [how to contribute](https://fluxcd.io/contributing)
 
 ## Maintainers
 
