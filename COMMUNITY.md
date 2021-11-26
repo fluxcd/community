@@ -78,6 +78,15 @@ For people listed below we made exceptions:
 | Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Weaveworks |
 | Tamao Nakahara  | `@tamao`         | `@mewzherder`   | Weaveworks |
 
+#### LinkedIn Group
+
+<https://www.linkedin.com/groups/8985374/>
+
+| Name | Slack handle | Github handle | Affiliation |
+| -- | -- | -- | -- |
+| Kingdon Barrett | `@Kingdon B`     | `@kingdonb`     | Weaveworks |
+| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Weaveworks |
+
 #### YouTube channel
 
 <https://www.youtube.com/channel/UCoZxt-YMhGHb20ZkvcCc5KA>
