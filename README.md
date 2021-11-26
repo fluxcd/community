@@ -94,7 +94,7 @@ The codebase itself is a multi-component design, spread across multiple Git repo
 Flux also includes non-code contributions, such as documentation and community information.
 Maintainers of each repo are listed in a MAINTAINERS file in the root of that repo.
 
-See [flux-project-maintainers.yaml](./flux-project-maintainers.yaml) for an aggregaged list of all maintainers from each of the project's individual Git repos.
+See [flux-project-maintainers.yaml](./flux-project-maintainers.yaml) for an aggregated list of all maintainers from each of the project's individual Git repos.
 
 ## Rules
 
