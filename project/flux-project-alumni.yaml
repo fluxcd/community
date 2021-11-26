@@ -1,0 +1,23 @@
+# Flux project alumni
+
+# https://github.com/fluxcd/go-git-providers/blob/main/MAINTAINERS
+go-git-providers:
+- michaelbeaumont
+- sarataha
+
+# Legacy version (Flux 1)
+# Keep below repo maintainer info until Flux 1 is deprecated.
+# See https://fluxcd.io/docs/migration/timetable/
+
+# https://github.com/fluxcd/flux/blob/master/MAINTAINERS
+flux:
+- 2opremio
+- justinbarrick
+- ncabatoff
+
+
+# https://github.com/fluxcd/helm-operator/blob/master/MAINTAINERS
+helm-operator:
+- 2opremio
+
+# Other repos can be added if applicable

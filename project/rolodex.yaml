@@ -1,0 +1,116 @@
+maintainers:
+- alisondy:
+    name: Alison Dowdney
+    email: alison@alisondowdney.com
+    affiliation: Independent
+    slack: alisondy
+- bia:
+    name: Bianca Cheng Costanzo
+    email: bianca@weave.works
+    affiliation: Weaveworks
+    slack: bianca chenz costanzo
+- darkowlzz:
+    name: Sunny
+    email: sunny@weave.works
+    affiliation: Weaveworks
+    slack: darkowlzz
+- dholbach:
+    name: Daniel Holbach
+    email: dholbach@weave.works
+    affiliation: Weaveworks
+    slack: dholbach
+- dinosk:
+    name: Dinos Kousidis
+    email: dinos.simpson@gmail.com
+    affiliation: CrowdStrike
+    slack: dinos
+- foot:
+    name: Simon Howe
+    email: simon@weave.works
+    affiliation: Weaveworks
+    slack: simonh
+- hidde:
+    name: Hidde Beydals
+    email: hidde@weave.works
+    affiliation: Weaveworks
+    slack: hidde
+- jpellizzari:
+    name: Jordan Pellizzari
+    email: jordan@weave.works
+    affiliation: Weaveworks
+    slack: Jordan Pellizzari
+- kingdonb:
+    name: Kingdon Barrett
+    email: kingdon@weave.works
+    affiliation: Weaveworks
+    slack: Kingdon B
+- makkes:
+    name: Max Jonas Werner
+    email: mwerner@d2iq.com
+    affiliation: D2IQ
+    slack: max
+- mathetake:
+    name: Takeshi Yoneda
+    email: takeshi@tetrate.io
+    affiliation: Tetrate
+    slack: mathetake
+- phillebaba:
+    name: Philip Laine
+    email: philip.laine@xenit.se
+    affiliation: Xenit
+    slack: phillebaba
+- relu:
+    name: Aurel Canciu
+    email: aurel.canciu@nexhealth.com
+    affiliation: NexHealth
+    slack: relu
+- scottrigby:
+    name: Scott Rigby
+    email: scott@weave.works
+    affiliation: Weaveworks
+    slack: scottrigby
+- seaneagan:
+    name: Sean Eagan
+    email: seaneagan1@gmail.com
+    affiliation: Microsoft
+    slack: seaneagan
+- SomtochiAma:
+    name: Somtochi Onyekwere
+    email: somtochi@weave.works
+    affiliation: Weaveworks
+    slack: somtoxhi
+- souleb:
+    name: Soulé Ba
+    email: soule@weave.works
+    affiliation: Weaveworks
+    slack: souleb
+- squaremo:
+    name: Michael Bridgen
+    email: michael@weave.works
+    affiliation: Weaveworks
+    slack: Michael Bridgen
+- stefanprodan:
+    name: Stefan Prodan
+    email: stefan@weave.works
+    affiliation: Weaveworks
+    slack: stefanprodan
+- yiannistri:
+    name: Yiannis Triantafyllopoulos
+    email: yiannis@weave.works
+    affiliation: Weaveworks
+    slack: yiannis
+
+---
+
+alumni:
+- 2opremio:
+    name: Alfonso Acosta
+- justinbarrick:
+    name: Justin Barrick
+- michaelbeaumont:
+    name: Michael Beaumont
+- ncabatoff:
+    name: Nick Cabatoff
+- sarataha:
+    name: Sara El-Zaya
+
