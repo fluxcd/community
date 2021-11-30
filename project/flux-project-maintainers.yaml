@@ -9,7 +9,7 @@ oversight:
 - squaremo
 
 # https://github.com/fluxcd/flux2/blob/main/MAINTAINERS
-flux2: &flux2
+flux2:
 - relu
 - hiddeco
 - makkes
@@ -39,35 +39,77 @@ flagger:
 
 # https://github.com/fluxcd/source-controller/blob/main/MAINTAINERS
 source-controller:
-- <<: *flux2
+# From flux2
+- relu
+- hiddeco
+- makkes
+- phillebaba
+- stefanprodan
+- darkowlzz
 
 # https://github.com/fluxcd/kustomize-controller/blob/main/MAINTAINERS
 kustomize-controller:
-- <<: *flux2
+# From flux2
+- relu
+- hiddeco
+- makkes
+- phillebaba
+- stefanprodan
+- darkowlzz
 
 # https://github.com/fluxcd/helm-controller/blob/main/MAINTAINERS
 helm-controller:
-- <<: *flux2
 - seaneagan
+# From flux2
+- relu
+- hiddeco
+- makkes
+- phillebaba
+- stefanprodan
+- darkowlzz
 
 # https://github.com/fluxcd/notification-controller/blob/main/MAINTAINERS
 notification-controller:
-- <<: *flux2
 - SomtochiAma
+# From flux2
+- relu
+- hiddeco
+- makkes
+- phillebaba
+- stefanprodan
+- darkowlzz
 
 # https://github.com/fluxcd/image-automation-controller/blob/main/MAINTAINERS
 image-automation-controller:
-- <<: *flux2
 - squaremo
+# From flux2
+- relu
+- hiddeco
+- makkes
+- phillebaba
+- stefanprodan
+- darkowlzz
 
 # https://github.com/fluxcd/image-reflector-controller/blob/main/MAINTAINERS
 image-reflector-controller:
-- <<: *flux2
 - squaremo
+# From flux2
+- relu
+- hiddeco
+- makkes
+- phillebaba
+- stefanprodan
+- darkowlzz
 
 # https://github.com/fluxcd/pkg/blob/main/MAINTAINERS
 pkg:
-- <<: *flux2
+# From flux2
+- relu
+- hiddeco
+- makkes
+- phillebaba
+- stefanprodan
+- darkowlzz
 
 # https://github.com/fluxcd/go-git-providers/blob/main/MAINTAINERS
 go-git-providers:
@@ -90,11 +132,23 @@ webui:
 # Examples
 # https://github.com/fluxcd/flux2-multi-tenancy
 flux2-multi-tenancy:
-- <<: *flux2
+# From flux2
+- relu
+- hiddeco
+- makkes
+- phillebaba
+- stefanprodan
+- darkowlzz
 
 # https://github.com/fluxcd/flux2-kustomize-helm-example
 flux2-kustomize-helm-example:
-- <<: *flux2
+# From flux2
+- relu
+- hiddeco
+- makkes
+- phillebaba
+- stefanprodan
+- darkowlzz
 
 # Legacy version (Flux 1)
 # Keep below repo maintainer info until Flux 1 is deprecated.
