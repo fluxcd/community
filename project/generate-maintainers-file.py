@@ -7,6 +7,7 @@ import sys
 import yaml
 
 YAML_PATH = os.path.dirname(__file__)
+ALUMNI_INFO_FN = os.path.join(YAML_PATH, 'flux-project-alumni.yaml')
 MAINTAINER_INFO_FN = os.path.join(YAML_PATH, 'flux-project-maintainers.yaml')
 ROLODEX_FN = os.path.join(YAML_PATH, 'rolodex.yaml')
 
@@ -29,8 +30,19 @@ LIST_PIECE = '''
 In alphabetical order:
 '''
 
+RETIRED1_TEXT = '''
+
+Retired maintainers:
+'''
+
+RETIRED2_TEXT = '''
+
+Thank you for your involvement, and let us not say "farewell" ...'''
+
+
 class ProjectData():
     def __init__(self):
+        self.alumni_info = yaml.safe_load(open(ALUMNI_INFO_FN).read())
         self.maintainer_info = yaml.safe_load(open(MAINTAINER_INFO_FN).read())
         self.rolodex = yaml.safe_load(open(ROLODEX_FN).read())
 
@@ -54,6 +66,19 @@ class ProjectData():
     maintainer['name'], maintainer['affiliation'], maintainer['email'],
     gh_handle, maintainer['slack']
     )
+        if repository in self.alumni_info:
+            text += RETIRED1_TEXT
+            for gh_handle in self.alumni_info[repository]:
+                data = [a for a in self.rolodex['alumni'] if gh_handle in a]
+                if not data:
+                    print('«{}» not in maintainers rolodex.'.format(gh_handle), sys.stderr)
+                    return None
+                maintainer = data[0][gh_handle]
+                text += '''
+- {}'''.format(
+    maintainer['name']
+    )
+            text += RETIRED2_TEXT
         text += '\n'
         return text
 
