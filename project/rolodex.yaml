@@ -16,7 +16,7 @@ maintainers:
     slack: darkowlzz
 - dholbach:
     name: Daniel Holbach
-    email: dholbach@weave.works
+    email: daniel@weave.works
     affiliation: Weaveworks
     slack: dholbach
 - dinosk:
@@ -29,7 +29,7 @@ maintainers:
     email: simon@weave.works
     affiliation: Weaveworks
     slack: simonh
-- hidde:
+- hiddeco:
     name: Hidde Beydals
     email: hidde@weave.works
     affiliation: Weaveworks
@@ -100,7 +100,6 @@ maintainers:
     affiliation: Weaveworks
     slack: yiannis
 
----
 
 alumni:
 - 2opremio:
