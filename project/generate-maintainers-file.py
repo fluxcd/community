@@ -13,7 +13,19 @@ ROLODEX_FN = os.path.join(YAML_PATH, 'rolodex.yaml')
 INFO_HEADER = '''The maintainers are generally available in Slack at
 https://cloud-native.slack.com in #flux (https://cloud-native.slack.com/messages/CLAJ40HV3)
 (obtain an invitation at https://slack.cncf.io/).
+'''
 
+FLUX2_TEXT = '''
+These maintainers are shared with other Flux v2-related git
+repositories under https://github.com/fluxcd, as noted in their
+respective MAINTAINERS files.
+
+For convenience, they are reflected in the GitHub team
+@fluxcd/flux2-maintainers -- if the list here changes, that team also
+should.
+'''
+
+LIST_PIECE = '''
 In alphabetical order:
 '''
 
@@ -28,6 +40,9 @@ class ProjectData():
             return None
 
         text = INFO_HEADER
+        if repository == 'flux2':
+            text += FLUX2_TEXT
+        text += LIST_PIECE
         for gh_handle in self.maintainer_info[repository]:
             data = [a for a in self.rolodex['maintainers'] if gh_handle in a]
             if not data:

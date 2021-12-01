@@ -1,4 +1,4 @@
-name: update contributors cronjob
+name: update MAINTAINER files cronjob
 
 on:
   repository_dispatch:
@@ -7,7 +7,7 @@ on:
     - cron: "00 20 1 * *"
 
 jobs:
-  updateContributors:
+  updateMaintainers:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
