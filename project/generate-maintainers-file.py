@@ -30,6 +30,22 @@ For convenience, they are reflected in the GitHub team
 should.
 '''
 
+SHARED_MAINTENANCE = [
+    'helm-controller',
+    'image-automation-controller',
+    'image-reflector-controller',
+    'kustomize-controller',
+    'notification-controller',
+    'source-controller'
+]
+
+SHARED_MAINTENANCE_TEXT = '''
+In additional to those listed below, this project shares maintainers
+from the main Flux v2 git repository, as listed in
+
+    https://github.com/fluxcd/flux2/blob/main/MAINTAINERS
+'''
+
 LIST_PIECE = '''
 In alphabetical order:
 '''
@@ -57,13 +73,19 @@ class ProjectData():
             slack = 'flux'
         text = INFO_HEADER.format(slack=slack)
 
+        if repository in SHARED_MAINTENANCE:
+            text += SHARED_MAINTENANCE_TEXT
+
         if repository == 'flux2':
             text += FLUX2_TEXT
         return text
 
     def _maintainer_list(self, repository):
         text = LIST_PIECE
-        for gh_handle in self.maintainer_info[repository]:
+        maintainers = self.maintainer_info[repository]
+        if repository in SHARED_MAINTENANCE:
+            maintainers = [a for a in maintainers if not a in self.maintainer_info['flux2']]
+        for gh_handle in maintainers:
             data = [a for a in self.rolodex['maintainers'] if gh_handle in a]
             if not data:
                 print('«{}» not in maintainers rolodex.'.format(gh_handle), sys.stderr)
