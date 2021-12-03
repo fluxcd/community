@@ -11,9 +11,13 @@ ALUMNI_INFO_FN = os.path.join(YAML_PATH, 'flux-project-alumni.yaml')
 MAINTAINER_INFO_FN = os.path.join(YAML_PATH, 'flux-project-maintainers.yaml')
 ROLODEX_FN = os.path.join(YAML_PATH, 'rolodex.yaml')
 
+SLACK_INFO = {
+    'flagger': 'flagger'
+}
+
 INFO_HEADER = '''The maintainers are generally available in Slack at
-https://cloud-native.slack.com in #flux (https://cloud-native.slack.com/messages/CLAJ40HV3)
-(obtain an invitation at https://slack.cncf.io/).
+https://cloud-native.slack.com/messages/{slack}/ (obtain an invitation
+at https://slack.cncf.io/).
 '''
 
 FLUX2_TEXT = '''
@@ -24,6 +28,22 @@ respective MAINTAINERS files.
 For convenience, they are reflected in the GitHub team
 @fluxcd/flux2-maintainers -- if the list here changes, that team also
 should.
+'''
+
+SHARED_MAINTENANCE = [
+    'helm-controller',
+    'image-automation-controller',
+    'image-reflector-controller',
+    'kustomize-controller',
+    'notification-controller',
+    'source-controller'
+]
+
+SHARED_MAINTENANCE_TEXT = '''
+In additional to those listed below, this project shares maintainers
+from the main Flux v2 git repository, as listed in
+
+    https://github.com/fluxcd/flux2/blob/main/MAINTAINERS
 '''
 
 LIST_PIECE = '''
@@ -46,16 +66,26 @@ class ProjectData():
         self.maintainer_info = yaml.safe_load(open(MAINTAINER_INFO_FN).read())
         self.rolodex = yaml.safe_load(open(ROLODEX_FN).read())
 
-    def generate_maintainer_file_text(self, repository):
-        if repository not in self.maintainer_info:
-            print('«{}» not defined in fluxcd projects list.'.format(repository), sys.stderr)
-            return None
+    def _header(self, repository):
+        if repository in SLACK_INFO:
+            slack = SLACK_INFO[repository]
+        else:
+            slack = 'flux'
+        text = INFO_HEADER.format(slack=slack)
 
-        text = INFO_HEADER
+        if repository in SHARED_MAINTENANCE:
+            text += SHARED_MAINTENANCE_TEXT
+
         if repository == 'flux2':
             text += FLUX2_TEXT
-        text += LIST_PIECE
-        for gh_handle in self.maintainer_info[repository]:
+        return text
+
+    def _maintainer_list(self, repository):
+        text = LIST_PIECE
+        maintainers = self.maintainer_info[repository]
+        if repository in SHARED_MAINTENANCE:
+            maintainers = [a for a in maintainers if not a in self.maintainer_info['flux2']]
+        for gh_handle in maintainers:
             data = [a for a in self.rolodex['maintainers'] if gh_handle in a]
             if not data:
                 print('«{}» not in maintainers rolodex.'.format(gh_handle), sys.stderr)
@@ -66,6 +96,10 @@ class ProjectData():
     maintainer['name'], maintainer['affiliation'], maintainer['email'],
     gh_handle, maintainer['slack']
     )
+        return text
+
+    def _alumni_list(self, repository):
+        text = ""
         if repository in self.alumni_info:
             text += RETIRED1_TEXT
             for gh_handle in self.alumni_info[repository]:
@@ -79,6 +113,16 @@ class ProjectData():
     maintainer['name']
     )
             text += RETIRED2_TEXT
+        return text
+
+    def generate_maintainer_file_text(self, repository):
+        if repository not in self.maintainer_info:
+            print('«{}» not defined in fluxcd projects list.'.format(repository), sys.stderr)
+            return None
+
+        text = self._header(repository)
+        text += self._maintainer_list(repository)
+        text += self._alumni_list(repository)
         text += '\n'
         return text
 
