@@ -10,7 +10,7 @@ Roles are progressive, so each include responsibilities, requirements and defini
   - [Project Member](#project-member)
   - [Maintainer](#maintainer)
   - [Oversight Committee](#oversight-committee)
-- [Proccesses](#proccesses)
+- [Processes](#processes)
   - [Inactivity](#inactivity)
   - [Involuntary Removal](#involuntary-removal)
   - [Stepping Down/Emeritus Process](#stepping-downemeritus-process)
@@ -143,7 +143,7 @@ The following apply to all assets across the Flux org:
 - Defining the scope of each git repository
 - Resolving escalated decisions when Maintainers responsible are blocked
 
-## Proccesses
+## Processes
 
 ### Inactivity
 <!--TODO: project leads to fill in exact details for how you measure inactivity for your project-->
