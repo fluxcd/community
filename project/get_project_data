@@ -1,0 +1,131 @@
+#!/usr/bin/python
+
+import os
+import re
+import sys
+from urllib.request import urlopen
+
+from ruamel import yaml
+from ruamel.yaml.comments import CommentedSeq
+
+PROJECT_PATH = os.path.dirname(__file__)
+ALUMNI_FN = os.path.join(PROJECT_PATH, 'flux-project-alumni.yaml')
+MAINTAINERS_FN = os.path.join(PROJECT_PATH, 'flux-project-maintainers.yaml')
+ROLODEX_FN = os.path.join(PROJECT_PATH, 'rolodex.yaml')
+
+
+REPOS = [
+    'community',
+    'flagger',
+    'flux',
+    'flux2',
+    'go-git-providers',
+    'helm-controller',
+    'image-automation-controller',
+    'image-reflector-controller',
+    'kustomize-controller',
+    'notification-controller',
+    'pkg',
+    'source-controller',
+    'terraform-provider-flux',
+    'website',
+    'webui'
+]
+
+
+SHARED_MAINTENANCE = [
+    'helm-controller',
+    'image-automation-controller',
+    'image-reflector-controller',
+    'kustomize-controller',
+    'notification-controller',
+    'source-controller'
+]
+
+def get_maintainer_info(repo):
+    maintainers = set()
+    alumni = set()
+    link = 'https://raw.githubusercontent.com/fluxcd/{}/master/MAINTAINERS'.format(
+        repo)
+    with urlopen(link) as f:
+        content = f.read().decode('utf-8')
+    maintainers = set(
+        re.findall(r'(.+?), (.+?) <(.+?)> \(github: (.+?), slack: (.+?)\)',
+                   content, re.MULTILINE))
+    alumni = set(re.findall(r'^-\ ([\S\s]+?)$', content, re.MULTILINE))
+    return (maintainers, alumni)
+
+def write_rolodex(info):
+    data = {
+        'alumni': set(),
+        'maintainers': []
+    }
+
+    # Merge all repo data into central rolodex
+    maintainers = set()
+    for repo in REPOS:
+        data['alumni'] = data['alumni'].union(info[repo]['alumni'])
+        maintainers = maintainers.union(info[repo]['maintainers'])
+
+    # Break up maintainer data into dict
+    for m in maintainers:
+        maintainer = {}
+        maintainer[m[3].replace('@', '').lower()] = {
+            'name': m[0],
+            'email': m[2],
+            'affiliation': m[1],
+            'slack': m[4]
+        }
+        data['maintainers'] += [maintainer]
+
+    # Sort
+    data['alumni'] = list(data['alumni'])
+    data['alumni'].sort()
+    data['maintainers'].sort(key=lambda a: list(a.keys())[0])
+
+    with open(ROLODEX_FN, 'w') as file_desc:
+        yaml.round_trip_dump(data, file_desc, explicit_start=True)
+
+def write_alumni(info):
+    data = {}
+    for repo in info:
+        if info[repo]['alumni']:
+            alumni = list(info[repo]['alumni'])
+            alumni.sort()
+            data[repo] = alumni
+    with open(ALUMNI_FN, 'w') as file_desc:
+        yaml.round_trip_dump(data, file_desc, explicit_start=True)
+
+
+def write_maintainers(info):
+    data = {}
+    for repo in info:
+        if info[repo]['maintainers']:
+            maintainers = list(info[repo]['maintainers'])
+            maintainers.sort()
+            data[repo] = CommentedSeq([m[3].replace('@', '').lower()
+                                      for m in maintainers])
+            if repo in SHARED_MAINTENANCE:
+                data[repo].yaml_set_start_comment("Plus flux2 maintainers")
+    with open(MAINTAINERS_FN, 'w') as file_desc:
+        yaml.round_trip_dump(data, file_desc, explicit_start=True)
+
+
+def main():
+    info = {}
+    for repo in REPOS:
+        info[repo] = {}
+        (maintainers, alumni) = get_maintainer_info(repo)
+        info[repo]['alumni'] = alumni
+        info[repo]['maintainers'] = maintainers
+    write_rolodex(info)
+    write_alumni(info)
+    write_maintainers(info)
+
+
+if __name__ == '__main__':
+    try:
+        main()
+    except KeyboardInterrupt:
+        print('Aborted.', sys.stderr)
+        sys.exit(1)
