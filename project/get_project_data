@@ -32,6 +32,7 @@ REPOS = [
     'flux2',
     'go-git-providers',
     'helm-controller',
+    'helm-operator',
     'image-automation-controller',
     'image-reflector-controller',
     'kustomize-controller',
