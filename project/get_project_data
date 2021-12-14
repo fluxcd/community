@@ -1,9 +1,20 @@
 #!/usr/bin/python
 
+import glob
 import os
 import re
 import sys
 from urllib.request import urlopen
+
+# I hate doing this... but we've got to make this work on Github Actions...
+
+if os.path.exists('/opt/hostedtoolcache/Python'):
+    VERSION_INFO = sys.version_info
+    LOCATION = '/opt/hostedtoolcache/Python/{}.{}.*/*/lib/python*/site-packages'.format(
+        VERSION_INFO.major, VERSION_INFO.minor)
+    LOCAL_PY_PATHS = glob.glob(LOCATION)
+    if LOCAL_PY_PATHS and LOCAL_PY_PATHS[0] not in sys.path:
+        sys.path.append(LOCAL_PY_PATHS[0])
 
 from ruamel import yaml
 from ruamel.yaml.comments import CommentedSeq
