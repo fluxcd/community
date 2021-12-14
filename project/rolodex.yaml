@@ -1,3 +1,10 @@
+---
+alumni:
+- Alfonso Acosta
+- Justin Barrick
+- Michael Beaumont
+- Nick Cabatoff
+- Sara El-Zayat
 maintainers:
 - alisondy:
     name: Alison Dowdney
@@ -8,7 +15,7 @@ maintainers:
     name: Bianca Cheng Costanzo
     email: bianca@weave.works
     affiliation: Weaveworks
-    slack: bianca chenz costanzo
+    slack: bianca cheng costanzo
 - darkowlzz:
     name: Sunny
     email: sunny@weave.works
@@ -71,16 +78,16 @@ maintainers:
     slack: scottrigby
 - seaneagan:
     name: Sean Eagan
-    email: seaneagan1@gmail.com
-    affiliation: Microsoft
+    email: sean.eagan@att.com
+    affiliation: AT&T
     slack: seaneagan
-- SomtochiAma:
+- somtochiama:
     name: Somtochi Onyekwere
     email: somtochi@weave.works
     affiliation: Weaveworks
     slack: somtoxhi
 - souleb:
-    name: Soulé Ba
+    name: Soule Ba
     email: soule@weave.works
     affiliation: Weaveworks
     slack: souleb
@@ -99,17 +106,3 @@ maintainers:
     email: yiannis@weave.works
     affiliation: Weaveworks
     slack: yiannis
-
-
-alumni:
-- 2opremio:
-    name: Alfonso Acosta
-- justinbarrick:
-    name: Justin Barrick
-- michaelbeaumont:
-    name: Michael Beaumont
-- ncabatoff:
-    name: Nick Cabatoff
-- sarataha:
-    name: Sara El-Zayat
-
