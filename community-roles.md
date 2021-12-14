@@ -2,7 +2,7 @@
 <!-- omit in toc -->
 # Community Roles
 
-This document outlines the different roles within the project, along with the responsibilites and privileges that come with them.
+This document outlines the different roles within the project, along with the responsibilities and privileges that come with them.
 Roles are progressive, so each include responsibilities, requirements and definitions from the previous roles.
 
 - [Roles](#roles)
