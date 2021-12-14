@@ -1,14 +1,17 @@
-# Flux project maintainers
-# Simple YAML for CNCF project maintainers list
-# https://github.com/cncf/foundation/blob/master/project-maintainers.csv
-
-# https://github.com/fluxcd/community/blob/main/OVERSIGHT.md
-oversight:
-- hiddeco
+---
+community:
+- alisondy
+- dholbach
+- scottrigby
 - stefanprodan
+flagger:
+- stefanprodan
+- mathetake
+flux:
+- hiddeco
+- kingdonb
 - squaremo
-
-# https://github.com/fluxcd/flux2/blob/main/MAINTAINERS
+- stefanprodan
 flux2:
 - relu
 - hiddeco
@@ -16,160 +19,37 @@ flux2:
 - phillebaba
 - stefanprodan
 - darkowlzz
-
-# https://github.com/fluxcd/community/blob/main/MAINTAINERS
-community:
-- alisondy
-- dholbach
-- stefanprodan
-- scottrigby
-
-# https://github.com/fluxcd/website/blob/main/MAINTAINERS
-website:
-- alisondy
-- dholbach
-- hiddeco
-- scottrigby
-- stefanprodan
-
-# https://github.com/fluxcd/flagger/blob/main/MAINTAINERS
-flagger:
-- stefanprodan
-- mathetake
-
-# https://github.com/fluxcd/source-controller/blob/main/MAINTAINERS
-source-controller:
-# From flux2
-- relu
-- hiddeco
-- makkes
-- phillebaba
-- stefanprodan
-- darkowlzz
-
-# https://github.com/fluxcd/kustomize-controller/blob/main/MAINTAINERS
-kustomize-controller:
-# From flux2
-- relu
-- hiddeco
-- makkes
-- phillebaba
-- stefanprodan
-- darkowlzz
-
-# https://github.com/fluxcd/helm-controller/blob/main/MAINTAINERS
-helm-controller:
-- seaneagan
-# From flux2
-- relu
-- hiddeco
-- makkes
-- phillebaba
-- stefanprodan
-- darkowlzz
-
-# https://github.com/fluxcd/notification-controller/blob/main/MAINTAINERS
-notification-controller:
-- SomtochiAma
-# From flux2
-- relu
-- hiddeco
-- makkes
-- phillebaba
-- stefanprodan
-- darkowlzz
-
-# https://github.com/fluxcd/image-automation-controller/blob/main/MAINTAINERS
-image-automation-controller:
-- squaremo
-# From flux2
-- relu
-- hiddeco
-- makkes
-- phillebaba
-- stefanprodan
-- darkowlzz
-
-# https://github.com/fluxcd/image-reflector-controller/blob/main/MAINTAINERS
-image-reflector-controller:
-- squaremo
-# From flux2
-- relu
-- hiddeco
-- makkes
-- phillebaba
-- stefanprodan
-- darkowlzz
-
-# https://github.com/fluxcd/pkg/blob/main/MAINTAINERS
-pkg:
-# From flux2
-- relu
-- hiddeco
-- makkes
-- phillebaba
-- stefanprodan
-- darkowlzz
-
-# https://github.com/fluxcd/go-git-providers/blob/main/MAINTAINERS
 go-git-providers:
 - dinosk
 - foot
 - souleb
 - stefanprodan
 - yiannistri
-
-# https://github.com/fluxcd/terraform-provider-flux/blob/main/MAINTAINERS
-terraform-provider-flux:
-- phillebaba
-- stefanprodan
-
-# https://github.com/fluxcd/webui/blob/main/MAINTAINERS
-webui:
-- bia
-- jpellizzari
-
-# Examples
-# https://github.com/fluxcd/flux2-multi-tenancy
-flux2-multi-tenancy:
-# From flux2
-- relu
-- hiddeco
-- makkes
-- phillebaba
-- stefanprodan
-- darkowlzz
-
-# https://github.com/fluxcd/flux2-kustomize-helm-example
-flux2-kustomize-helm-example:
-# From flux2
-- relu
-- hiddeco
-- makkes
-- phillebaba
-- stefanprodan
-- darkowlzz
-
-# Legacy version (Flux 1)
-# Keep below repo maintainer info until Flux 1 is deprecated.
-# See https://fluxcd.io/docs/migration/timetable/
-
-# https://github.com/fluxcd/flux/blob/master/MAINTAINERS
-flux:
-- kingdonb
-- hiddeco
-- squaremo
-- stefanprodan
-
-# https://github.com/fluxcd/charts
-charts:
-- kingdonb
-- stefanprodan
-
-# https://github.com/fluxcd/helm-operator/blob/master/MAINTAINERS
+helm-controller:
+# Plus flux2 maintainers
+- seaneagan
 helm-operator:
 - hiddeco
 - squaremo
 - stefanprodan
-
-# Other repos can be added if applicable
+image-automation-controller:
+# Plus flux2 maintainers
+- squaremo
+image-reflector-controller:
+# Plus flux2 maintainers
+- squaremo
+notification-controller:
+# Plus flux2 maintainers
+- somtochiama
+terraform-provider-flux:
+- phillebaba
+- stefanprodan
+website:
+- alisondy
+- dholbach
+- hiddeco
+- scottrigby
+- stefanprodan
+webui:
+- bia
+- jpellizzari
