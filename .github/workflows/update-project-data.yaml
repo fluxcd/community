@@ -1,4 +1,4 @@
-name: update MAINTAINER files cronjob
+name: update project data cronjob
 
 on:
   repository_dispatch:
@@ -7,7 +7,7 @@ on:
     - cron: "00 20 1 * *"
 
 jobs:
-  updateMaintainers:
+  updateProjectData:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -19,11 +19,11 @@ jobs:
         with:
           requirements: project/requirements.txt
       - run: |
-          ./project/generate-maintainers-file.py community
+          ./project/get_project_data
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
-          title: Update maintainers file
+          title: Update project data
           signoff: true
