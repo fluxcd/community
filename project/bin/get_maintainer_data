@@ -19,7 +19,7 @@ if os.path.exists('/opt/hostedtoolcache/Python'):
 from ruamel import yaml
 from ruamel.yaml.comments import CommentedSeq
 
-PROJECT_PATH = os.path.dirname(__file__)
+PROJECT_PATH = os.path.join(os.path.dirname(__file__), '..')
 ALUMNI_FN = os.path.join(PROJECT_PATH, 'flux-project-alumni.yaml')
 MAINTAINERS_FN = os.path.join(PROJECT_PATH, 'flux-project-maintainers.yaml')
 ROLODEX_FN = os.path.join(PROJECT_PATH, 'rolodex.yaml')
