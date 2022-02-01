@@ -33,6 +33,14 @@ These should be clarified, and defined consistently within our own docs and read
             >
             > Flagger documentation can be found at docs.flagger.app.
 
+### Frequently Asked Questions
+
+**Question:** Shouldn't it be "Flux CD" or "FluxCD"?
+
+- We prefer just **Flux** - that's what our project was always called.
+- We needed to pick `fluxcd` as our [GitHub organisation](https://github.com/fluxcd) because `flux` and `fluxproject` were taken.
+- Similarly regarding our website `fluxcd.io`.
+
 ## Integrations
 
 When describing Flux integration with other projects, we should be clear which parts of Flux we mean.
