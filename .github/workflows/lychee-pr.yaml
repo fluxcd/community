@@ -9,6 +9,6 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v1.2.1
         with:
-          args: --verbose --no-progress **/*.md --exclude-file .lycheeignore
+          args: --verbose --no-progress '**/*.md' --exclude-file .lycheeignore
       - name: Fail if there were link errors
         run: exit ${{ steps.lychee.outputs.exit_code }}
