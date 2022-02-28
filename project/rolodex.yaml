@@ -66,6 +66,11 @@ maintainers:
     email: philip.laine@xenit.se
     affiliation: Xenit
     slack: phillebaba
+- pjbgf:
+    name: Paulo Gomes
+    email: paulo.gomes@weave.works
+    affiliation: Weaveworks
+    slack: pjbgf
 - relu:
     name: Aurel Canciu
     email: aurel.canciu@nexhealth.com
