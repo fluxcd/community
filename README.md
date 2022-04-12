@@ -79,13 +79,16 @@ To add the meetings to your e.g. Google calendar
 
 ## Communication
 
-- Join our upcoming [dev meetings](#meetings)
-- Talk to us in the #flux channel on [CNCF Slack](https://slack.cncf.io/)
-- Join the [planning discussions](https://github.com/fluxcd/flux2/discussions)
-- And if you are completely new to Flux and the GitOps Toolkit, take a look at our [Get Started guide](https://fluxcd.io/docs/get-started/) and give us feedback
-- To be part of the conversation about Flux's development, [join the flux-dev mailing list](https://lists.cncf.io/g/cncf-flux-dev).
-- Social media: Follow [Flux on Twitter](https://twitter.com/fluxcd), join the discussion in the [Flux LinkedIn group](https://www.linkedin.com/groups/8985374/).
-- Check out [how to contribute](https://fluxcd.io/contributing)
+Here is a list of good entry points into our community. Here is how we stay in touch and how you can meet us as a team.
+
+- Slack: Join in and talk to us in the #flux channel on [CNCF Slack](https://slack.cncf.io/)
+- Meetings: We run weekly, public meetings - join one of the upcoming [dev meetings](#meetings), introduce yourself and get involved this way
+- Join the [Flux discussions on GitHub](https://github.com/fluxcd/flux2/discussions)
+- Mailing list: To be updated on Flux progress regularly, you might want to [join the flux-dev mailing list](https://lists.cncf.io/g/cncf-flux-dev) as well
+- Social media: Follow [Flux on Twitter](https://twitter.com/fluxcd), join the discussion in the [Flux LinkedIn group](https://www.linkedin.com/groups/8985374/)
+- Blog: Stay up to date on [the Flux blog](https://fluxcd.io/blog/)
+- Check out our guides on [how to contribute to Flux](https://fluxcd.io/docs/contributing)
+- And if you are completely new to the Flux project, take a look at our [Get Started guide](https://fluxcd.io/docs/get-started/) and give us feedback
 
 ## Maintainers
 
