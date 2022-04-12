@@ -23,9 +23,10 @@ It's what helps new contributors get up to speed, enables collaboration, integra
 The Community team helps with communication channels, including:
 
 - The `cncf-flux-dev` [project mailing list](https://lists.cncf.io/g/cncf-flux-dev)
-- [Our blog](https://github.com/fluxcd/website/issues/27) (WIP)
+- [Our blog](https://fluxcd.io/blog)
 - Slack (likely more to follow)
   - [#flux](https://cloud-native.slack.com/archives/flux)
+  - [#flagger](https://cloud-native.slack.com/archives/flagger)
   - [#gitops](https://kubernetes.slack.com/archives/gitops)
 - Social media
   - [LinkedIn](https://www.linkedin.com/groups/8985374/)
