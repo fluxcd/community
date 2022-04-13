@@ -101,6 +101,12 @@ Maintainers are elected [Project Members][Project Member] who showed significant
 - Have maintainers submit their vote by `+1`
 - Once all maintainers in repo have `+1` the pr will be reviewed by a member of the Flux [Oversight Committee]
 
+Once the above process has taken its course, make sure you
+
+- Are added to the internal `#flux-maintainers` Slack channel
+- Update <https://maintainers.cncf.io>
+- Get somebody to ping [CNCF Service Desk](https://cncfservicedesk.atlassian.net/) to get you added as Flux maintainer
+
 **Responsibilities and Privileges:**
 
 The following apply to the part of the codebase for which one would be in a MAINTAINERS file:
