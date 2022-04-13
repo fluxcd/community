@@ -106,6 +106,8 @@ Once the above process has taken its course, make sure you
 - Are added to the internal `#flux-maintainers` Slack channel
 - Update <https://maintainers.cncf.io>
 - Get somebody to ping [CNCF Service Desk](https://cncfservicedesk.atlassian.net/) to get you added as Flux maintainer
+- Ping fellow maintainers to get added to Flux 1Password
+- (Optional) Check if your [CNCF affiliation is up to date](https://github.com/cncf/gitdm#addingupdating-affiliation)
 
 **Responsibilities and Privileges:**
 
