@@ -19,11 +19,18 @@ Roles are progressive, so each include responsibilities, requirements and defini
 
 ## Roles
 
+Most of the roles defined herein are defined by membership in a certain GitHub organization or team:
+
+* [fluxcd org](https://github.com/fluxcd): The organization under which all of Flux's activity on GitHub is captured.
+* [@fluxcd/flux2-maintainers](https://github.com/orgs/fluxcd/teams/flux2-maintainers): The team comprised of all maintainers of Flux v2 components.
+* [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers): The team comprised of all maintainers of both, Flux v1 and Flux v2 components.
+* [@fluxcd/oversight-committee](https://github.com/orgs/fluxcd/teams/oversight-committee): The team comprised of all [Oversight Committee] members.
+
 ### Community Member
 
-Community Members are any user who interacts with the project.
+Community Members are all users who interact with the project.
 
-This could be through Slack, using the project itself, GitHub discussions, etc.
+This could be through Slack, GitHub discussions, joining public project meetings, etc.
 
 **Responsibilities:**
 
@@ -32,9 +39,12 @@ This could be through Slack, using the project itself, GitHub discussions, etc.
 ### Project Member
 
 Project Members are [Community Members][Community Member] who contribute directly to the project and add value to it.
-This can be through Code, Documentation, etc.
+This can be through code, documentation, taking part in bug scrubs, etc.
 
-**Defined by:** In `@fluxcd/member` GitHub team.
+**Defined by:**
+
+- [Triage role](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization#repository-access-for-each-permission-level) on all `fluxcd` GitHub org repos
+- [Membership](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/about-organization-membership) in the [fluxcd org](https://github.com/fluxcd)
 
 **Requirements:**
 
@@ -80,7 +90,6 @@ This can be through Code, Documentation, etc.
 
 **Responsibilities and privileges:**
 
-- [Triage role](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization#repository-access-for-each-permission-level) on all `fluxcd` GitHub org repos
 - Responsive to issues and PRs assigned to them
 - Active owner of code they have contributed (unless ownership is explicitly transferred)
   - Code is well tested
@@ -90,16 +99,18 @@ This can be through Code, Documentation, etc.
 
 ### Maintainer
 
-Maintainers are elected [Project Members][Project Member] who showed significant and sustained contributions in a git repository.
+Maintainers are elected [Project Members][Project Member] who have shown significant and sustained contributions in a git repository.
 
-**Defined by:** entry in MAINTAINERS file in a repo owned by the Flux project, and in `@fluxcd/maintainers` GitHub team.
+**Defined by:** entry in MAINTAINERS file in a repo owned by the Flux project, and membership in the [@fluxcd/flux2-maintainers](https://github.com/orgs/fluxcd/teams/flux2-maintainers) [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers) GitHub team.
 
 **Requirements:**
 
-- Make a PR against the `MAINTAINERS` file for a `fluxcd` GitHub org repo
+- Make a PR against the `MAINTAINERS` file for a `fluxcd` GitHub org repo. [Example PR](https://github.com/fluxcd/source-controller/pull/584)
 - @mention all the other current maintainers
 - Have maintainers submit their vote by `+1`
 - Once all maintainers in repo have `+1` the pr will be reviewed by a member of the Flux [Oversight Committee]
+
+**flux2 maintainers:** Maintainership in the [flux2 MAINTAINERS file](https://github.com/fluxcd/flux2/blob/main/MAINTAINERS) trickles down to all other Flux 2-related repositories which means that mantainers mentioned there are also maintainers in all other repositories.
 
 Once the above process has taken its course, make sure you
 
