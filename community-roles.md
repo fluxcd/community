@@ -19,6 +19,13 @@ Roles are progressive, so each include responsibilities, requirements and defini
 
 ## Roles
 
+Most of the roles defined herein are defined by membership in a certain GitHub organization or team:
+
+* [fluxcd org](https://github.com/fluxcd): The organization under which all of Flux's activity on GitHub is captured.
+* [@fluxcd/flux2-maintainers](https://github.com/orgs/fluxcd/teams/flux2-maintainers): The team comprised of all maintainers of Flux v2 components.
+* [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers): The team comprised of all maintainers of both, Flux v1 and Flux v2 components.
+* [@fluxcd/oversight-committee](https://github.com/orgs/fluxcd/teams/oversight-committee): The team comprised of all [Oversight Committee] members.
+
 ### Community Member
 
 Community Members are all users who interact with the project.
@@ -33,6 +40,11 @@ This could be through Slack, GitHub discussions, joining public project meetings
 
 Project Members are [Community Members][Community Member] who contribute directly to the project and add value to it.
 This can be through code, documentation, taking part in bug scrubs, etc.
+
+**Defined by:**
+
+- [Triage role](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization#repository-access-for-each-permission-level) on all `fluxcd` GitHub org repos
+- [Membership](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/about-organization-membership) in the [fluxcd org](https://github.com/fluxcd)
 
 **Requirements:**
 
@@ -78,8 +90,6 @@ This can be through code, documentation, taking part in bug scrubs, etc.
 
 **Responsibilities and privileges:**
 
-- [Triage role](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization#repository-access-for-each-permission-level) on all `fluxcd` GitHub org repos
-- [Membership](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/about-organization-membership) in the [fluxcd org](https://github.com/fluxcd)
 - Responsive to issues and PRs assigned to them
 - Active owner of code they have contributed (unless ownership is explicitly transferred)
   - Code is well tested
@@ -91,7 +101,7 @@ This can be through code, documentation, taking part in bug scrubs, etc.
 
 Maintainers are elected [Project Members][Project Member] who have shown significant and sustained contributions in a git repository.
 
-**Defined by:** entry in MAINTAINERS file in a repo owned by the Flux project, and membership in the [@fluxcd/flux2-maintainers](https://github.com/orgs/fluxcd/teams/flux2-maintainers) GitHub team.
+**Defined by:** entry in MAINTAINERS file in a repo owned by the Flux project, and membership in the [@fluxcd/flux2-maintainers](https://github.com/orgs/fluxcd/teams/flux2-maintainers) [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers) GitHub team.
 
 **Requirements:**
 
