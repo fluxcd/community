@@ -201,6 +201,12 @@ Please reach out to the [Oversight Committee] to discuss this process.
 
 For inquiries, please reach out to: <cncf-flux-oversight-committee@lists.cncf.io>
 
+### Examples of Decisions
+
+- Project change: Moving Flagger under the Flux organisation was not a code or architectural change, but a big decision that impacted the Flux project and community, hence it was discussed in various [Flux Dev meetings](https://fluxcd.io/community/#meetings), before being put up at <https://github.com/fluxcd/community/issues/34> for a comment period of one month and when there were no objections, the decision was announced [here](https://fluxcd.io/blog/2021/01/january-2021-update/#flagger-moves-under-the-fluxcd-organization).
+- Architectural change: introducing the RFC process itself was introduced as [an RFC](https://github.com/fluxcd/flux2/pull/2085). Here is a list of other architectural changes which fall under that category: <https://github.com/fluxcd/flux2/pulls?q=label%3Aarea%2FRFC+>.
+- Application to become a member of the Flux project was filed as an issue under `fluxcd/community`: <https://github.com/fluxcd/community/issues/127> (a checklist of requirements, sponsors, list of contributions, and approval can be found in the issue - just follow [this process](#project-member)).
+
 <!-- md links -->
 [Community Member]: #community-member
 [Project Member]: #project-member
