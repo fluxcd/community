@@ -21,10 +21,10 @@ Roles are progressive, so each include responsibilities, requirements and defini
 
 Most of the roles defined herein are defined by membership in a certain GitHub organization or team:
 
-* [fluxcd org](https://github.com/fluxcd): The organization under which all of Flux's activity on GitHub is captured.
-* [@fluxcd/flux2-maintainers](https://github.com/orgs/fluxcd/teams/flux2-maintainers): The team comprised of all maintainers of Flux v2 components.
-* [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers): The team comprised of all maintainers of both, Flux v1 and Flux v2 components.
-* [@fluxcd/oversight-committee](https://github.com/orgs/fluxcd/teams/oversight-committee): The team comprised of all [Oversight Committee] members.
+- [fluxcd org](https://github.com/fluxcd): The organization under which all of Flux's activity on GitHub is captured.
+- [@fluxcd/flux2-maintainers](https://github.com/orgs/fluxcd/teams/flux2-maintainers): The team comprised of all maintainers of Flux v2 components.
+- [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers): The team comprised of all maintainers of both, Flux v1 and Flux v2 components.
+- [@fluxcd/oversight-committee](https://github.com/orgs/fluxcd/teams/oversight-committee): The team comprised of all [Oversight Committee] members.
 
 ### Community Member
 
