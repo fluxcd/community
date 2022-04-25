@@ -101,5 +101,5 @@ See [project/flux-project-maintainers.yaml](./project/flux-project-maintainers.y
 
 ## Rules
 
-The Flux community is governed by the [governance document](GOVERNANCE.md), and involvement is defined in [community-roles.md](community-roles.md).
+The Flux community is governed by the [governance document](GOVERNANCE.md), involvement is defined in [community-roles.md](community-roles.md), and processes can be found in [PROCESS.md](PROCESS.md).
 We as a community follow the [code of conduct](CODE_OF_CONDUCT.md).

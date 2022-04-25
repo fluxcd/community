@@ -10,12 +10,6 @@ Roles are progressive, so each include responsibilities, requirements and defini
   - [Project Member](#project-member)
   - [Maintainer](#maintainer)
   - [flux2 maintainers](#flux2-maintainers)
-- [Processes](#processes)
-  - [Inactivity](#inactivity)
-  - [Involuntary Removal](#involuntary-removal)
-  - [Stepping Down/Emeritus Process](#stepping-downemeritus-process)
-  - [Stepping Back Into a Role](#stepping-back-into-a-role)
-  - [Contact](#contact)
 
 ## Roles
 
@@ -45,48 +39,6 @@ This can be through code, documentation, taking part in bug scrubs, etc.
 - [Triage role](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization#repository-access-for-each-permission-level) on all `fluxcd` GitHub org repos
 - [Membership](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/about-organization-membership) in the [fluxcd org](https://github.com/fluxcd)
 
-**Requirements:**
-
-- Have made multiple contributions to the project or community.
-  Contribution may include, but is not limited to:
-  - Authoring or reviewing PRs on GitHub
-  - Filing or commenting on issues on GitHub
-  - Contributing to project or community discussions (for example meetings, Slack, email discussion forums, Stack Overflow)
-- Subscribed to the [flux-dev mailing list](https://lists.cncf.io/g/cncf-flux-dev/join)
-- Actively contributing to 1 or more `fluxcd` GitHub org repos
-- Sponsored by 2 maintainers.
-  **Note the following requirements for sponsors:**
-  - Sponsors must have close interactions with the prospective member - for example code/design/proposal review, coordinating on issues, etc.
-  - Sponsors must be from multiple companies to demonstrate integration across community
-- [Open an issue against the **fluxcd/community** repo](https://github.com/fluxcd/community/issues/new)
-  - Ensure your sponsors are @mentioned on the issue
-  - Complete every item on the checklist
-
-    ```markdown
-    ### GitHub Username
-    e.g. (at)example_user
-
-    ### Requirements
-    - [ ] I have reviewed the community membership guidelines in `community-roles.md`
-    - [ ] I have subscribed to the cncf-flux-dev e-mail list [https://lists.cncf.io/g/cncf-flux-dev/join](https://lists.cncf.io/g/cncf-flux-dev/join)
-    - [ ] I am actively contributing to 1 or more `fluxcd` GitHub org repos (eg. Flux, Flagger)
-    - [ ] I have two sponsors that meet the sponsor requirements listed in the community membership guidelines
-    - [ ] I have spoken to my sponsors ahead of this application, and they have agreed to sponsor my application
-
-    ### Sponsors
-    - (at)sponsor-1
-    - (at)sponsor-2
-
-    ### List of contributions to the Flux project
-    - PRs reviewed / authored
-    - Discussions involved in & Issues responded to
-    - Flux subprojects I am involved with (Flagger, Flux, Controllers)
-    ```
-
-  - Have your sponsoring maintainers reply confirmation of sponsorship: `+1`
-  - Once your sponsors have responded, your request will be reviewed by a member of the [flux2-maintainers].
-    Any missing information will be requested.
-
 **Responsibilities and privileges:**
 
 - Responsive to issues and PRs assigned to them
@@ -96,26 +48,13 @@ This can be through code, documentation, taking part in bug scrubs, etc.
   - Addresses bugs or issues discovered after code is accepted
 - Note: members who frequently contribute code are expected to proactively perform code reviews and work towards becoming a maintainer
 
+Process: refer to [PROCESS.md](PROCESS.md#applying-for-flux-membership).
+
 ### Maintainer
 
 Maintainers are elected [Project Members][Project Member] who have shown significant and sustained contributions in a git repository.
 
 **Defined by:** entry in MAINTAINERS file in a repo owned by the Flux project, and membership in the [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers) GitHub team.
-
-**Requirements:**
-
-- Make a PR against the `MAINTAINERS` file for a `fluxcd` GitHub org repo. [Example PR](https://github.com/fluxcd/source-controller/pull/584)
-- @mention all the other current maintainers
-- Have maintainers submit their vote by `+1`
-- Once all maintainers in repo have `+1` the pr will be reviewed by a member of the [flux2-maintainers]
-
-Once the above process has taken its course, make sure you
-
-- Are added to the internal `#flux-maintainers` Slack channel
-- Update <https://maintainers.cncf.io>
-- Get somebody to ping [CNCF Service Desk](https://cncfservicedesk.atlassian.net/) to get you added as Flux maintainer
-- Ping fellow maintainers to get added to Flux 1Password
-- (Optional) Check if your [CNCF affiliation is up to date](https://github.com/cncf/gitdm#addingupdating-affiliation)
 
 **Responsibilities and Privileges:**
 
@@ -126,6 +65,8 @@ The following apply to the part of the codebase for which one would be in a MAIN
 - Serve as a point of conflict resolution between Contributors to their git repository
 - Maintain open collaboration with Contributors and other Maintainers
 - Ask for help when unsure and step down considerately
+
+Process: refer to [PROCESS.md](PROCESS.md#applying-for-flux-maintainership).
 
 ### flux2 maintainers
 
@@ -153,51 +94,6 @@ The following apply to all assets across the Flux org:
 - Managing financial decisions
 - Defining the scope of each git repository
 - Resolving escalated decisions when Maintainers responsible are blocked
-
-## Processes
-
-### Inactivity
-<!--TODO: project leads to fill in exact details for how you measure inactivity for your project-->
-
-It is important for contributors to be and stay active to set an example and show commitment to the project.
-Inactivity is harmful to the project as it may lead to unexpected delays, contributor attrition, and a lost of trust in the project.
-
-Inactivity is to be defined by the [flux2 maintainers] team.
-
-Consequences of being inactive include:
-
-- Involuntary Removal
-- Being moved to Emeritus status
-
-### Involuntary Removal
-
-Involuntary removal of a contributor happens when responsibilities and requirements aren't being met.
-This may include repeated pattern of inactivity, extended period of inactivity, and/or a violation of the Code of Conduct.
-This process is important because it protects the community and its deliverables while also opens up opportunities for new contributors to step in.
-
-Involuntary removal is handled by the [flux2 maintainers] team.
-
-### Stepping Down/Emeritus Process
-
-If and when contributors' commitment levels change, contributors can consider stepping down (moving down a role) vs moving to emeritus status (completely stepping away from the project).
-
-Please reach out to the [flux2 maintainers] team to discuss this process.
-
-### Stepping Back Into a Role
-
-If and when someone is available to step back into a previous contributor role, this is something that can be arranged and considered by the [flux2 maintainers] team.
-
-Please reach out to the [flux2 maintainers] team to discuss this process.
-
-### Contact
-
-For inquiries, please reach out to: `@fluxcd/flux2-maintainers` on GitHub.
-
-### Examples of Decisions
-
-- Project change: Moving Flagger under the Flux organisation was not a code or architectural change, but a big decision that impacted the Flux project and community, hence it was discussed in various [Flux Dev meetings](https://fluxcd.io/community/#meetings), before being put up at <https://github.com/fluxcd/community/issues/34> for a comment period of one month and when there were no objections, the decision was announced [here](https://fluxcd.io/blog/2021/01/january-2021-update/#flagger-moves-under-the-fluxcd-organization).
-- Architectural change: introducing the RFC process itself was introduced as [an RFC](https://github.com/fluxcd/flux2/pull/2085). Here is a list of other architectural changes which fall under that category: <https://github.com/fluxcd/flux2/pulls?q=label%3Aarea%2FRFC+>.
-- Application to become a member of the Flux project was filed as an issue under `fluxcd/community`: <https://github.com/fluxcd/community/issues/127> (a checklist of requirements, sponsors, list of contributions, and approval can be found in the issue - just follow [this process](#project-member)).
 
 <!-- md links -->
 [Community Member]: #community-member

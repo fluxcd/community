@@ -6,14 +6,13 @@ This document <https://github.com/fluxcd/community/blob/main/GOVERNANCE.md> defi
 
 - [Values](#values)
   - [Code of Conduct](#code-of-conduct)
-- [Roles in the Flux Community](#roles-in-the-flux-community)
+- [Roles and Process in the Flux Community](#roles-and-process-in-the-flux-community)
 - [Decision Making](#decision-making)
   - [Deciders](#deciders)
   - [Decision Guidelines](#decision-guidelines)
   - [Simple Majority Decisions](#simple-majority-decisions)
   - [Supermajority Decisions](#supermajority-decisions)
   - [Unanimity Decisions](#unanimity-decisions)
-- [Proposal Process](#proposal-process)
 - [Licenses and Copyright](#licenses-and-copyright)
 
 ## Values
@@ -30,13 +29,12 @@ Flux strives to operate independently of specific partisan interests, and for de
 
 The Flux community adheres to the CNCF Code of Conduct <https://github.com/cncf/foundation/blob/master/code-of-conduct.md>.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a _Flux_ [flux2 maintainers] member.
+## Roles and Process in the Flux Community
 
-If no conclusion can be reached in meditation, such issues can be escalated to the CNCF mediator, Mishi Choudhary <mishi@linux.com>, in which case CNCF may choose to intervene.
+See
 
-## Roles in the Flux Community
-
-See [community-roles.md]
+- [community-roles.md] for the definition of roles in our community and
+- [PROCESS.md] to understand how to interact with Flux Community processes
 
 ## Decision Making
 
@@ -47,7 +45,7 @@ See [community-roles.md]
 
 ### Decision Guidelines
 
-- Decisions that warrant wider input should be made public by using the below guidelines in combination with the Proposal Process below.
+- Decisions that warrant wider input should be made public by using the below guidelines in combination with the [Proposal Process](PROCESS.md#proposal-process).
 - Whether or not wider input is required, the Flux community believes that the best decisions are reached through Consensus <https://en.wikipedia.org/wiki/Consensus_decision-making>.
 - Most decisions start by seeking Lazy Consensus <https://communitymgt.wikia.com/wiki/Lazy_consensus>.
 - If an objection is raised through the Lazy Consensus process, Deciders work together to seek an agreeable solution.
@@ -85,18 +83,6 @@ If a vote is called, the following decision require Unanimity <https://en.wikipe
 - Repository [Maintainers][Maintainer]: Electing new Maintainers of the same repository.
 - [flux2 maintainers]: Electing new Committee members.
 - [flux2 maintainers]: Removing a Repository Maintainer or Committee member for any reason other than inactivity.
-
-## Proposal Process
-
-- Code changes should go through the pull request process, where the idea and implementation details can be publicly discussed with [Maintainers][Maintainer], other contributors, and end users.
-  Pull requests should only be merged after receiving GitHub approval from at least one Maintainer who is not the pull request author.
-- For architectural changes to Flux, please use the [RFC process](https://github.com/fluxcd/flux2/tree/main/rfcs).  
-  Note that Flux v2 uses GitHub discussions for (non-architectural) proposals in the `fluxcd/flux2` Git repository <https://github.com/fluxcd/flux2/discussions?discussions_q=category%3AProposals>.
-- Non-code changes should be proposed as GitHub issues.
-  If unclear which Git repository to create the issue in, default to the community repository <https://github.com/fluxcd/community>.
-- All proposals should be discussed publicly in an appropriate GitHub issue or pull request.
-- If a Maintainer of an affected git repository feels feedback from specific people is warranted they will @mention those users or teams to request feedback.
-- Proposals may also be added to the Flux Dev weekly meetings agenda, as a good avenue for making progress on a decision <https://lists.cncf.io/g/cncf-flux-dev/calendar>.
 
 ## Licenses and Copyright
 
