@@ -38,6 +38,10 @@ See
 
 ## Decision Making
 
+While we spell out all the possibilities for decision making and possible eventualities below, the Flux project almost always looked for and found consensus. Using lazy consensus never resulted in later disputes. Our communication channels (public meetings, Slack, RFCs, etc) provide us with the means to have agreement before we set up a vote.
+
+If we fail to make a decision or the picture was unclear, we found that we needed more information. In these cases, we reach out to users, adjacent projects or counterpart teams in the CNCF.
+
 ### Deciders
 
 - Repository [Maintainers][Maintainer]: Decisions that affect only one git repository.
