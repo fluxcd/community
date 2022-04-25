@@ -111,7 +111,7 @@ Luckily some of the companies who employ Flux developers offer paid support, so 
 
 ---
 
-*Flux is a CNCF project, so this "paid support" section is not tied to any single company in particular. If you want to add your company to the list, please file a PR and tag the [Flux Oversight Committee](https://github.com/fluxcd/community/blob/main/GOVERNANCE.md#oversight-committee).*
+*Flux is a CNCF project, so this "paid support" section is not tied to any single company in particular. If you want to add your company to the list, please file a PR and tag the [flux 2 Maintainers](https://github.com/fluxcd/community/blob/main/GOVERNANCE.md#flux2-maintainers).*
 
 *If your company has a track record of Flux engineering and/or support we will get you added.*
 

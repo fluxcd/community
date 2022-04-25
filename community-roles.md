@@ -9,7 +9,7 @@ Roles are progressive, so each include responsibilities, requirements and defini
   - [Community Member](#community-member)
   - [Project Member](#project-member)
   - [Maintainer](#maintainer)
-  - [Oversight Committee](#oversight-committee)
+  - [flux2 maintainers](#flux2-maintainers)
 - [Processes](#processes)
   - [Inactivity](#inactivity)
   - [Involuntary Removal](#involuntary-removal)
@@ -23,8 +23,7 @@ Most of the roles defined herein are defined by membership in a certain GitHub o
 
 - [fluxcd org](https://github.com/fluxcd): The organization under which all of Flux's activity on GitHub is captured.
 - [@fluxcd/flux2-maintainers](https://github.com/orgs/fluxcd/teams/flux2-maintainers): The team comprised of all maintainers of Flux v2 components.
-- [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers): The team comprised of all maintainers of both, Flux v1 and Flux v2 components.
-- [@fluxcd/oversight-committee](https://github.com/orgs/fluxcd/teams/oversight-committee): The team comprised of all [Oversight Committee] members.
+- [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers): The team comprised of all maintainers of the various projects in the FluxCD organisation: Flux v1, Flux v2, Flagger, GitOps Toolkit, etc.
 
 ### Community Member
 
@@ -85,7 +84,7 @@ This can be through code, documentation, taking part in bug scrubs, etc.
     ```
 
   - Have your sponsoring maintainers reply confirmation of sponsorship: `+1`
-  - Once your sponsors have responded, your request will be reviewed by a member of the Flux [Oversight Committee].
+  - Once your sponsors have responded, your request will be reviewed by a member of the [flux2-maintainers].
     Any missing information will be requested.
 
 **Responsibilities and privileges:**
@@ -101,16 +100,14 @@ This can be through code, documentation, taking part in bug scrubs, etc.
 
 Maintainers are elected [Project Members][Project Member] who have shown significant and sustained contributions in a git repository.
 
-**Defined by:** entry in MAINTAINERS file in a repo owned by the Flux project, and membership in the [@fluxcd/flux2-maintainers](https://github.com/orgs/fluxcd/teams/flux2-maintainers) [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers) GitHub team.
+**Defined by:** entry in MAINTAINERS file in a repo owned by the Flux project, and membership in the [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers) GitHub team.
 
 **Requirements:**
 
 - Make a PR against the `MAINTAINERS` file for a `fluxcd` GitHub org repo. [Example PR](https://github.com/fluxcd/source-controller/pull/584)
 - @mention all the other current maintainers
 - Have maintainers submit their vote by `+1`
-- Once all maintainers in repo have `+1` the pr will be reviewed by a member of the Flux [Oversight Committee]
-
-**flux2 maintainers:** Maintainership in the [flux2 MAINTAINERS file](https://github.com/fluxcd/flux2/blob/main/MAINTAINERS) trickles down to all other Flux 2-related repositories which means that mantainers mentioned there are also maintainers in all other repositories.
+- Once all maintainers in repo have `+1` the pr will be reviewed by a member of the [flux2-maintainers]
 
 Once the above process has taken its course, make sure you
 
@@ -130,23 +127,18 @@ The following apply to the part of the codebase for which one would be in a MAIN
 - Maintain open collaboration with Contributors and other Maintainers
 - Ask for help when unsure and step down considerately
 
-### Oversight Committee
+### flux2 maintainers
 
-The Oversight Committee is responsible for the overall project, and anything not easily managed by the Maintainers of each git repository.
+Maintainership in the [flux2 MAINTAINERS file](https://github.com/fluxcd/flux2/blob/main/MAINTAINERS) trickles down to all other Flux 2-related repositories which means that mantainers mentioned there are also maintainers in all other repositories.
 
-The committee drives the direction, values and governance of the overall project.
+In addition to maintaining `flux2` and Flux 2-related repositories, this team serves as escalation point for the overall project, and anything not easily managed by the Maintainers of each git repository.
 
-The committee is currently comprised of Flux Maintainers who have steered the project prior to the initial Governance document.
+This team drives the direction, values and governance of the overall project.
 
-In future, Committee Members will come from a diverse background of companies and organizations.
+It is important to us that its members come from a diverse background of companies and organizations.
 Ensuring that oversight of the project is not controlled by one company or organization.
 
-**Defined by:** entry in `OVERSIGHT.md` file in the fluxcd/community repo, and in  `@fluxcd/oversight-committee` GitHub team.
-
-**Requirements:**
-
-We aim to build out requirements for the Oversight Committee role during incubation.
-See [fluxcd/community#106](https://github.com/fluxcd/community/issues/106).
+**Defined by:** entry in [flux2 MAINTAINERS file](https://github.com/fluxcd/flux2/blob/main/MAINTAINERS), and in the `@fluxcd/flux2-maintainers` GitHub team.
 
 **Responsibilities and Privileges:**
 
@@ -170,7 +162,7 @@ The following apply to all assets across the Flux org:
 It is important for contributors to be and stay active to set an example and show commitment to the project.
 Inactivity is harmful to the project as it may lead to unexpected delays, contributor attrition, and a lost of trust in the project.
 
-Inactivity is to be defined by the [Oversight Committee].
+Inactivity is to be defined by the [flux2 maintainers] team.
 
 Consequences of being inactive include:
 
@@ -183,23 +175,23 @@ Involuntary removal of a contributor happens when responsibilities and requireme
 This may include repeated pattern of inactivity, extended period of inactivity, and/or a violation of the Code of Conduct.
 This process is important because it protects the community and its deliverables while also opens up opportunities for new contributors to step in.
 
-Involuntary removal is handled by the [Oversight Committee].
+Involuntary removal is handled by the [flux2 maintainers] team.
 
 ### Stepping Down/Emeritus Process
 
 If and when contributors' commitment levels change, contributors can consider stepping down (moving down a role) vs moving to emeritus status (completely stepping away from the project).
 
-Please reach out to the [Oversight Committee] to discuss this process.
+Please reach out to the [flux2 maintainers] team to discuss this process.
 
 ### Stepping Back Into a Role
 
-If and when someone is available to step back into a previous contributor role, this is something that can be arranged and considered by the project [Oversight Committee].
+If and when someone is available to step back into a previous contributor role, this is something that can be arranged and considered by the [flux2 maintainers] team.
 
-Please reach out to the [Oversight Committee] to discuss this process.
+Please reach out to the [flux2 maintainers] team to discuss this process.
 
 ### Contact
 
-For inquiries, please reach out to: <cncf-flux-oversight-committee@lists.cncf.io>
+For inquiries, please reach out to: `@fluxcd/flux2-maintainers` on GitHub.
 
 ### Examples of Decisions
 
@@ -211,4 +203,4 @@ For inquiries, please reach out to: <cncf-flux-oversight-committee@lists.cncf.io
 [Community Member]: #community-member
 [Project Member]: #project-member
 [Maintainer]: #maintainer
-[Oversight Committee]: #oversight-committee
+[flux2 maintainers]: #flux2-maintainers
