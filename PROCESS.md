@@ -37,6 +37,7 @@ As foundational documents such as [GOVERNANCE.md](GOVERNANCE.md) and [community-
     - [ ] I have reviewed the community membership guidelines in `community-roles.md`
     - [ ] I have subscribed to the cncf-flux-dev e-mail list [https://lists.cncf.io/g/cncf-flux-dev/join](https://lists.cncf.io/g/cncf-flux-dev/join)
     - [ ] I am actively contributing to 1 or more `fluxcd` GitHub org repos (eg. Flux, Flagger)
+    - [ ] I have enabled 2FA in GitHub
     - [ ] I have two sponsors that meet the sponsor requirements listed in the community membership guidelines
     - [ ] I have spoken to my sponsors ahead of this application, and they have agreed to sponsor my application
 
