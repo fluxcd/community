@@ -41,8 +41,14 @@ This can be through code, documentation, taking part in bug scrubs, etc.
 
 **Responsibilities and privileges:**
 
-- Responsive to issues and PRs assigned to them
-- Active owner of code they have contributed (unless ownership is explicitly transferred)
+To become a Project Member you need to demonstrate the following:
+
+- ability to write quality code and/or documentation,
+- ability to collaborate with the team,
+- understanding of how the team works (policies, processes for testing and code review, etc),
+- understanding of the project's code base and coding and documentation style.
+- be responsive to issues and PRs assigned to them
+- be active owner of code they have contributed (unless ownership is explicitly transferred)
   - Code is well tested
   - Tests consistently pass
   - Addresses bugs or issues discovered after code is accepted
@@ -58,13 +64,17 @@ Maintainers are elected [Project Members][Project Member] who have shown signifi
 
 **Responsibilities and Privileges:**
 
-The following apply to the part of the codebase for which one would be in a MAINTAINERS file:
+To become a Maintainer you need to demonstrate the following:
 
 - Enable and promote Flux community values
 - Engage with end Users through appropriate communication channels
 - Serve as a point of conflict resolution between Contributors to their git repository
 - Maintain open collaboration with Contributors and other Maintainers
 - Ask for help when unsure and step down considerately
+- Commitment to the project:
+  - Participate in discussions, contributions, code and documentation reviews for 3 months or more,
+  - perform reviews for 5 non-trivial pull requests,
+  - contribute 10 non-trivial pull requests and have them merged,
 
 Process: refer to [PROCESS.md](PROCESS.md#applying-for-flux-maintainership).
 
