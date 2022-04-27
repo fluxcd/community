@@ -12,7 +12,6 @@ This document <https://github.com/fluxcd/community/blob/main/GOVERNANCE.md> defi
   - [Decision Guidelines](#decision-guidelines)
   - [Simple Majority Decisions](#simple-majority-decisions)
   - [Supermajority Decisions](#supermajority-decisions)
-  - [Unanimity Decisions](#unanimity-decisions)
 - [Licenses and Copyright](#licenses-and-copyright)
 
 ## Values
@@ -74,7 +73,7 @@ If we fail to make a decision or the picture was unclear, we found that we neede
       This should be rare, due to the social cost of discontinuing the Consensus process for this reason.
       Most decisions should wait for the above process to take its course.
 - If Deciders agree to a vote, the default is a Simple Majority.
-- However, there are cases that require stronger voting – Supermajority or Unanimity – specified below:
+- However, there are cases that require stronger voting – Supermajority – specified below:
 
 ### Simple Majority Decisions
 
@@ -84,19 +83,14 @@ If a vote is called, the default is a Simple Majority Vote <https://en.wikipedia
 
 If a vote is called, the following decisions require a Supermajority Vote <https://en.wikipedia.org/wiki/Supermajority>.
 
+- Repository [Maintainers][Maintainer]: Electing new Maintainers of the same repository.
 - [flux2 maintainers]: Enforcing a Code of Conduct violation by a community member.
+- [flux2 maintainers]: Removing a Maintainer of any repository for any reason other than inactivity.
 - [flux2 maintainers]: Licensing and intellectual property changes.
 - [flux2 maintainers]: Material changes to the Governance document.
   - Note: editorial changes to governance may be made by lazy consensus, unless challenged.
     These are changes which fix spelling or grammar, update work affiliation or similar, update style or reflect an outside and obvious reality.
     They do not change the intention or meaning of anything in this document.
-
-### Unanimity Decisions
-
-If a vote is called, the following decision require Unanimity <https://en.wikipedia.org/wiki/Unanimity>.
-
-- Repository [Maintainers][Maintainer]: Electing new Maintainers of the same repository.
-- [flux2 maintainers]: Removing a Maintainer for any reason other than inactivity.
 
 ## Licenses and Copyright
 

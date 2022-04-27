@@ -65,7 +65,7 @@ Any missing information will be requested.
 - Have maintainers submit their vote by `+1`
 - Once all maintainers in repo have `+1` the pr will be reviewed by a member of the [flux2-maintainers]
 
-Electing new Maintainers of the same repository is an Unanimity decision.
+Electing new Maintainers of the same repository is a [Supermajority decision](#supermajority-decisions).
 
 Once the above process has taken its course, make sure you
 
@@ -108,7 +108,7 @@ Involuntary removal of a contributor happens when responsibilities and requireme
 This may include repeated pattern of inactivity, extended period of inactivity, and/or a violation of the Code of Conduct.
 This process is important because it protects the community and its deliverables while also opens up opportunities for new contributors to step in.
 
-Involuntary removal is handled by the [flux2 maintainers] team. Removing a Repository Maintainer for any reason other than inactivity is an Unanimity decision.
+Involuntary removal is handled by the [flux2 maintainers] team. Removing a Repository Maintainer for any reason other than inactivity is a [Supermajority decision](#supermajority-decisions).
 
 ### Stepping Down/Emeritus Process
 
@@ -124,12 +124,12 @@ Please reach out to the [flux2 maintainers] team to discuss this process.
 
 ### Licensing changes
 
-Licensing and intellectual property changes is a supermajority decision. To be made by the [flux2 maintainers].
+Licensing and intellectual property changes is a [Supermajority decision](#supermajority-decisions). To be made by the [flux2 maintainers].
 
 ### Governance changes
 
 [flux2 maintainers] decide on material changes to the Governance document.
- This is a supermajority decision.
+ This is a [Supermajority decision](#supermajority-decisions).
 
 - Note: editorial changes to governance may be made by lazy consensus, unless challenged.
   These are changes which fix spelling or grammar, update work affiliation or similar, update style or reflect an outside and obvious reality.
