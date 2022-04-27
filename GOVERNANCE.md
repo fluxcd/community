@@ -96,8 +96,7 @@ If a vote is called, the following decisions require a Supermajority Vote <https
 If a vote is called, the following decision require Unanimity <https://en.wikipedia.org/wiki/Unanimity>.
 
 - Repository [Maintainers][Maintainer]: Electing new Maintainers of the same repository.
-- [flux2 maintainers]: Electing new Committee members.
-- [flux2 maintainers]: Removing a Repository Maintainer or Committee member for any reason other than inactivity.
+- [flux2 maintainers]: Removing a Maintainer for any reason other than inactivity.
 
 ## Licenses and Copyright
 
