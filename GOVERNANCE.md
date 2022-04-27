@@ -29,6 +29,17 @@ Flux strives to operate independently of specific partisan interests, and for de
 
 [Code of Conduct](CODE_OF_CONDUCT.md) violations by community members will be discussed and resolved on the [private Maintainer mailing list](mailto:cncf-flux-maintainers@lists.cncf.io). If the reported CoC violator is a Maintainer, the Maintainers will instead designate two Maintainers to work with CNCF staff in resolving the report.
 
+### Meetings
+
+Time zones permitting, Maintainers are expected to participate in the [public
+developer meeting](README.md#meetings).
+
+Maintainers will also have closed meetings in order to discuss security reports
+or Code of Conduct violations.  Such meetings should be scheduled by any
+Maintainer on receipt of a security issue or CoC report.  All current Maintainers
+must be invited to such closed meetings, except for any Maintainer who is
+accused of a CoC violation.
+
 ## Roles and Process in the Flux Community
 
 See
