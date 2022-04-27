@@ -122,16 +122,6 @@ If and when someone is available to step back into a previous contributor role, 
 
 Please reach out to the [flux2 maintainers] team to discuss this process.
 
-### Code of Conduct
-
-The Flux community adheres to the CNCF Code of Conduct <https://github.com/cncf/foundation/blob/master/code-of-conduct.md>.
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a _Flux_ [flux2 maintainers] member.
-
-Enforcing a Code of Conduct violation by a community member is a supermajority decision.
-
-If no conclusion can be reached in meditation, such issues can be escalated to the CNCF mediator, Mishi Choudhary <mishi@linux.com>, in which case CNCF may choose to intervene.
-
 ### Licensing changes
 
 Licensing and intellectual property changes is a supermajority decision. To be made by the [flux2 maintainers].

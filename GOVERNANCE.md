@@ -27,7 +27,7 @@ Flux strives to operate independently of specific partisan interests, and for de
 
 ### Code of Conduct
 
-The Flux community adheres to the CNCF Code of Conduct <https://github.com/cncf/foundation/blob/master/code-of-conduct.md>.
+[Code of Conduct](CODE_OF_CONDUCT.md) violations by community members will be discussed and resolved on the [private Maintainer mailing list](mailto:cncf-flux-maintainers@lists.cncf.io). If the reported CoC violator is a Maintainer, the Maintainers will instead designate two Maintainers to work with CNCF staff in resolving the report.
 
 ## Roles and Process in the Flux Community
 
