@@ -71,10 +71,17 @@ To become a Maintainer you need to demonstrate the following:
 - Serve as a point of conflict resolution between Contributors to their git repository
 - Maintain open collaboration with Contributors and other Maintainers
 - Ask for help when unsure and step down considerately
-- Commitment to the project:
+- A good understanding of the code-base (or equivalent that is governed by the repository, e.g. `fluxcd/community` or `fluxcd/website`)
+- Willing to take on long-term responsibility for the project (or a specific part of it)
+- Commitment to the project. Specifically:
+
+  This can be evidenced differently and we want to maintain some general flexibility assessing this. Significant and sustained contributions can be be both by showing a long-term level of care with a bigger number of smaller contributions or by a smaller set of sizable contributions. To make it somewhat more comparable, here is an example of commitment we would be happy to accept for a maintainer:
+
   - Participate in discussions, contributions, code and documentation reviews for 3 months or more,
-  - perform reviews for 5 non-trivial pull requests,
-  - contribute 10 non-trivial pull requests and have them merged,
+  - perform reviews for 10 non-trivial pull requests (total),
+  - contribute 15 non-trivial pull requests (total) and have them merged.
+
+  Ask one of the current maintainers, if you are unsure. They will be happy to give you feedback.
 
 Process: refer to [PROCESS.md](PROCESS.md#applying-for-flux-maintainership).
 

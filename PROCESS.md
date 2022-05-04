@@ -108,7 +108,7 @@ Involuntary removal of a contributor happens when responsibilities and requireme
 This may include repeated pattern of inactivity, extended period of inactivity, and/or a violation of the Code of Conduct.
 This process is important because it protects the community and its deliverables while also opens up opportunities for new contributors to step in.
 
-Involuntary removal is handled by the [flux2 maintainers] team. Removing a Repository Maintainer for any reason other than inactivity is a [Supermajority decision](#supermajority-decisions).
+Involuntary removal is handled by the [flux2 maintainers] team. Removing a Repository Maintainer or flux2 Maintainer for any reason other than inactivity is a [Supermajority decision](#supermajority-decisions).
 
 ### Stepping Down/Emeritus Process
 
