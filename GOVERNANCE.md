@@ -78,11 +78,11 @@ If we fail to make a decision or the picture was unclear, we found that we neede
 
 ### Simple Majority Decisions
 
-If a vote is called, the default is a Simple Majority Vote – more than half of [Deciders](#deciders).
+If a vote is called, the default is a Simple Majority Vote – more than half of all [Deciders](#deciders).
 
 ### Supermajority Decisions
 
-If a vote is called, the following decisions require a Supermajority Vote – two-thirds of [Deciders](#deciders):
+If a vote is called, the following decisions require a Supermajority Vote – two-thirds or more of all [Deciders](#deciders):
 
 - Repository [Maintainers][Maintainer]: Electing new Maintainers of the same repository.
 - [flux2 maintainers]: Enforcing a Code of Conduct violation by a community member.
