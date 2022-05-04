@@ -6,6 +6,7 @@ This document <https://github.com/fluxcd/community/blob/main/GOVERNANCE.md> defi
 
 - [Values](#values)
   - [Code of Conduct](#code-of-conduct)
+  - [Meetings](#meetings)
 - [Roles and Process in the Flux Community](#roles-and-process-in-the-flux-community)
 - [Decision Making](#decision-making)
   - [Deciders](#deciders)
