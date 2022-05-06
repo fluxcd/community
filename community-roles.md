@@ -87,7 +87,7 @@ Process: refer to [PROCESS.md](PROCESS.md#applying-for-flux-maintainership).
 
 ### Core maintainers
 
-Maintainership in the [flux2 MAINTAINERS file](https://github.com/fluxcd/flux2/blob/main/MAINTAINERS) trickles down to all other Flux 2-related repositories which means that maintainers mentioned there are also maintainers in all other repositories.
+Maintainership in the [CORE-MAINTAINERS file](https://github.com/fluxcd/community/blob/main/CORE-MAINTAINERS) trickles down to all other Flux 2-related repositories which means that maintainers mentioned there are also maintainers in all other repositories.
 
 In addition to maintaining `flux2` and Flux 2-related repositories, this team serves as escalation point for the overall project, and anything not easily managed by the Maintainers of each git repository.
 
@@ -96,7 +96,7 @@ This team drives the direction, values and governance of the overall project.
 It is important to us that its members come from a diverse background of companies and organizations.
 Ensuring that oversight of the project is not controlled by one company or organization.
 
-**Defined by:** entry in [flux2 MAINTAINERS file](https://github.com/fluxcd/flux2/blob/main/MAINTAINERS), and in the `@fluxcd/core-maintainers` GitHub team.
+**Defined by:** entry in [CORE-MAINTAINERS file](https://github.com/fluxcd/community/blob/main/CORE-MAINTAINERS), and in the `@fluxcd/core-maintainers` GitHub team.
 
 **Responsibilities and Privileges:**
 
