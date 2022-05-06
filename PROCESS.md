@@ -52,7 +52,7 @@ As foundational documents such as [GOVERNANCE.md](GOVERNANCE.md) and [community-
     ```
 
 - Have your sponsoring maintainers reply confirmation of sponsorship: `+1`
-- Once your sponsors have responded, your request will be reviewed by a member of the [core-maintainers].
+- Once your sponsors have responded, your request will be reviewed by a member of the [core maintainers].
 
 Any missing information will be requested.
 
@@ -63,7 +63,7 @@ Any missing information will be requested.
 - Make a PR against the `MAINTAINERS` file for a `fluxcd` GitHub org repo. [Example PR](https://github.com/fluxcd/source-controller/pull/584)
 - @mention all the other current maintainers
 - Have maintainers submit their vote by `+1`
-- Once all maintainers in repo have `+1` the pr will be reviewed by a member of the [core-maintainers]
+- Once all maintainers in repo have `+1` the pr will be reviewed by a member of the [core maintainers]
 
 Electing new Maintainers of the same repository is a [Supermajority decision](#supermajority-decisions).
 
@@ -74,6 +74,8 @@ Once the above process has taken its course, make sure you
 - Get somebody to ping [CNCF Service Desk](https://cncfservicedesk.atlassian.net/) to get you added as Flux maintainer
 - Ping fellow maintainers to get added to Flux 1Password
 - (Optional) Check if your [CNCF affiliation is up to date](https://github.com/cncf/gitdm#addingupdating-affiliation)
+
+**Applying as core maintainer:** The same process applies for applying as a core maintainer. The PR should be against the [CORE-MAINTAINERS file](https://github.com/fluxcd/community/blob/main/CORE-MAINTAINERS) though and an accordingly higher level of experience and a more holistic understanding of the project is expected.
 
 ## Proposal Process
 
