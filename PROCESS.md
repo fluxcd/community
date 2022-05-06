@@ -139,6 +139,19 @@ Licensing and intellectual property changes is a [Supermajority decision](#super
 
 For inquiries, please reach out to: `@fluxcd/core-maintainers` on GitHub.
 
+### Requesting new repositories / bots / GitHub applications / etc
+
+File an issue in the `fluxcd/community` repository and contact the `@fluxcd/org-admins` team to fulfil your request.
+
+### Electing Org Admins
+
+Org Admins are defined in the [ORG-ADMINS file](https://github.com/fluxcd/community/blob/main/ORG-ADMINS). An election can be done through a pull request against this file to be approved by the [core maintainers].
+
+The list of members is reviewed every year and should consist of:
+
+- active members (preferably spread over various timezones and organizations)
+- counterparts at the CNCF and Linux Foundation
+
 ### Examples of Decisions
 
 - Project change: Moving Flagger under the Flux organisation was not a code or architectural change, but a big decision that impacted the Flux project and community, hence it was discussed in various [Flux Dev meetings](https://fluxcd.io/community/#meetings), before being put up at <https://github.com/fluxcd/community/issues/34> for a comment period of one month and when there were no objections, the decision was announced [here](https://fluxcd.io/blog/2021/01/january-2021-update/#flagger-moves-under-the-fluxcd-organization).

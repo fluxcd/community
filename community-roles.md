@@ -17,7 +17,7 @@ Most of the roles defined herein are defined by membership in a certain GitHub o
 
 - [fluxcd org](https://github.com/fluxcd): The organization under which all of Flux's activity on GitHub is captured.
 - [@fluxcd/core-maintainers](https://github.com/orgs/fluxcd/teams/core-maintainers): The team comprised of all maintainers of Flux v2 components.
-- [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers): The team comprised of all maintainers of the various projects in the FluxCD organisation: Flux v1, Flux v2, Flagger, GitOps Toolkit, website and community repos, etc.
+- [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers): The team comprised of all maintainers of the various projects in the FluxCD organization: Flux v1, Flux v2, Flagger, GitOps Toolkit, website and community repos, etc.
 
 ### Community Member
 
@@ -112,8 +112,26 @@ The following apply to all assets across the Flux org:
 - Defining the scope of each git repository
 - Resolving escalated decisions when Maintainers responsible are blocked
 
+### Org Admins
+
+In order to restrict access to [`admin` level functionality in GitHub](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-roles-for-an-organization#permissions-for-each-role) functionality, we define this team, who can e.g.
+
+- Delete a repository
+- Remove permissions from a user
+- Approve applications and/or bots
+- and more.
+
+This team has no decision making power on its own, but is instead there to serve the needs of the Flux maintainers and contributors.
+
+**Defined by:** entry in [ORG-ADMINS file](https://github.com/fluxcd/community/blob/main/ORG-ADMINS), and in the `@fluxcd/org-admins` GitHub team.
+
+**Responsibilities and Privileges:**
+
+`admin` level access to the `fluxcd` organization in GitHub.
+
 <!-- md links -->
 [Community Member]: #community-member
 [Project Member]: #project-member
 [Maintainer]: #maintainer
 [core maintainers]: #core-maintainers
+[Org Admins]: #org-admins

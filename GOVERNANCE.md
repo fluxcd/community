@@ -92,6 +92,7 @@ If a vote is called, the following decisions require a Supermajority Vote – t
   - Note: editorial changes to governance may be made by lazy consensus, unless challenged.
     These are changes which fix spelling or grammar, update work affiliation or similar, update style or reflect an outside and obvious reality.
     They do not change the intention or meaning of anything in this document.
+- [core maintainers]: Elect new [org admins].
 
 ## Licenses and Copyright
 
@@ -107,4 +108,5 @@ Links to relevant CNCF documentation:
 <!-- md links -->
 [Maintainer]: community-roles.md#maintainer
 [core maintainers]: community-roles.md#core-maintainers
+[org admins]: community-roles.md#org-admins
 [community-roles.md]: community-roles.md
