@@ -58,7 +58,7 @@ Any missing information will be requested.
 
 ### Applying for Flux Maintainership
 
-**Requirements:**
+**Process:**
 
 - Make a PR against the `MAINTAINERS` file for a `fluxcd` GitHub org repo. [Example PR](https://github.com/fluxcd/source-controller/pull/584)
 - @mention all the other current maintainers
