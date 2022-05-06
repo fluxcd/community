@@ -43,7 +43,7 @@ See [community-roles.md](community-roles.md).
 The process of formalising team structures apart from "interest in one or more given sub-project(s)" is ongoing.
 There currently are:
 
-- The [flux2 maintainers](GOVERNANCE.md#flux2-maintainers)
+- The [core maintainers](GOVERNANCE.md#core-maintainers)
 - The [Security team](SECURITY.md)
 - The [Community team](COMMUNITY.md)
 

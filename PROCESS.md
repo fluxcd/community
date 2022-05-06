@@ -52,7 +52,7 @@ As foundational documents such as [GOVERNANCE.md](GOVERNANCE.md) and [community-
     ```
 
 - Have your sponsoring maintainers reply confirmation of sponsorship: `+1`
-- Once your sponsors have responded, your request will be reviewed by a member of the [flux2-maintainers].
+- Once your sponsors have responded, your request will be reviewed by a member of the [core-maintainers].
 
 Any missing information will be requested.
 
@@ -63,7 +63,7 @@ Any missing information will be requested.
 - Make a PR against the `MAINTAINERS` file for a `fluxcd` GitHub org repo. [Example PR](https://github.com/fluxcd/source-controller/pull/584)
 - @mention all the other current maintainers
 - Have maintainers submit their vote by `+1`
-- Once all maintainers in repo have `+1` the pr will be reviewed by a member of the [flux2-maintainers]
+- Once all maintainers in repo have `+1` the pr will be reviewed by a member of the [core-maintainers]
 
 Electing new Maintainers of the same repository is a [Supermajority decision](#supermajority-decisions).
 
@@ -95,7 +95,7 @@ Once the above process has taken its course, make sure you
 It is important for contributors to be and stay active to set an example and show commitment to the project.
 Inactivity is harmful to the project as it may lead to unexpected delays, contributor attrition, and a lost of trust in the project.
 
-Inactivity is to be defined by the [flux2 maintainers] team.
+Inactivity is to be defined by the [core maintainers] team.
 
 Consequences of being inactive include:
 
@@ -108,27 +108,27 @@ Involuntary removal of a contributor happens when responsibilities and requireme
 This may include repeated pattern of inactivity, extended period of inactivity, and/or a violation of the Code of Conduct.
 This process is important because it protects the community and its deliverables while also opens up opportunities for new contributors to step in.
 
-Involuntary removal is handled by the [flux2 maintainers] team. Removing a Repository Maintainer or flux2 Maintainer for any reason other than inactivity is a [Supermajority decision](#supermajority-decisions).
+Involuntary removal is handled by the [core maintainers] team. Removing a Repository Maintainer or Core Maintainer for any reason other than inactivity is a [Supermajority decision](#supermajority-decisions).
 
 ### Stepping Down/Emeritus Process
 
 If and when contributors' commitment levels change, contributors can consider stepping down (moving down a role) vs moving to emeritus status (completely stepping away from the project).
 
-Please reach out to the [flux2 maintainers] team to discuss this process.
+Please reach out to the [core maintainers] team to discuss this process.
 
 ### Stepping Back Into a Role
 
-If and when someone is available to step back into a previous contributor role, this is something that can be arranged and considered by the [flux2 maintainers] team.
+If and when someone is available to step back into a previous contributor role, this is something that can be arranged and considered by the [core maintainers] team.
 
-Please reach out to the [flux2 maintainers] team to discuss this process.
+Please reach out to the [core maintainers] team to discuss this process.
 
 ### Licensing changes
 
-Licensing and intellectual property changes is a [Supermajority decision](#supermajority-decisions). To be made by the [flux2 maintainers].
+Licensing and intellectual property changes is a [Supermajority decision](#supermajority-decisions). To be made by the [core maintainers].
 
 ### Governance changes
 
-[flux2 maintainers] decide on material changes to the Governance document.
+[core maintainers] decide on material changes to the Governance document.
  This is a [Supermajority decision](#supermajority-decisions).
 
 - Note: editorial changes to governance may be made by lazy consensus, unless challenged.
@@ -137,7 +137,7 @@ Licensing and intellectual property changes is a [Supermajority decision](#super
 
 ### Contact
 
-For inquiries, please reach out to: `@fluxcd/flux2-maintainers` on GitHub.
+For inquiries, please reach out to: `@fluxcd/core-maintainers` on GitHub.
 
 ### Examples of Decisions
 
@@ -148,4 +148,4 @@ For inquiries, please reach out to: `@fluxcd/flux2-maintainers` on GitHub.
 [Community Member]: community-roles.md#community-member
 [Project Member]: community-roles.md#project-member
 [Maintainer]: community-roles.md#maintainer
-[flux2 maintainers]: community-roles.md#flux2-maintainers
+[core maintainers]: community-roles.md#core-maintainers
