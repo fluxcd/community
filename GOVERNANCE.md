@@ -40,6 +40,8 @@ Maintainer on receipt of a security issue or CoC report.  All current Maintainer
 must be invited to such closed meetings, except for any Maintainer who is
 accused of a CoC violation.
 
+Note: Refer to [our security process](https://fluxcd.io/security) for more information on how security issues are handled in particular.
+
 ## Roles and Process in the Flux Community
 
 See
