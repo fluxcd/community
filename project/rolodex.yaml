@@ -1,6 +1,7 @@
 ---
 alumni:
 - Alfonso Acosta
+- Dinos Kousidis
 - Justin Barrick
 - Michael Beaumont
 - Nick Cabatoff
@@ -26,11 +27,6 @@ maintainers:
     email: daniel@weave.works
     affiliation: Weaveworks
     slack: dholbach
-- dinosk:
-    name: Dinos Kousidis
-    email: dinos.simpson@gmail.com
-    affiliation: CrowdStrike
-    slack: dinos
 - foot:
     name: Simon Howe
     email: simon@weave.works
