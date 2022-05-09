@@ -4,6 +4,7 @@ flux:
 - Justin Barrick
 - Nick Cabatoff
 go-git-providers:
+- Dinos Kousidis
 - Michael Beaumont
 - Sara El-Zayat
 helm-operator:
