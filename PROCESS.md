@@ -86,7 +86,7 @@ Once the above process has taken its course, make sure you
 - Non-code changes should be proposed as GitHub issues.
   If unclear which Git repository to create the issue in, default to the community repository <https://github.com/fluxcd/community>.
 - All proposals should be discussed publicly in an appropriate GitHub issue or pull request.
-- If a Maintainer of an affected git repository feels feedback from specific people is warranted they will @mention those users or teams to request feedback.
+- If a Maintainer of an affected Git repository feels feedback from specific people is warranted they will @mention those users or teams to request feedback.
 - Proposals may also be added to the Flux Dev weekly meetings agenda, as a good avenue for making progress on a decision <https://lists.cncf.io/g/cncf-flux-dev/calendar>.
 
 ## Project Processes

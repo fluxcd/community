@@ -2,7 +2,7 @@ The maintainers are generally available in Slack at
 https://cloud-native.slack.com in #flux (https://cloud-native.slack.com/messages/CLAJ40HV3)
 (obtain an invitation at https://slack.cncf.io/).
 
-These maintainers are shared with other Flux v2-related git
+These maintainers are shared with other Flux v2-related Git
 repositories under https://github.com/fluxcd, as noted in their
 respective MAINTAINERS files.
 

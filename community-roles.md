@@ -58,7 +58,7 @@ Process: refer to [PROCESS.md](PROCESS.md#applying-for-flux-membership).
 
 ### Maintainer
 
-Maintainers are elected [Project Members][Project Member] who have shown significant and sustained contributions in a git repository.
+Maintainers are elected [Project Members][Project Member] who have shown significant and sustained contributions in a Git repository.
 
 **Defined by:** entry in MAINTAINERS file in a repo owned by the Flux project, and membership in the [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers) GitHub team.
 
@@ -68,14 +68,14 @@ To become a Maintainer you need to demonstrate the following:
 
 - Enable and promote Flux community values
 - Engage with end Users through appropriate communication channels
-- Serve as a point of conflict resolution between Contributors to their git repository
+- Serve as a point of conflict resolution between Contributors to their Git repository
 - Maintain open collaboration with Contributors and other Maintainers
 - Ask for help when unsure and step down considerately
 - A good understanding of the code-base (or equivalent that is governed by the repository, e.g. `fluxcd/community` or `fluxcd/website`)
 - Willing to take on long-term responsibility for the project (or a specific part of it)
 - Commitment to the project. Specifically:
 
-  This can be evidenced differently and we want to maintain some general flexibility assessing this. Significant and sustained contributions can be be both by showing a long-term level of care with a bigger number of smaller contributions or by a smaller set of sizable contributions. To make it somewhat more comparable, here is an example of commitment we would be happy to accept for a maintainer:
+  This can be evidenced differently and we want to maintain some general flexibility assessing this. Significant and sustained contributions can be both by showing a long-term level of care with a bigger number of smaller contributions or by a smaller set of sizable contributions. To make it somewhat more comparable, here is an example of commitment we would be happy to accept for a maintainer:
 
   - Participate in discussions, contributions, code and documentation reviews for 3 months or more,
   - perform reviews for 10 non-trivial pull requests (total),
@@ -89,7 +89,7 @@ Process: refer to [PROCESS.md](PROCESS.md#applying-for-flux-maintainership).
 
 Maintainership in the [CORE-MAINTAINERS file](https://github.com/fluxcd/community/blob/main/CORE-MAINTAINERS) trickles down to all other Flux 2-related repositories which means that maintainers mentioned there are also maintainers in all other repositories.
 
-In addition to maintaining `flux2` and Flux 2-related repositories, this team serves as escalation point for the overall project, and anything not easily managed by the Maintainers of each git repository.
+In addition to maintaining `flux2` and Flux 2-related repositories, this team serves as escalation point for the overall project, and anything not easily managed by the Maintainers of each Git repository.
 
 This team drives the direction, values and governance of the overall project.
 
@@ -106,10 +106,10 @@ The following apply to all assets across the Flux org:
 - Maintaining the brand, mission, vision, values, and scope of the overall project
 - Changes to licensing and intellectual property
 - Administering access to all project assets
-- Administering git repositories as needed
+- Administering Git repositories as needed
 - Handling Code of Conduct violations
 - Managing financial decisions
-- Defining the scope of each git repository
+- Defining the scope of each Git repository
 - Resolving escalated decisions when Maintainers responsible are blocked
 
 ### Org Admins

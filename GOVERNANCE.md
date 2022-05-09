@@ -44,8 +44,8 @@ accused of a CoC violation.
 
 See
 
-- [community-roles.md] for the definition of roles in our community and
-- [PROCESS.md] to understand how to interact with Flux Community processes
+- [community-roles.md](community-roles.md) for the definition of roles in our community and
+- [PROCESS.md](PROCESS.md) to understand how to interact with Flux Community processes
 
 ## Decision Making
 
@@ -55,8 +55,8 @@ If we fail to make a decision or the picture was unclear, we found that we neede
 
 ### Deciders
 
-- Repository [Maintainers][Maintainer]: Decisions that affect only one git repository.
-- [core maintainers]: Decisions that are outside the scope of a single git repository.
+- Repository [Maintainers][Maintainer]: Decisions that affect only one Git repository.
+- [core maintainers]: Decisions that are outside the scope of a single Git repository.
 
 ### Decision Guidelines
 
