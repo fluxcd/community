@@ -12,6 +12,11 @@ maintainers:
     email: alison@alisondowdney.com
     affiliation: Independent
     slack: alisondy
+- aryan9600:
+    name: Sanskar Jaiswal
+    email: sanskar.jaiswal@weave.works
+    affiliation: Weaveworks
+    slack: aryan9600
 - bia:
     name: Bianca Cheng Costanzo
     email: bianca@weave.works
