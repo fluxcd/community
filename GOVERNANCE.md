@@ -13,6 +13,7 @@ This document <https://github.com/fluxcd/community/blob/main/GOVERNANCE.md> defi
   - [Decision Guidelines](#decision-guidelines)
   - [Simple Majority Decisions](#simple-majority-decisions)
   - [Supermajority Decisions](#supermajority-decisions)
+  - [Unanimity Decisions](#unanimity-decisions)
 - [Licenses and Copyright](#licenses-and-copyright)
 
 ## Values
@@ -76,7 +77,7 @@ If we fail to make a decision or the picture was unclear, we found that we neede
       This should be rare, due to the social cost of discontinuing the Consensus process for this reason.
       Most decisions should wait for the above process to take its course.
 - If Deciders agree to a vote, the default is a Simple Majority.
-- However, there are cases that require stronger voting – Supermajority – specified below:
+- However, there are cases that require stronger voting – Supermajority or Unanimity – specified below:
 
 ### Simple Majority Decisions
 
@@ -86,15 +87,20 @@ If a vote is called, the default is a Simple Majority Vote – more than half o
 
 If a vote is called, the following decisions require a Supermajority Vote – two-thirds or more of all [Deciders](#deciders):
 
-- Repository [Maintainers][Maintainer]: Electing new Maintainers of the same repository.
 - [core maintainers]: Enforcing a Code of Conduct violation by a community member.
-- [core maintainers]: Removing a Maintainer of any repository for any reason other than inactivity.
 - [core maintainers]: Licensing and intellectual property changes.
 - [core maintainers]: Material changes to the Governance document.
   - Note: editorial changes to governance may be made by lazy consensus, unless challenged.
     These are changes which fix spelling or grammar, update work affiliation or similar, update style or reflect an outside and obvious reality.
     They do not change the intention or meaning of anything in this document.
 - [core maintainers]: Elect new [org admins].
+
+### Unanimity Decisions
+
+For these kinds of decisions, a deadline can be given, and unanimity with a quorum of 2/3 is sufficient. That means people can be silent, but everyone who speaks must agree.
+
+- Repository [Maintainers][Maintainer]: Electing new Maintainers of the same repository.
+- [core maintainers]: Removing a Maintainer of any repository for any reason other than inactivity.
 
 ## Licenses and Copyright
 
