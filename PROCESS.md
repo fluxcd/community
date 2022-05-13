@@ -65,7 +65,7 @@ Any missing information will be requested.
 - Have maintainers submit their vote by `+1`
 - Once all maintainers in repo have `+1` the pr will be reviewed by a member of the [core maintainers]
 
-Electing new Maintainers of the same repository is a [Supermajority decision](#supermajority-decisions).
+Electing new Maintainers of the same repository is an [Unanimity decision][unanimity-decisions].
 
 Once the above process has taken its course, make sure you
 
@@ -110,7 +110,7 @@ Involuntary removal of a contributor happens when responsibilities and requireme
 This may include repeated pattern of inactivity, extended period of inactivity, and/or a violation of the Code of Conduct.
 This process is important because it protects the community and its deliverables while also opens up opportunities for new contributors to step in.
 
-Involuntary removal is handled by the [core maintainers] team. Removing a Repository Maintainer or Core Maintainer for any reason other than inactivity is a [Supermajority decision](#supermajority-decisions).
+Involuntary removal is handled by the [core maintainers] team. Removing a Repository Maintainer or Core Maintainer for any reason other than inactivity is a [Supermajority decision][supermajority-decisions].
 
 ### Stepping Down/Emeritus Process
 
@@ -126,12 +126,12 @@ Please reach out to the [core maintainers] team to discuss this process.
 
 ### Licensing changes
 
-Licensing and intellectual property changes is a [Supermajority decision](#supermajority-decisions). To be made by the [core maintainers].
+Licensing and intellectual property changes is a [Unanimity decision][unanimity-decisions]. To be made by the [core maintainers].
 
 ### Governance changes
 
 [core maintainers] decide on material changes to the Governance document.
- This is a [Supermajority decision](#supermajority-decisions).
+ This is a [Supermajority decision][supermajority-decisions].
 
 - Note: editorial changes to governance may be made by lazy consensus, unless challenged.
   These are changes which fix spelling or grammar, update work affiliation or similar, update style or reflect an outside and obvious reality.
@@ -164,3 +164,5 @@ The list of members is reviewed every year and should consist of:
 [Project Member]: community-roles.md#project-member
 [Maintainer]: community-roles.md#maintainer
 [core maintainers]: community-roles.md#core-maintainers
+[supermajority-decisions]: GOVERNANCE.md#supermajority-decisions
+[unanimity-decisions]: GOVERNANCE.md#unanimity-decisions
