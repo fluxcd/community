@@ -91,6 +91,12 @@ Once the above process has taken its course, make sure you
 
 ## Project Processes
 
+### Code of Conduct violations
+
+As a project, it is important to us that we provide a safe and enjoyable space. Upholding our [Code of Conduct](CODE_OF_CONDUCT.md) is key to this.
+
+If you wish to report a violation, please contact the [private Maintainer mailing list](mailto:cncf-flux-maintainers@lists.cncf.io) and the Flux maintainers will work on resolving this as a matter of priority.
+
 ### Inactivity
 <!--TODO: project leads to fill in exact details for how you measure inactivity for your project-->
 
