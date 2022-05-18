@@ -57,8 +57,11 @@ SHARED_MAINTENANCE = [
 def get_maintainer_info(repo):
     maintainers = set()
     alumni = set()
-    link = 'https://raw.githubusercontent.com/fluxcd/{}/master/MAINTAINERS'.format(
-        repo)
+    if repo == 'flux2':
+        link = 'https://raw.githubusercontent.com/fluxcd/community/main/CORE-MAINTAINERS'
+    else:
+        link = 'https://raw.githubusercontent.com/fluxcd/{}/master/MAINTAINERS'.format(
+            repo)
     with urlopen(link) as f:
         content = f.read().decode('utf-8')
     maintainers = set(
