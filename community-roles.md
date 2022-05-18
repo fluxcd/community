@@ -10,6 +10,7 @@ Roles are progressive, so each include responsibilities, requirements and defini
   - [Project Member](#project-member)
   - [Maintainer](#maintainer)
   - [Core maintainers](#core-maintainers)
+  - [Org Admins](#org-admins)
 
 ## Roles
 
