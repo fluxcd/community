@@ -9,22 +9,15 @@ Roles are progressive, so each include responsibilities, requirements and defini
   - [Community Member](#community-member)
   - [Project Member](#project-member)
   - [Maintainer](#maintainer)
-  - [Oversight Committee](#oversight-committee)
-- [Processes](#processes)
-  - [Inactivity](#inactivity)
-  - [Involuntary Removal](#involuntary-removal)
-  - [Stepping Down/Emeritus Process](#stepping-downemeritus-process)
-  - [Stepping Back Into a Role](#stepping-back-into-a-role)
-  - [Contact](#contact)
+  - [Core maintainers](#core-maintainers)
 
 ## Roles
 
 Most of the roles defined herein are defined by membership in a certain GitHub organization or team:
 
-* [fluxcd org](https://github.com/fluxcd): The organization under which all of Flux's activity on GitHub is captured.
-* [@fluxcd/flux2-maintainers](https://github.com/orgs/fluxcd/teams/flux2-maintainers): The team comprised of all maintainers of Flux v2 components.
-* [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers): The team comprised of all maintainers of both, Flux v1 and Flux v2 components.
-* [@fluxcd/oversight-committee](https://github.com/orgs/fluxcd/teams/oversight-committee): The team comprised of all [Oversight Committee] members.
+- [fluxcd org](https://github.com/fluxcd): The organization under which all of Flux's activity on GitHub is captured.
+- [@fluxcd/core-maintainers](https://github.com/orgs/fluxcd/teams/core-maintainers): The team comprised of all maintainers of Flux v2 components.
+- [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers): The team comprised of all maintainers of the various projects in the FluxCD organization: Flux v1, Flux v2, Flagger, GitOps Toolkit, website and community repos, etc.
 
 ### Community Member
 
@@ -46,107 +39,64 @@ This can be through code, documentation, taking part in bug scrubs, etc.
 - [Triage role](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization#repository-access-for-each-permission-level) on all `fluxcd` GitHub org repos
 - [Membership](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/about-organization-membership) in the [fluxcd org](https://github.com/fluxcd)
 
-**Requirements:**
-
-- Have made multiple contributions to the project or community.
-  Contribution may include, but is not limited to:
-  - Authoring or reviewing PRs on GitHub
-  - Filing or commenting on issues on GitHub
-  - Contributing to project or community discussions (for example meetings, Slack, email discussion forums, Stack Overflow)
-- Subscribed to the [flux-dev mailing list](https://lists.cncf.io/g/cncf-flux-dev/join)
-- Actively contributing to 1 or more `fluxcd` GitHub org repos
-- Sponsored by 2 maintainers.
-  **Note the following requirements for sponsors:**
-  - Sponsors must have close interactions with the prospective member - for example code/design/proposal review, coordinating on issues, etc.
-  - Sponsors must be from multiple companies to demonstrate integration across community
-- [Open an issue against the **fluxcd/community** repo](https://github.com/fluxcd/community/issues/new)
-  - Ensure your sponsors are @mentioned on the issue
-  - Complete every item on the checklist
-
-    ```markdown
-    ### GitHub Username
-    e.g. (at)example_user
-
-    ### Requirements
-    - [ ] I have reviewed the community membership guidelines in `community-roles.md`
-    - [ ] I have subscribed to the cncf-flux-dev e-mail list [https://lists.cncf.io/g/cncf-flux-dev/join](https://lists.cncf.io/g/cncf-flux-dev/join)
-    - [ ] I am actively contributing to 1 or more `fluxcd` GitHub org repos (eg. Flux, Flagger)
-    - [ ] I have two sponsors that meet the sponsor requirements listed in the community membership guidelines
-    - [ ] I have spoken to my sponsors ahead of this application, and they have agreed to sponsor my application
-
-    ### Sponsors
-    - (at)sponsor-1
-    - (at)sponsor-2
-
-    ### List of contributions to the Flux project
-    - PRs reviewed / authored
-    - Discussions involved in & Issues responded to
-    - Flux subprojects I am involved with (Flagger, Flux, Controllers)
-    ```
-
-  - Have your sponsoring maintainers reply confirmation of sponsorship: `+1`
-  - Once your sponsors have responded, your request will be reviewed by a member of the Flux [Oversight Committee].
-    Any missing information will be requested.
-
 **Responsibilities and privileges:**
 
-- Responsive to issues and PRs assigned to them
-- Active owner of code they have contributed (unless ownership is explicitly transferred)
+To become a Project Member you need to demonstrate the following:
+
+- ability to write quality code and/or documentation,
+- ability to collaborate with the team,
+- understanding of how the team works (policies, processes for testing and code review, etc),
+- understanding of the project's code base and coding and documentation style.
+- be responsive to issues and PRs assigned to them
+- be active owner of code they have contributed (unless ownership is explicitly transferred)
   - Code is well tested
   - Tests consistently pass
   - Addresses bugs or issues discovered after code is accepted
 - Note: members who frequently contribute code are expected to proactively perform code reviews and work towards becoming a maintainer
 
+Process: refer to [PROCESS.md](PROCESS.md#applying-for-flux-membership).
+
 ### Maintainer
 
-Maintainers are elected [Project Members][Project Member] who have shown significant and sustained contributions in a git repository.
+Maintainers are elected [Project Members][Project Member] who have shown significant and sustained contributions in a Git repository.
 
-**Defined by:** entry in MAINTAINERS file in a repo owned by the Flux project, and membership in the [@fluxcd/flux2-maintainers](https://github.com/orgs/fluxcd/teams/flux2-maintainers) [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers) GitHub team.
-
-**Requirements:**
-
-- Make a PR against the `MAINTAINERS` file for a `fluxcd` GitHub org repo. [Example PR](https://github.com/fluxcd/source-controller/pull/584)
-- @mention all the other current maintainers
-- Have maintainers submit their vote by `+1`
-- Once all maintainers in repo have `+1` the pr will be reviewed by a member of the Flux [Oversight Committee]
-
-**flux2 maintainers:** Maintainership in the [flux2 MAINTAINERS file](https://github.com/fluxcd/flux2/blob/main/MAINTAINERS) trickles down to all other Flux 2-related repositories which means that mantainers mentioned there are also maintainers in all other repositories.
-
-Once the above process has taken its course, make sure you
-
-- Are added to the internal `#flux-maintainers` Slack channel
-- Update <https://maintainers.cncf.io>
-- Get somebody to ping [CNCF Service Desk](https://cncfservicedesk.atlassian.net/) to get you added as Flux maintainer
-- Ping fellow maintainers to get added to Flux 1Password
-- (Optional) Check if your [CNCF affiliation is up to date](https://github.com/cncf/gitdm#addingupdating-affiliation)
+**Defined by:** entry in MAINTAINERS file in a repo owned by the Flux project, and membership in the [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers) GitHub team.
 
 **Responsibilities and Privileges:**
 
-The following apply to the part of the codebase for which one would be in a MAINTAINERS file:
+To become a Maintainer you need to demonstrate the following:
 
 - Enable and promote Flux community values
 - Engage with end Users through appropriate communication channels
-- Serve as a point of conflict resolution between Contributors to their git repository
+- Serve as a point of conflict resolution between Contributors to their Git repository
 - Maintain open collaboration with Contributors and other Maintainers
 - Ask for help when unsure and step down considerately
+- A good understanding of the code-base (or equivalent that is governed by the repository, e.g. `fluxcd/community` or `fluxcd/website`)
+- Willing to take on long-term responsibility for the project (or a specific part of it)
+- Commitment to the project. Specifically:
 
-### Oversight Committee
+  This can be evidenced differently and we want to maintain some general flexibility assessing this. Significant and sustained contributions can be both by showing a long-term level of care with a bigger number of smaller contributions or by a smaller set of sizable contributions. To make it somewhat more comparable, here is an example of commitment we would be happy to accept for a maintainer:
 
-The Oversight Committee is responsible for the overall project, and anything not easily managed by the Maintainers of each git repository.
+  - Participate in discussions, contributions, code and documentation reviews for 3 months or more,
+  - perform reviews for 10 non-trivial pull requests (total),
+  - contribute 15 non-trivial pull requests (total) and have them merged.
 
-The committee drives the direction, values and governance of the overall project.
+  Ask one of the current maintainers, if you are unsure. They will be happy to give you feedback.
 
-The committee is currently comprised of Flux Maintainers who have steered the project prior to the initial Governance document.
+Process: refer to [PROCESS.md](PROCESS.md#applying-for-flux-maintainership).
 
-In future, Committee Members will come from a diverse background of companies and organizations.
+### Core maintainers
+
+Maintainership in the [CORE-MAINTAINERS file](https://github.com/fluxcd/community/blob/main/CORE-MAINTAINERS) trickles down to all other Flux 2-related repositories which means that maintainers mentioned there are also maintainers in all other repositories.
+
+In addition to maintaining `flux2` and Flux 2-related repositories, this team serves as escalation point for the overall project, and anything not easily managed by the Maintainers of each Git repository.
+
+This team drives the direction, values and governance of the overall project.
+
+It is important to us that its members come from a diverse background of companies and organizations.
 Ensuring that oversight of the project is not controlled by one company or organization.
 
-**Defined by:** entry in `OVERSIGHT.md` file in the fluxcd/community repo, and in  `@fluxcd/oversight-committee` GitHub team.
-
-**Requirements:**
-
-We aim to build out requirements for the Oversight Committee role during incubation.
-See [fluxcd/community#106](https://github.com/fluxcd/community/issues/106).
+**Defined by:** entry in [CORE-MAINTAINERS file](https://github.com/fluxcd/community/blob/main/CORE-MAINTAINERS), and in the `@fluxcd/core-maintainers` GitHub team.
 
 **Responsibilities and Privileges:**
 
@@ -156,59 +106,32 @@ The following apply to all assets across the Flux org:
 - Maintaining the brand, mission, vision, values, and scope of the overall project
 - Changes to licensing and intellectual property
 - Administering access to all project assets
-- Administering git repositories as needed
+- Administering Git repositories as needed
 - Handling Code of Conduct violations
 - Managing financial decisions
-- Defining the scope of each git repository
+- Defining the scope of each Git repository
 - Resolving escalated decisions when Maintainers responsible are blocked
 
-## Processes
+### Org Admins
 
-### Inactivity
-<!--TODO: project leads to fill in exact details for how you measure inactivity for your project-->
+In order to restrict access to [`admin` level functionality in GitHub](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-roles-for-an-organization#permissions-for-each-role) functionality, we define this team, who can e.g.
 
-It is important for contributors to be and stay active to set an example and show commitment to the project.
-Inactivity is harmful to the project as it may lead to unexpected delays, contributor attrition, and a lost of trust in the project.
+- Delete a repository
+- Remove permissions from a user
+- Approve applications and/or bots
+- and more.
 
-Inactivity is to be defined by the [Oversight Committee].
+This team has no decision making power on its own, but is instead there to serve the needs of the Flux maintainers and contributors.
 
-Consequences of being inactive include:
+**Defined by:** entry in [ORG-ADMINS file](https://github.com/fluxcd/community/blob/main/ORG-ADMINS), and in the `@fluxcd/org-admins` GitHub team.
 
-- Involuntary Removal
-- Being moved to Emeritus status
+**Responsibilities and Privileges:**
 
-### Involuntary Removal
-
-Involuntary removal of a contributor happens when responsibilities and requirements aren't being met.
-This may include repeated pattern of inactivity, extended period of inactivity, and/or a violation of the Code of Conduct.
-This process is important because it protects the community and its deliverables while also opens up opportunities for new contributors to step in.
-
-Involuntary removal is handled by the [Oversight Committee].
-
-### Stepping Down/Emeritus Process
-
-If and when contributors' commitment levels change, contributors can consider stepping down (moving down a role) vs moving to emeritus status (completely stepping away from the project).
-
-Please reach out to the [Oversight Committee] to discuss this process.
-
-### Stepping Back Into a Role
-
-If and when someone is available to step back into a previous contributor role, this is something that can be arranged and considered by the project [Oversight Committee].
-
-Please reach out to the [Oversight Committee] to discuss this process.
-
-### Contact
-
-For inquiries, please reach out to: <cncf-flux-oversight-committee@lists.cncf.io>
-
-### Examples of Decisions
-
-- Project change: Moving Flagger under the Flux organisation was not a code or architectural change, but a big decision that impacted the Flux project and community, hence it was discussed in various [Flux Dev meetings](https://fluxcd.io/community/#meetings), before being put up at <https://github.com/fluxcd/community/issues/34> for a comment period of one month and when there were no objections, the decision was announced [here](https://fluxcd.io/blog/2021/01/january-2021-update/#flagger-moves-under-the-fluxcd-organization).
-- Architectural change: introducing the RFC process itself was introduced as [an RFC](https://github.com/fluxcd/flux2/pull/2085). Here is a list of other architectural changes which fall under that category: <https://github.com/fluxcd/flux2/pulls?q=label%3Aarea%2FRFC+>.
-- Application to become a member of the Flux project was filed as an issue under `fluxcd/community`: <https://github.com/fluxcd/community/issues/127> (a checklist of requirements, sponsors, list of contributions, and approval can be found in the issue - just follow [this process](#project-member)).
+`admin` level access to the `fluxcd` organization in GitHub.
 
 <!-- md links -->
 [Community Member]: #community-member
 [Project Member]: #project-member
 [Maintainer]: #maintainer
-[Oversight Committee]: #oversight-committee
+[core maintainers]: #core-maintainers
+[Org Admins]: #org-admins

@@ -36,14 +36,14 @@ Afterwards you can help out on Slack answering questions, maybe extend the docs 
 
 ### Teams
 
-The Flux project uses [GitHub org teams](https://docs.github.com/en/organizations) to make it easier for [Project Members](community-roles.md#project-members) and above to communicate within and across teams.
+The Flux project uses [GitHub org teams](https://docs.github.com/en/organizations) to make it easier for [Project Members](community-roles.md#project-member) and above to communicate within and across teams.
 Members of those teams however should be defined in publicly accessible files for transparency to org non-members.
 See [community-roles.md](community-roles.md).
 
 The process of formalising team structures apart from "interest in one or more given sub-project(s)" is ongoing.
 There currently are:
 
-- The [Oversight committee](GOVERNANCE.md#oversight-committee)
+- The [core maintainers](GOVERNANCE.md#core-maintainers)
 - The [Security team](SECURITY.md)
 - The [Community team](COMMUNITY.md)
 
@@ -101,5 +101,5 @@ See [project/flux-project-maintainers.yaml](./project/flux-project-maintainers.y
 
 ## Rules
 
-The Flux community is governed by the [governance document](GOVERNANCE.md), and involvement is defined in [community-roles.md](community-roles.md).
+The Flux community is governed by the [governance document](GOVERNANCE.md), involvement is defined in [community-roles.md](community-roles.md), and processes can be found in [PROCESS.md](PROCESS.md).
 We as a community follow the [code of conduct](CODE_OF_CONDUCT.md).
