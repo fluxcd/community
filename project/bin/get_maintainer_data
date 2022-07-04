@@ -40,7 +40,10 @@ REPOS = [
     'pkg',
     'source-controller',
     'terraform-provider-flux',
-    'website',
+    'website'
+]
+
+ARCHIVED_REPOS = [
     'webui'
 ]
 
@@ -133,6 +136,18 @@ def main():
         (maintainers, alumni) = get_maintainer_info(repo)
         info[repo]['alumni'] = alumni
         info[repo]['maintainers'] = maintainers
+
+    for repo in ARCHIVED_REPOS:
+        info[repo] = {}
+        (maintainers, alumni) = get_maintainer_info(repo)
+        info[repo]['alumni'] = alumni
+        info[repo]['maintainers'] = {}
+        for m in maintainers:
+            for r in info:
+                if m in info[r]['maintainers']:
+                    continue
+            info[repo]['alumni'].add(m[0])
+
     write_rolodex(info)
     write_alumni(info)
     write_maintainers(info)
