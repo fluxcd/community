@@ -17,11 +17,6 @@ maintainers:
     email: sanskar.jaiswal@weave.works
     affiliation: Weaveworks
     slack: aryan9600
-- bia:
-    name: Bianca Cheng Costanzo
-    email: bianca@weave.works
-    affiliation: Weaveworks
-    slack: bianca cheng costanzo
 - darkowlzz:
     name: Sunny
     email: sunny@weave.works
@@ -42,11 +37,6 @@ maintainers:
     email: hidde@weave.works
     affiliation: Weaveworks
     slack: hidde
-- jpellizzari:
-    name: Jordan Pellizzari
-    email: jordan@weave.works
-    affiliation: Weaveworks
-    slack: Jordan Pellizzari
 - kingdonb:
     name: Kingdon Barrett
     email: kingdon@weave.works
