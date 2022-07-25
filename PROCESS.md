@@ -34,7 +34,7 @@ As foundational documents such as [GOVERNANCE.md](GOVERNANCE.md) and [community-
     e.g. (at)example_user
 
     ### Requirements
-    - [ ] I have reviewed the community membership guidelines in `community-roles.md`
+    - [ ] I have reviewed the community membership guidelines in [community-roles.md](community-roles.md)
     - [ ] I have subscribed to the cncf-flux-dev e-mail list [https://lists.cncf.io/g/cncf-flux-dev/join](https://lists.cncf.io/g/cncf-flux-dev/join)
     - [ ] I am actively contributing to 1 or more `fluxcd` GitHub org repos (eg. Flux, Flagger)
     - [ ] I have enabled 2FA in GitHub
