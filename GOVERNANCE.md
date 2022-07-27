@@ -101,6 +101,7 @@ For these kinds of decisions, a deadline can be given, and unanimity with a quor
 
 - Repository [Maintainers][Maintainer]: Electing new Maintainers of the same repository.
 - [core maintainers]: Removing a Maintainer of any repository for any reason other than inactivity.
+- Adding a [Security Team member]
 
 ## Licenses and Copyright
 
@@ -118,3 +119,4 @@ Links to relevant CNCF documentation:
 [core maintainers]: community-roles.md#core-maintainers
 [org admins]: community-roles.md#org-admins
 [community-roles.md]: community-roles.md
+[Security Team member]: community-roles.md#security-team-member
