@@ -77,6 +77,24 @@ Once the above process has taken its course, make sure you
 
 **Applying as core maintainer:** The same process applies for applying as a core maintainer. The PR should be against the [CORE-MAINTAINERS file](https://github.com/fluxcd/community/blob/main/CORE-MAINTAINERS) though and an accordingly higher level of experience and a more holistic understanding of the project is expected.
 
+### Applying as a Security Team member
+
+**Process:**
+
+- You need to be a [Maintainer] to be able to apply
+- Set up your [Keybase](https://keybase.io) account
+- Make a PR against the `SECURITY.md` file in <https://github.com/fluxcd/.github> adding your contact information
+- @mention `@fluxcd/core-maintainers`
+- Have maintainers submit their vote by `+1`
+- Once all maintainers in repo have `+1` the PR will be reviewed by a member of the [core maintainers]
+
+Adding new Security Team members is an [Unanimity decision][unanimity-decisions].
+
+Once the above process has taken its course, make sure you
+
+- Ping [CNCF Service Desk](https://cncfservicedesk.atlassian.net/) to get you added as [Security Team member]
+- Ping fellow Security Team members to give you access to all the internal information
+
 ## Proposal Process
 
 - Code changes should go through the pull request process, where the idea and implementation details can be publicly discussed with [Maintainers][Maintainer], other contributors, and end users.
@@ -172,3 +190,4 @@ The list of members is reviewed every year and should consist of:
 [core maintainers]: community-roles.md#core-maintainers
 [supermajority-decisions]: GOVERNANCE.md#supermajority-decisions
 [unanimity-decisions]: GOVERNANCE.md#unanimity-decisions
+[Security Team member]: community-roles.md#security-team-member

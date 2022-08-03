@@ -10,6 +10,7 @@ Roles are progressive, so each include responsibilities, requirements and defini
   - [Project Member](#project-member)
   - [Maintainer](#maintainer)
   - [Core maintainers](#core-maintainers)
+  - [Security team member](#security-team-member)
   - [Org Admins](#org-admins)
 
 ## Roles
@@ -112,6 +113,24 @@ The following apply to all assets across the Flux org:
 - Managing financial decisions
 - Defining the scope of each Git repository
 - Resolving escalated decisions when Maintainers responsible are blocked
+
+### Security Team member
+
+Security Team members are listed in the [SECURITY.md file](https://github.com/fluxcd/.github/blob/main/SECURITY.md#security-team).
+
+Members of this team handle security issues for the Flux projects. It is essential for us to deal with security-related concerns responsibly and follow the high standards of the security community as a whole.
+
+**Defined by:** entry in [SECURITY.md file](https://github.com/fluxcd/.github/blob/main/SECURITY.md#security-team).
+
+**Responsibilities and Privileges:**
+
+The following apply to all assets across the Flux org:
+
+- All reports are thoroughly investigated by the Security Team.
+- Any vulnerability information shared with the Security Team will not be shared with others unless it is necessary to fix the issue. Information is shared only on a need to know basis.
+- As the security issue moves through the identification and resolution process, the reporter will be notified.
+- Additional questions about the vulnerability may also be asked of the reporter.
+- Security Team members have a duty of care to the uphold of the Security embargo policy.
 
 ### Org Admins
 
