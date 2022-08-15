@@ -18,8 +18,8 @@ Roles are progressive, so each include responsibilities, requirements and defini
 Most of the roles defined herein are defined by membership in a certain GitHub organization or team:
 
 - [fluxcd org](https://github.com/fluxcd): The organization under which all of Flux's activity on GitHub is captured.
-- [@fluxcd/core-maintainers](https://github.com/orgs/fluxcd/teams/core-maintainers): The team comprised of all maintainers of Flux v2 components.
-- [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers): The team comprised of all maintainers of the various projects in the FluxCD organization: Flux v1, Flux v2, Flagger, GitOps Toolkit, website and community repos, etc.
+- [@fluxcd/core-maintainers](https://github.com/fluxcd/community/blob/main/CORE-MAINTAINERS): The team comprised of all maintainers of Flux v2 components.
+- [@fluxcd/maintainers](https://github.com/fluxcd/community/blob/main/project/flux-project-maintainers.yaml): The team comprised of all maintainers of the various projects in the FluxCD organization: Flux v1, Flux v2, Flagger, GitOps Toolkit, website and community repos, etc.
 
 ### Community Member
 
@@ -62,7 +62,7 @@ Process: refer to [PROCESS.md](PROCESS.md#applying-for-flux-membership).
 
 Maintainers are elected [Project Members][Project Member] who have shown significant and sustained contributions in a Git repository.
 
-**Defined by:** entry in MAINTAINERS file in a repo owned by the Flux project, and membership in the [@fluxcd/maintainers](https://github.com/orgs/fluxcd/teams/maintainers) GitHub team.
+**Defined by:** entry in MAINTAINERS file in a repo owned by the Flux project, and membership in the `@fluxcd/maintainers` GitHub team. See an automatically generated list of Flux maintainers [here](https://github.com/fluxcd/community/blob/main/project/flux-project-maintainers.yaml).
 
 **Responsibilities and Privileges:**
 
