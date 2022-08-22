@@ -91,6 +91,14 @@ For people listed below we made exceptions:
 | Kingdon Barrett | `@Kingdon B`     | `@kingdonb`     | Weaveworks |
 | Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Weaveworks |
 
+#### Twitter account
+
+<https://twitter.com/fluxcd>
+
+| Name | Slack handle | Github handle | Affiliation |
+| -- | -- | -- | -- |
+| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Weaveworks |
+
 #### YouTube channel
 
 <https://www.youtube.com/channel/UCoZxt-YMhGHb20ZkvcCc5KA>
