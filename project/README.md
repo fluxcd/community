@@ -10,7 +10,7 @@ To make obtaining the information easier and potentially track numbers further a
 
 These are all auto-generated:
 
-- `flux-project-alumni.yaml`: list of alumni maintainers of Flux projects
+- `flux-project-emeriti.yaml`: list of emeriti maintainers of Flux projects
 - `flux-project-maintainers.yaml`: list of current maintainers of Flux projects
 - `rolodex.yaml`: affiliation/contact information for all Flux maintainers
 
