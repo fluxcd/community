@@ -20,7 +20,7 @@ from ruamel import yaml
 from ruamel.yaml.comments import CommentedSeq
 
 PROJECT_PATH = os.path.join(os.path.dirname(__file__), '..')
-ALUMNI_FN = os.path.join(PROJECT_PATH, 'flux-project-alumni.yaml')
+EMERITI_FN = os.path.join(PROJECT_PATH, 'flux-project-emeriti.yaml')
 MAINTAINERS_FN = os.path.join(PROJECT_PATH, 'flux-project-maintainers.yaml')
 ROLODEX_FN = os.path.join(PROJECT_PATH, 'rolodex.yaml')
 
@@ -59,7 +59,7 @@ SHARED_MAINTENANCE = [
 
 def get_maintainer_info(repo):
     maintainers = set()
-    alumni = set()
+    emeriti = set()
     if repo == 'flux2':
         link = 'https://raw.githubusercontent.com/fluxcd/community/main/CORE-MAINTAINERS'
     else:
@@ -70,19 +70,19 @@ def get_maintainer_info(repo):
     maintainers = set(
         re.findall(r'(.+?), (.+?) <(.+?)> \(github: (.+?), slack: (.+?)\)',
                    content, re.MULTILINE))
-    alumni = set(re.findall(r'^-\ ([\S\s]+?)$', content, re.MULTILINE))
-    return (maintainers, alumni)
+    emeriti = set(re.findall(r'^-\ ([\S\s]+?)$', content, re.MULTILINE))
+    return (maintainers, emeriti)
 
 def write_rolodex(info):
     data = {
-        'alumni': set(),
+        'emeriti': set(),
         'maintainers': []
     }
 
     # Merge all repo data into central rolodex
     maintainers = set()
     for repo in REPOS:
-        data['alumni'] = data['alumni'].union(info[repo]['alumni'])
+        data['emeriti'] = data['emeriti'].union(info[repo]['emeriti'])
         maintainers = maintainers.union(info[repo]['maintainers'])
 
     # Break up maintainer data into dict
@@ -97,21 +97,21 @@ def write_rolodex(info):
         data['maintainers'] += [maintainer]
 
     # Sort
-    data['alumni'] = list(data['alumni'])
-    data['alumni'].sort()
+    data['emeriti'] = list(data['emeriti'])
+    data['emeriti'].sort()
     data['maintainers'].sort(key=lambda a: list(a.keys())[0])
 
     with open(ROLODEX_FN, 'w') as file_desc:
         yaml.round_trip_dump(data, file_desc, explicit_start=True)
 
-def write_alumni(info):
+def write_emeriti(info):
     data = {}
     for repo in info:
-        if info[repo]['alumni']:
-            alumni = list(info[repo]['alumni'])
-            alumni.sort()
-            data[repo] = alumni
-    with open(ALUMNI_FN, 'w') as file_desc:
+        if info[repo]['emeriti']:
+            emeriti = list(info[repo]['emeriti'])
+            emeriti.sort()
+            data[repo] = emeriti
+    with open(EMERITI_FN, 'w') as file_desc:
         yaml.round_trip_dump(data, file_desc, explicit_start=True)
 
 
@@ -133,23 +133,23 @@ def main():
     info = {}
     for repo in REPOS:
         info[repo] = {}
-        (maintainers, alumni) = get_maintainer_info(repo)
-        info[repo]['alumni'] = alumni
+        (maintainers, emeriti) = get_maintainer_info(repo)
+        info[repo]['emeriti'] = emeriti
         info[repo]['maintainers'] = maintainers
 
     for repo in ARCHIVED_REPOS:
         info[repo] = {}
-        (maintainers, alumni) = get_maintainer_info(repo)
-        info[repo]['alumni'] = alumni
+        (maintainers, emeriti) = get_maintainer_info(repo)
+        info[repo]['emeriti'] = emeriti
         info[repo]['maintainers'] = {}
         for m in maintainers:
             for r in info:
                 if m in info[r]['maintainers']:
                     continue
-            info[repo]['alumni'].add(m[0])
+            info[repo]['emeriti'].add(m[0])
 
     write_rolodex(info)
-    write_alumni(info)
+    write_emeriti(info)
     write_maintainers(info)
 
 
