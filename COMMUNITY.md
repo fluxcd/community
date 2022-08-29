@@ -15,6 +15,22 @@ Currently on our agenda are:
   - Slack
 - Oversight of [this repository](https://github.com/fluxcd/community).
 
+### Events and Advocacy
+
+It is important to us to create a space for our community to meet, engage, collaborate and learn from each other. Over the past months, we have organised [GitOps Days](https://www.gitopsdays.com/), participated in CloudNativeCon / KubeCon and at various meetups. Check out <https://fluxcd.io/resources/>, to see some of the events we helped to put together recently.
+
+If you want to join the planning effort, please come and talk to us!
+
+Also, if you would like to speak about Flux and GitOps, do reach out - we are happy to help you find a speaking slot soon. The more the world hears about this, the better!
+
+The team today is this:
+
+| Name | Slack handle | Github handle | Affiliation |
+| -- | -- | -- | -- |
+| Daniel Holbach | `@dholbach` | `@dholbach` | Weaveworks  |
+| Stacey Potter | `@Stacey Potter` | `@staceypotter` | Weaveworks  |
+| Vanessa Abankwah | `@Vanessa Abankwah` | `@VanessaWeaveworksK8S` | Weaveworks |
+
 ### Communications
 
 We as a project want to make it a priority to inform our community and the wider world of developments well.
