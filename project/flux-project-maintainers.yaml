@@ -1,6 +1,5 @@
 ---
 community:
-- alisondy
 - dholbach
 - scottrigby
 - stefanprodan
@@ -26,9 +25,6 @@ go-git-providers:
 - souleb
 - stefanprodan
 - yiannistri
-helm-controller:
-# Plus flux2 maintainers
-- seaneagan
 helm-operator:
 - hiddeco
 - squaremo

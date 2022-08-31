@@ -1,4 +1,6 @@
 ---
+community:
+- Alison Dowdney
 flux:
 - Alfonso Acosta
 - Justin Barrick
@@ -7,6 +9,8 @@ go-git-providers:
 - Dinos Kousidis
 - Michael Beaumont
 - Sara El-Zayat
+helm-controller:
+- Sean Eagan
 helm-operator:
 - Alfonso Acosta
 website:
