@@ -7,12 +7,8 @@ emeriti:
 - Michael Beaumont
 - Nick Cabatoff
 - Sara El-Zayat
+- Sean Eagan
 maintainers:
-- alisondy:
-    name: Alison Dowdney
-    email: alison@alisondowdney.com
-    affiliation: Independent
-    slack: alisondy
 - aryan9600:
     name: Sanskar Jaiswal
     email: sanskar.jaiswal@weave.works
@@ -73,11 +69,6 @@ maintainers:
     email: scott@weave.works
     affiliation: Weaveworks
     slack: scottrigby
-- seaneagan:
-    name: Sean Eagan
-    email: sean.eagan@att.com
-    affiliation: AT&T
-    slack: seaneagan
 - somtochiama:
     name: Somtochi Onyekwere
     email: somtochi@weave.works
