@@ -17,8 +17,9 @@ As foundational documents such as [GOVERNANCE.md](GOVERNANCE.md) and [community-
   - Contributing to project or community discussions (for example meetings, Slack, email discussion forums, Stack Overflow)
 - Subscribed to the [flux-dev mailing list](https://lists.cncf.io/g/cncf-flux-dev/join)
 - Actively contributing to 1 or more `fluxcd` GitHub org repos
-- Sponsored by 2 maintainers.
+- Sponsored by 2 project members  
   **Note the following requirements for sponsors:**
+  - At least 1 of the sponsors must be a maintainer
   - Sponsors must have close interactions with the prospective member - for example code/design/proposal review, coordinating on issues, etc.
   - Sponsors must be from multiple companies to demonstrate integration across community
 
@@ -51,7 +52,7 @@ As foundational documents such as [GOVERNANCE.md](GOVERNANCE.md) and [community-
     - Flux subprojects I am involved with (Flagger, Flux, Controllers)
     ```
 
-- Have your sponsoring maintainers reply confirmation of sponsorship: `+1`
+- Have your sponsoring members/maintainers reply confirmation of sponsorship: `+1`
 - Once your sponsors have responded, your request will be reviewed by a member of the [core maintainers].
 
 Any missing information will be requested.
