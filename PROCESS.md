@@ -92,8 +92,9 @@ Adding new Security Team members is an [Unanimity decision][unanimity-decisions]
 
 Once the above process has taken its course, make sure you
 
-- Ping [CNCF Service Desk](https://cncfservicedesk.atlassian.net/) to get you added as [Security Team member]
-- Ping fellow Security Team members to give you access to all the internal information
+- Ping [CNCF Service Desk](https://cncfservicedesk.atlassian.net/) to get you added as [Security Team member].
+- Make a PR against [oss-fuzz](https://github.com/google/oss-fuzz/blob/e51830c2d428e672b405f9692adc82c57c1a6c5a/projects/fluxcd/project.yaml#L4-L9) to add your email.
+- Ping fellow Security Team members to give you access to all the internal information.
 
 ## Proposal Process
 

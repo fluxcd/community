@@ -129,6 +129,7 @@ The following apply to all assets across the Flux org:
 - All reports are thoroughly investigated by the Security Team.
 - Any vulnerability information shared with the Security Team will not be shared with others unless it is necessary to fix the issue. Information is shared only on a need to know basis.
 - As the security issue moves through the identification and resolution process, the reporter will be notified.
+- Security Team members must use their access to the [oss-fuzz issues catalog](https://bugs.chromium.org/p/oss-fuzz/) to investigate issues raised from fuzz tests.
 - Additional questions about the vulnerability may also be asked of the reporter.
 - Security Team members have a duty of care to the uphold of the Security embargo policy.
 
