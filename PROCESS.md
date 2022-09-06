@@ -27,6 +27,8 @@ As foundational documents such as [GOVERNANCE.md](GOVERNANCE.md) and [community-
 
 [Open an issue against the **fluxcd/community** repo](https://github.com/fluxcd/community/issues/new)
 
+If you are unsure about what to write or how much to mention, have a look at some of the [previous membership applications](https://github.com/fluxcd/community/issues?q=label%3Aproject-member+).
+
 - Ensure your sponsors are @mentioned on the issue
 - Complete every item on the checklist
 
