@@ -40,6 +40,7 @@ This can be through code, documentation, taking part in bug scrubs, etc.
 
 - [Triage role](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization#repository-access-for-each-permission-level) on all `fluxcd` GitHub org repos
 - [Membership](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/about-organization-membership) in the [fluxcd org](https://github.com/fluxcd)
+- Current Flux Project Members [are listed here](PROJECT-MEMBERS.md)
 
 **Responsibilities and privileges:**
 
