@@ -29,7 +29,7 @@ The team today is this:
 | -- | -- | -- | -- |
 | Daniel Holbach | `@dholbach` | `@dholbach` | Weaveworks  |
 | Stacey Potter | `@Stacey Potter` | `@staceypotter` | Weaveworks  |
-| Vanessa Abankwah | `@Vanessa Abankwah` | `@VanessaWeaveworksK8S` | Weaveworks |
+| Vanessa Abankwah | `@Vanessa Abankwah` | `@VanessaAbankwah` | Weaveworks |
 
 ### Communications
 
