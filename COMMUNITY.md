@@ -3,6 +3,18 @@
 The wider Flux community identified work that falls into the categories of contributor experience, advocacy and communications, community management as integral to its success long ago.
 While this has been an implicit focus of the team for a while, we want to build out the team, open it up and formalise processes.
 
+## Team meeting
+
+2022-10-12: As an experiment (for 3 months) we are going to run meetings every two weeks to open up the the Flux Community team.
+
+Our idea is to meet, organise ourselves, have a lot of fun and get Flux's social messaging, blog posts, events, videos and everything else up to speed.
+
+It is a very low-barrier team to join. It is going to be a lot of fun. And a great opportunity to join Team Flux!
+
+- [Agenda and minutes document](https://docs.google.com/document/d/12aOlwyYipXH3PJj-m_G09ZijSjBqS6sUpcQYVZF01B0/edit)
+- [Signing up to meeting invites](https://fluxcd.io/community/#meetings)
+- Every two weeks, Monday starting 2022-10-17 13:00 UTC
+
 ## Responsibilities
 
 As opposed to defining a big overarching burden of responsibilities the team would have a hard time to actually realise, we want to slowly and carefully add tasks as we build out the team.
@@ -13,6 +25,7 @@ Currently on our agenda are:
   - Social media
   - Mailing list
   - Slack
+- **Events and Advocacy**
 - Oversight of [this repository](https://github.com/fluxcd/community).
 
 ### Events and Advocacy
