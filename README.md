@@ -3,7 +3,9 @@
 We want the [Flux project](https://github.com/fluxcd) to be the vendor-neutral home for GitOps in a Cloud Native world.
 
 Started 2016 to automate deployments at Weaveworks, the project has grown dramatically since then.
-Especially since the planning of Flux v2 and GitOps Toolkit SDK it was clearer that the scope became more ambitious and that the Flux project has become the home for the Flux family of projects, all solving specific GitOps needs.
+Especially since the planning of Flux v2 and GitOps Toolkit SDK it was clearer that the scope became
+more ambitious and that the Flux project has become the home for the Flux family of projects,
+all solving specific GitOps needs.
 
 We also want our community to be diverse, helpful, collaborative and a fun place to be, so we would love to have you join us!
 
@@ -16,16 +18,16 @@ To get started, it's important you find out which parts of Flux you are interest
 Maintained, with stable APIs:
 
 - Flux: <https://github.com/fluxcd/flux2>
+- As a Kustomize user: <https://github.com/fluxcd/kustomize-controller>
 - As a Helm user: <https://github.com/fluxcd/helm-controller>
 
 Currently stable:
 
-- Progressive delivery, e.g. blue-green testing, etc. <https://github.com/fluxcd/flagger>
+- Progressive delivery with Flagger: <https://github.com/fluxcd/flagger>
 
-Legacy projects, mostly just receive security updates:
+Roadmap:
 
-- Flux Legacy: <https://github.com/fluxcd/flux>
-- As a Helm user: <https://github.com/fluxcd/helm-operator>
+- Flux project roadmap: <https://fluxcd.io/roadmap>
 
 And there is loads more under <https://github.com/fluxcd>, we all work on this as a community together.
 
