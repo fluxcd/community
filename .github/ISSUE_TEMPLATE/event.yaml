@@ -1,0 +1,36 @@
+---
+name: Add event
+description: Add a Flux event
+labels: ["event"]
+body:
+- type: textarea
+  validations:
+    required: true
+  attributes:
+    label: Event Description
+    description: Please provide all relevant links, dates and information here.
+    value: |
+      - Speaker (name and email):
+      - Organiser (name and email):
+      - Event title:
+      - Talk title:
+      - Date:
+      - Link:
+      - Abstract:
+      - Additional info:
+- type: checkboxes
+  attributes:
+    label: Task pre-event
+    options:
+    - label: Agree on content and abstract
+    - label: Confirm date with event organisers
+    - label: Add to [Comms Plan](https://docs.google.com/spreadsheets/d/1hPV3qJ95I_RKPyeo3zUJOPrHc0LNeSlP3f9fjXTen-c/edit#gid=0)
+    - label: Schedule tweets / messages for event reminder
+- type: checkboxes
+  attributes:
+    label: Task post-event
+    options:
+    - label: Thank speaker
+    - label: Add event recording to current [monthly update](https://drive.google.com/drive/u/0/folders/1-vODozxyaDruofIWfnrY8hFr2xauFatf)
+    - label: Add recording to [Resources page](https://fluxcd.io/resources/)
+    - label: Add recording to [Flux YouTube channel](https://www.youtube.com/channel/UCoZxt-YMhGHb20ZkvcCc5KA)
