@@ -20,7 +20,7 @@ body:
       - Additional info:
 - type: checkboxes
   attributes:
-    label: Task pre-event
+    label: Tasks pre-event
     options:
     - label: Agree on content and abstract
     - label: Confirm date with event organisers
@@ -28,9 +28,9 @@ body:
     - label: Schedule tweets / messages for event reminder
 - type: checkboxes
   attributes:
-    label: Task post-event
+    label: Tasks post-event
     options:
     - label: Thank speaker
     - label: Add event recording to current [monthly update](https://drive.google.com/drive/u/0/folders/1-vODozxyaDruofIWfnrY8hFr2xauFatf)
-    - label: Add recording to [Resources page](https://fluxcd.io/resources/)
+    - label: Add recording to [Resources page](https://github.com/fluxcd/website/blob/main/content/en/resources.yaml)
     - label: Add recording to [Flux YouTube channel](https://www.youtube.com/channel/UCoZxt-YMhGHb20ZkvcCc5KA)
