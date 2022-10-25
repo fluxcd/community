@@ -28,11 +28,9 @@ ROLODEX_FN = os.path.join(PROJECT_PATH, 'rolodex.yaml')
 REPOS = [
     'community',
     'flagger',
-    'flux',
     'flux2',
     'go-git-providers',
     'helm-controller',
-    'helm-operator',
     'image-automation-controller',
     'image-reflector-controller',
     'kustomize-controller',
@@ -44,6 +42,8 @@ REPOS = [
 ]
 
 ARCHIVED_REPOS = [
+    'flux',
+    'helm-operator',
     'webui'
 ]
 
