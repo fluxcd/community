@@ -81,7 +81,7 @@ def write_rolodex(info):
 
     # Merge all repo data into central rolodex
     maintainers = set()
-    for repo in REPOS:
+    for repo in sorted(ARCHIVED_REPOS+REPOS):
         data['emeriti'] = data['emeriti'].union(info[repo]['emeriti'])
         maintainers = maintainers.union(info[repo]['maintainers'])
 
