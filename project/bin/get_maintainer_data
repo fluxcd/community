@@ -106,7 +106,7 @@ def write_rolodex(info):
 
 def write_emeriti(info):
     data = {}
-    for repo in info:
+    for repo in sorted(info):
         if info[repo]['emeriti']:
             emeriti = list(info[repo]['emeriti'])
             emeriti.sort()
@@ -143,10 +143,13 @@ def main():
         info[repo]['emeriti'] = emeriti
         info[repo]['maintainers'] = {}
         for m in maintainers:
+            current_maintainer = False
             for r in info:
-                if m in info[r]['maintainers']:
-                    continue
-            info[repo]['emeriti'].add(m[0])
+                if m[0] in [m[0] for m in info[r]['maintainers']]:
+                    current_maintainer = True
+                    break
+            if not current_maintainer:
+                info[repo]['emeriti'].add(m[0])
 
     write_rolodex(info)
     write_emeriti(info)
