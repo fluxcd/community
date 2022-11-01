@@ -57,20 +57,30 @@ Check out the links above to learn more about the team in question.
 We run regular meetings and discuss things there.
 We are very happy if new users, contributors and developers join and we can put names to faces.
 
+All meetings can be found on our calendar: <https://lists.cncf.io/g/cncf-flux-dev/calendar>
+
+We are looking forward to seeing you there.
+
+#### Flux Dev Meetings
+
 - **Meeting times**
   - "early" meeting: Uneven weeks: Wed, 12:00 UTC
   - "late" meeting: Even weeks: Thu, 15:00 UTC
 - **Agenda and minutes**: <https://docs.google.com/document/d/1l_M0om0qUEN_NNiGgpqJ2tvsF2iioHkaARDeh6b70B0/edit>
-- **Flux calendar:** <https://lists.cncf.io/g/cncf-flux-dev/calendar>
 - **Video recordings:** <https://www.youtube.com/playlist?list=PLwjBY07V76p5mWNgdINjIiuUiItIeLhIN>
 
-We are looking forward to seeing you there.
+#### Flux Community Team Meetings
 
-#### Subscribing to the flux-dev calendar
+- **Meeting times**: every other Monday 13:00 UTC
+- **Agenda and minutes**: <https://docs.google.com/document/d/12aOlwyYipXH3PJj-m_G09ZijSjBqS6sUpcQYVZF01B0/edit>
+- **Video recordings:** <https://www.youtube.com/playlist?list=PLwjBY07V76p72DAd9kYH3nRKK_cyAwqB5>
+
+#### Subscribing to the Flux calendar
 
 To add the meetings to your e.g. Google calendar
 
 1. visit the [Flux calendar](https://lists.cncf.io/g/cncf-flux-dev/calendar)
+   > For this you might need to create an account for `lists.cncf.io`
 1. click on "Subscribe to Calendar" at the very bottom of the page
 1. copy the iCalendar URL
 1. open e.g. your Google calendar
