@@ -1,20 +1,27 @@
 ---
 community:
 - Alison Dowdney
-flux:
-- Alfonso Acosta
-- Justin Barrick
-- Nick Cabatoff
 go-git-providers:
 - Dinos Kousidis
 - Michael Beaumont
 - Sara El-Zayat
 helm-controller:
 - Sean Eagan
-helm-operator:
-- Alfonso Acosta
 website:
 - Alison Dowdney
+flux:
+- Alfonso Acosta
+- Hidde Beydals
+- Justin Barrick
+- Kingdon Barrett
+- Michael Bridgen
+- Nick Cabatoff
+- Stefan Prodan
+helm-operator:
+- Alfonso Acosta
+- Hidde Beydals
+- Michael Bridgen
+- Stefan Prodan
 webui:
 - Bianca Cheng Costanzo
 - Jordan Pellizzari

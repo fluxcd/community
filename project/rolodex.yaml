@@ -4,12 +4,16 @@ emeriti:
 - Alison Dowdney
 - Bianca Cheng Costanzo
 - Dinos Kousidis
+- Hidde Beydals
 - Jordan Pellizzari
 - Justin Barrick
+- Kingdon Barrett
 - Michael Beaumont
+- Michael Bridgen
 - Nick Cabatoff
 - Sara El-Zayat
 - Sean Eagan
+- Stefan Prodan
 maintainers:
 - aryan9600:
     name: Sanskar Jaiswal
@@ -81,11 +85,6 @@ maintainers:
     email: soule@weave.works
     affiliation: Weaveworks
     slack: souleb
-- squaremo:
-    name: Michael Bridgen
-    email: michael@weave.works
-    affiliation: Weaveworks
-    slack: Michael Bridgen
 - stefanprodan:
     name: Stefan Prodan
     email: stefan@weave.works
