@@ -4,6 +4,7 @@ community:
 flux:
 - Alfonso Acosta
 - Justin Barrick
+- Michael Bridgen
 - Nick Cabatoff
 go-git-providers:
 - Dinos Kousidis
@@ -13,6 +14,7 @@ helm-controller:
 - Sean Eagan
 helm-operator:
 - Alfonso Acosta
+- Michael Bridgen
 website:
 - Alison Dowdney
 webui:
