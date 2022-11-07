@@ -17,17 +17,12 @@ To get started, it's important you find out which parts of Flux you are interest
 
 Maintained, with stable APIs:
 
-- Flux: <https://github.com/fluxcd/flux2>
-- As a Kustomize user: <https://github.com/fluxcd/kustomize-controller>
-- As a Helm user: <https://github.com/fluxcd/helm-controller>
-
-Currently stable:
-
-- Progressive delivery with Flagger: <https://github.com/fluxcd/flagger>
-
-Roadmap:
-
-- Flux project roadmap: <https://fluxcd.io/roadmap>
+| Status | Interest | Repository | Roadmap |
+| ------ | -------- | ---------- | ------- |
+| Maintained, stable APIs | Flux | <https://github.com/fluxcd/flux2> | <https://fluxcd.io/roadmap> |
+| " | Kustomize user | <https://github.com/fluxcd/kustomize-controller> | <https://fluxcd.io/roadmap> |
+| " | Helm user | <https://github.com/fluxcd/helm-controller> | <https://fluxcd.io/roadmap> |
+| Currently stable | Progressive delivery | <https://github.com/fluxcd/flagger> | <https://github.com/fluxcd/flagger/#roadmap> |
 
 And there is loads more under <https://github.com/fluxcd>, we all work on this as a community together.
 
@@ -45,8 +40,8 @@ See [community-roles.md](community-roles.md).
 The process of formalising team structures apart from "interest in one or more given sub-project(s)" is ongoing.
 There currently are:
 
-- The [core maintainers](GOVERNANCE.md#core-maintainers)
-- The [Security team](SECURITY.md)
+- The [core maintainers](community-roles.md#core-maintainers)
+- The [Security team](https://github.com/fluxcd/.github/blob/main/SECURITY.md#Security-Team)
 - The [Community team](COMMUNITY.md)
 
 All projects and teams are open to contributors and every part of the Flux project appreciates your help and consideration.
@@ -59,21 +54,12 @@ We are very happy if new users, contributors and developers join and we can put 
 
 All meetings can be found on our calendar: <https://lists.cncf.io/g/cncf-flux-dev/calendar>
 
+| Which | Times | Agenda & Minutes | Recordings |
+| ----- | ----- | ---------------- | ---------- |
+| Flux Dev Meetings | "early" meeting: Uneven weeks: Wed, 12:00 UTC, "late" meeting: Even weeks: Thu, 15:00 UTC | [Document](https://docs.google.com/document/d/1l_M0om0qUEN_NNiGgpqJ2tvsF2iioHkaARDeh6b70B0/edit) | [YouTube](https://www.youtube.com/playlist?list=PLwjBY07V76p5mWNgdINjIiuUiItIeLhIN) |
+| Flux Community Team Meetings | every other Monday 13:00 UTC | [Document](https://docs.google.com/document/d/12aOlwyYipXH3PJj-m_G09ZijSjBqS6sUpcQYVZF01B0/edit) | [YouTube](https://www.youtube.com/playlist?list=PLwjBY07V76p72DAd9kYH3nRKK_cyAwqB5) |
+
 We are looking forward to seeing you there.
-
-#### Flux Dev Meetings
-
-- **Meeting times**
-  - "early" meeting: Uneven weeks: Wed, 12:00 UTC
-  - "late" meeting: Even weeks: Thu, 15:00 UTC
-- **Agenda and minutes**: <https://docs.google.com/document/d/1l_M0om0qUEN_NNiGgpqJ2tvsF2iioHkaARDeh6b70B0/edit>
-- **Video recordings:** <https://www.youtube.com/playlist?list=PLwjBY07V76p5mWNgdINjIiuUiItIeLhIN>
-
-#### Flux Community Team Meetings
-
-- **Meeting times**: every other Monday 13:00 UTC
-- **Agenda and minutes**: <https://docs.google.com/document/d/12aOlwyYipXH3PJj-m_G09ZijSjBqS6sUpcQYVZF01B0/edit>
-- **Video recordings:** <https://www.youtube.com/playlist?list=PLwjBY07V76p72DAd9kYH3nRKK_cyAwqB5>
 
 #### Subscribing to the Flux calendar
 
