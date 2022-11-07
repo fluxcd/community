@@ -15,6 +15,17 @@ It is a very low-barrier team to join. It is going to be a lot of fun. And a gre
 - [Signing up to meeting invites](https://fluxcd.io/community/#meetings)
 - Every two weeks, Monday starting 2022-10-17 13:00 UTC
 
+## Resources
+
+Important resources of the Community Team can be found here:
+
+| What                               | Explanation |
+| ---------------------------------- | ----------- |
+| [Flux Drive][flux-drive]           | Contains all Google Docs for planning Flux project activities and comms |
+| [Comms Plan][comms-plan]           | Here we track where announcements and blog posts have been posted to |
+| [Monthly Updates][monthly-updates] | Every month we write about what's new in Flux - find all the drafts here |
+| [Flux Socials][flux-socials]       | Plan out messages on Flux socials |
+
 ## Responsibilities
 
 As opposed to defining a big overarching burden of responsibilities the team would have a hard time to actually realise, we want to slowly and carefully add tasks as we build out the team.
@@ -71,14 +82,14 @@ This means that the team will figure out what kind of news should go where (proc
 
 ##### As a maintainer or contributor
 
-Add news-worthy items to our [planning spreadsheet](https://docs.google.com/spreadsheets/d/1hPV3qJ95I_RKPyeo3zUJOPrHc0LNeSlP3f9fjXTen-c/edit#gid=0) - ask for editing permissions if necessary.
+Add news-worthy items to our [planning spreadsheet][comms-plan] - ask for editing permissions if necessary.
 Ping any of the folks at the bottom of this page, if urgent.
 
 ##### As comms team member
 
-1. Check the [comms planning spreadsheet](https://docs.google.com/spreadsheets/d/1hPV3qJ95I_RKPyeo3zUJOPrHc0LNeSlP3f9fjXTen-c/edit#gid=0) and see if there are items that still need doing.
+1. Check the [comms planning spreadsheet][comms-plan] and see if there are items that still need doing.
 1. We would like to get monthly updates out to our community, so writing up the post, getting quotes from relevant people, etc is of importance to us.
-    Check the ["Monthly Updates" folder](https://drive.google.com/drive/u/0/folders/1-vODozxyaDruofIWfnrY8hFr2xauFatf) and please help getting things ready for the end of the month.
+    Check the ["Monthly Updates" folder][monthly-updates] and please help getting things ready for the end of the month.
 
 ## Contacts and how to join
 
@@ -128,11 +139,16 @@ For people listed below we made exceptions:
 | -- | -- | -- | -- |
 | Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Weaveworks |
 
-#### YouTube channel
+#### YouTube channels
 
-<https://www.youtube.com/channel/UCoZxt-YMhGHb20ZkvcCc5KA>
+<https://youtube.com/@fluxcd>
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
 | Kingdon Barrett | `@Kingdon B`     | `@kingdonb`     | Weaveworks |
 | Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Weaveworks |
+
+[flux-drive]: https://drive.google.com/drive/folders/1884_42hqE02EHq8GrhkeIMC4WSFPsdTW?usp=share_link
+[comms-plan]: https://docs.google.com/spreadsheets/d/1hPV3qJ95I_RKPyeo3zUJOPrHc0LNeSlP3f9fjXTen-c/edit#gid=0
+[monthly-updates]: https://drive.google.com/drive/u/0/folders/1-vODozxyaDruofIWfnrY8hFr2xauFatf
+[flux-socials]: https://docs.google.com/spreadsheets/d/1pCp9fpA10Pz_IkDszoOkI9d9Cdwbjg83rKY9_MwfdSo/edit
