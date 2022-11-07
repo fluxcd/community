@@ -11,13 +11,14 @@ body:
     description: Please provide all relevant links, dates and information here.
     value: |
       - Speaker (name and email):
+      - Social media handles:
       - Organiser (name and email):
       - Event title:
       - Talk title:
       - Date:
       - Link:
       - Abstract:
-      - Additional info:
+      - Additional info (including speaker and/or event picture):
 - type: checkboxes
   attributes:
     label: Tasks pre-event
