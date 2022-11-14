@@ -17,6 +17,7 @@ flux2:
 - stefanprodan
 - darkowlzz
 go-git-providers:
+- makkes
 - foot
 - souleb
 - stefanprodan
