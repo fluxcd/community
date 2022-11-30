@@ -54,6 +54,7 @@ SHARED_MAINTENANCE = [
     'image-reflector-controller',
     'kustomize-controller',
     'notification-controller',
+    'pkg',
     'source-controller'
 ]
 
