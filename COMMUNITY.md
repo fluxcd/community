@@ -98,7 +98,7 @@ Starting off the team are
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
 | Daniel Holbach | `@dholbach` | `@dholbach` | Weaveworks  |
-| Scott Rigby | `@scottrigby` | `@scottrigby` | |
+| Scott Rigby | `@scottrigby` | `@scottrigby` | Independent |
 | Stacey Potter | `@Stacey Potter` | `@staceypotter` | Weaveworks  |
 
 Talk to us in [`#flux`](https://cloud-native.slack.com/archives/flux) on [Slack](https://slack.cncf.io) and let us know if you're interested in contributing.
