@@ -59,8 +59,8 @@ maintainers:
     slack: phillebaba
 - pjbgf:
     name: Paulo Gomes
-    email: paulo.gomes@weave.works
-    affiliation: Weaveworks
+    email: pjbgf@linux.com
+    affiliation: SUSE
     slack: pjbgf
 - relu:
     name: Aurel Canciu
