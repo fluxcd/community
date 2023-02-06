@@ -19,7 +19,7 @@ Most of the roles defined herein are defined by membership in a certain GitHub o
 
 - [fluxcd org](https://github.com/fluxcd): The organization under which all of Flux's activity on GitHub is captured.
 - [@fluxcd/core-maintainers](https://github.com/fluxcd/community/blob/main/CORE-MAINTAINERS): The team comprised of all maintainers of Flux v2 components.
-- [@fluxcd/maintainers](https://github.com/fluxcd/community/blob/main/project/flux-project-maintainers.yaml): The team comprised of all maintainers of the various projects in the FluxCD organization: Flux v1, Flux v2, Flagger, GitOps Toolkit, website and community repos, etc.
+- [@fluxcd/maintainers](https://github.com/fluxcd/community/blob/main/project/flux-project-maintainers.yaml): The team comprised of all maintainers of the various projects in the FluxCD organization: Flux v2, Flagger, GitOps Toolkit, website and community repos, etc.
 
 ### Community Member
 
