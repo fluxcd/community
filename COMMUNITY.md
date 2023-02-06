@@ -75,6 +75,7 @@ The Community team helps with communication channels, including:
 - [KubeWeekly](https://www.cncf.io/kubeweekly/)
 - [CNCF Blog](https://www.cncf.io/blog/)
 - [r/GitOps](https://www.reddit.com/r/GitOps/)
+- [Youtube](https://www.youtube.com/@fluxcd)
 
 This means that the team will figure out what kind of news should go where (process still TBD) and execute in a timely fashion.
 
@@ -118,7 +119,6 @@ For people listed below we made exceptions:
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
-| Kingdon Barrett | `@Kingdon B`     | `@kingdonb`     | Weaveworks |
 | Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Weaveworks |
 | Tamao Nakahara  | `@tamao`         | `@mewzherder`   | Weaveworks |
 
@@ -128,7 +128,6 @@ For people listed below we made exceptions:
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
-| Kingdon Barrett | `@Kingdon B`     | `@kingdonb`     | Weaveworks |
 | Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Weaveworks |
 
 #### Twitter account
@@ -145,7 +144,6 @@ For people listed below we made exceptions:
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
-| Kingdon Barrett | `@Kingdon B`     | `@kingdonb`     | Weaveworks |
 | Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Weaveworks |
 
 [flux-drive]: https://drive.google.com/drive/folders/1884_42hqE02EHq8GrhkeIMC4WSFPsdTW?usp=share_link

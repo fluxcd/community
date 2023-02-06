@@ -8,7 +8,7 @@ There is some understandable ambiguity when describing Flux in different context
 
 These should be clarified, and defined consistently within our own docs and readmes, if we care how Flux is understood and described by other projects, media, etc.
 
-1. Flux CNCF incubating project
+1. Flux CNCF graduated project
     - AKA "Flux family of projects". It  includes Flux CLI, the GitOps Toolkit (Controllers and Go packages), and Flagger
     - Example description:
         > The Flux family of projects are a set of continuous and progressive delivery solutions from Git to Kubernetes.
