@@ -57,7 +57,6 @@ All meetings can be found on our calendar: <https://lists.cncf.io/g/cncf-flux-de
 | Which | Times | Agenda & Minutes | Recordings |
 | ----- | ----- | ---------------- | ---------- |
 | Flux Dev Meetings | "early" meeting: Uneven weeks: Wed, 12:00 UTC, "late" meeting: Even weeks: Thu, 15:00 UTC | [Document](https://docs.google.com/document/d/1l_M0om0qUEN_NNiGgpqJ2tvsF2iioHkaARDeh6b70B0/edit) | [YouTube](https://www.youtube.com/playlist?list=PLwjBY07V76p5mWNgdINjIiuUiItIeLhIN) |
-| Flux Community Team Meetings | every other Monday 13:00 UTC | [Document](https://docs.google.com/document/d/12aOlwyYipXH3PJj-m_G09ZijSjBqS6sUpcQYVZF01B0/edit) | [YouTube](https://www.youtube.com/playlist?list=PLwjBY07V76p72DAd9kYH3nRKK_cyAwqB5) |
 
 We are looking forward to seeing you there.
 
