@@ -40,7 +40,7 @@ The team today is this:
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
 | Daniel Holbach | `@dholbach` | `@dholbach` | Weaveworks  |
-| Stacey Potter | `@Stacey Potter` | `@staceypotter` | Weaveworks  |
+| Stacey Potter | `@Stacey Potter` | `@staceypotter` | Dynatrace  |
 | Vanessa Abankwah | `@Vanessa Abankwah` | `@VanessaAbankwah` | Weaveworks |
 
 ### Communications
@@ -84,11 +84,11 @@ Ping any of the folks at the bottom of this page, if urgent.
 
 Starting off the team are
 
-| Name | Slack handle | Github handle | Affiliation |
-| -- | -- | -- | -- |
-| Daniel Holbach | `@dholbach` | `@dholbach` | Weaveworks  |
-| Scott Rigby | `@scottrigby` | `@scottrigby` | Independent |
-| Stacey Potter | `@Stacey Potter` | `@staceypotter` | Weaveworks  |
+| Name           | Slack handle     | Github handle   | Affiliation |
+| -------------- | ---------------- | --------------- | ----------- |
+| Daniel Holbach | `@dholbach`      | `@dholbach`     | Weaveworks  |
+| Scott Rigby    | `@scottrigby`    | `@scottrigby`   | Independent |
+| Stacey Potter  | `@Stacey Potter` | `@staceypotter` | Dynatrace   |
 
 Talk to us in [`#flux`](https://cloud-native.slack.com/archives/flux) on [Slack](https://slack.cncf.io) and let us know if you're interested in contributing.
 We would love to have you part of the team.
@@ -107,7 +107,7 @@ For people listed below we made exceptions:
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
-| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Weaveworks |
+| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Dynatrace  |
 | Tamao Nakahara  | `@tamao`         | `@mewzherder`   | Weaveworks |
 
 #### LinkedIn Group
@@ -116,7 +116,7 @@ For people listed below we made exceptions:
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
-| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Weaveworks |
+| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Dynatrace |
 
 #### Twitter account
 
@@ -124,7 +124,7 @@ For people listed below we made exceptions:
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
-| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Weaveworks |
+| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Dynatrace |
 
 #### YouTube channels
 
@@ -132,7 +132,7 @@ For people listed below we made exceptions:
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
-| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Weaveworks |
+| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Dynatrace |
 
 [flux-drive]: https://drive.google.com/drive/folders/1884_42hqE02EHq8GrhkeIMC4WSFPsdTW?usp=share_link
 [comms-plan]: https://docs.google.com/spreadsheets/d/1hPV3qJ95I_RKPyeo3zUJOPrHc0LNeSlP3f9fjXTen-c/edit#gid=0
