@@ -11,3 +11,4 @@ who are not maintainers (yet).
 | Rashed Kamal    | @rashedkvm     | Rashed          | VMware       | Issue #239  |
 | Batuhan Apaydın | @developer-guy | developer-guy   | Trendyol     | Issue #242  |
 | Michael Fornaro | @xunholy       | Michael Fornaro | Raspbernetes | Issue #289  |
+| Priyanka Ravi   | @priyanka-ravi | Priyanka Ravi   | Weaveworks   | Issue #293  |
