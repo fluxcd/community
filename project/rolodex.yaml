@@ -24,8 +24,8 @@ maintainers:
     slack: darkowlzz
 - dholbach:
     name: Daniel Holbach
-    email: daniel@weave.works
-    affiliation: Weaveworks
+    email: daniel.holbach@gmail.com
+    affiliation: Independent
     slack: dholbach
 - foot:
     name: Simon Howe
@@ -78,12 +78,12 @@ maintainers:
     affiliation: Weaveworks
     slack: somtoxhi
 - souleb:
-    name: Soule BA
+    name: Soule Ba
     email: soule@weave.works
     affiliation: Weaveworks
     slack: souleb
 - souleb:
-    name: Soule Ba
+    name: Soule BA
     email: soule@weave.works
     affiliation: Weaveworks
     slack: souleb
