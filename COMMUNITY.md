@@ -39,7 +39,6 @@ The team today is this:
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
-| Daniel Holbach | `@dholbach` | `@dholbach` | Weaveworks  |
 | Stacey Potter | `@Stacey Potter` | `@staceypotter` | Dynatrace  |
 | Vanessa Abankwah | `@Vanessa Abankwah` | `@VanessaAbankwah` | Temporal |
 
@@ -86,7 +85,6 @@ Starting off the team are
 
 | Name           | Slack handle     | Github handle   | Affiliation |
 | -------------- | ---------------- | --------------- | ----------- |
-| Daniel Holbach | `@dholbach`      | `@dholbach`     | Weaveworks  |
 | Scott Rigby    | `@scottrigby`    | `@scottrigby`   | Independent |
 | Stacey Potter  | `@Stacey Potter` | `@staceypotter` | Dynatrace   |
 
