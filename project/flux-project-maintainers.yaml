@@ -1,6 +1,5 @@
 ---
 community:
-- dholbach
 - kingdonb
 - scottrigby
 - stefanprodan
@@ -34,7 +33,6 @@ terraform-provider-flux:
 - phillebaba
 - stefanprodan
 website:
-- dholbach
 - hiddeco
 - scottrigby
 - stefanprodan

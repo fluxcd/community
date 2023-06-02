@@ -1,6 +1,7 @@
 ---
 community:
 - Alison Dowdney
+- Daniel Holbach
 flux:
 - Alfonso Acosta
 - Justin Barrick
@@ -17,6 +18,7 @@ helm-operator:
 - Michael Bridgen
 website:
 - Alison Dowdney
+- Daniel Holbach
 webui:
 - Bianca Cheng Costanzo
 - Jordan Pellizzari
