@@ -3,6 +3,7 @@ emeriti:
 - Alfonso Acosta
 - Alison Dowdney
 - Bianca Cheng Costanzo
+- Daniel Holbach
 - Dinos Kousidis
 - Jordan Pellizzari
 - Justin Barrick
@@ -22,11 +23,6 @@ maintainers:
     email: sunny@weave.works
     affiliation: Weaveworks
     slack: darkowlzz
-- dholbach:
-    name: Daniel Holbach
-    email: daniel.holbach@gmail.com
-    affiliation: Independent
-    slack: dholbach
 - foot:
     name: Simon Howe
     email: simon@weave.works
