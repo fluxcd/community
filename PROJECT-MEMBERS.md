@@ -13,3 +13,4 @@ who are not maintainers (yet).
 | Michael Fornaro | @xunholy       | Michael Fornaro | Raspbernetes    | Issue #289  |
 | Priyanka Ravi   | @priyanka-ravi | Priyanka Ravi   | Weaveworks      | Issue #293  |
 | Matheus Pimenta | @matheuscscp   | Matheus Pimenta | Arista Networks | Issue #300  |
+| Daniel Holbach  | @dholbach      | Daniel Holbach  | Independent     | PR #302     |
