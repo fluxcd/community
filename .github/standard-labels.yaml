@@ -10,13 +10,13 @@
   color: '#f7cc45'
   aliases: ['area/build']
 - name: area/docs
-  description: Documentation related issues and PRs
+  description: Documentation related issues and pull requests
   color: '#0075ca'
 - name: area/security
-  description: Security related issues and PRs
+  description: Security related issues and pull requests
   color: '#e54d16'
 - name: area/testing
-  description: Testing related issues and PRs
+  description: Testing related issues and pull requests
   color: '#00cc66'
 - name: area/ux
   description: In pursuit of a delightful user experience
@@ -47,7 +47,7 @@
   description: New feature or request
   color: '#80e27e'
 - name: experimental
-  description: Issues and PRs related to experimental features
+  description: Issues and pull requests related to experimental features
   color: '#ff3399'
 - name: good first issue
   description: Good for newcomers
