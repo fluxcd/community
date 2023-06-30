@@ -26,6 +26,10 @@
   description: Requires wider review and validation
   color: '#e3922e'
   aliases: ['blocked-needs-validation']
+- name: blocked/requires-rfc
+  description: Requires a design proposal
+  color: '#ff8c00'
+  aliases: ['needs design']
 - name: blocked/upstream
   description: Blocked by an upstream dependency or issue
   color: '#ff5700'
