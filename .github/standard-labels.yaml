@@ -2,6 +2,9 @@
 # Flux projects. These apply to (almost) every repository.
 # Ref: https://github.com/EndBug/label-sync#Config-files
 
+- name: area/api
+  description: API related issues and pull requests
+  color: '#ff4081'
 - name: area/ci
   description: CI related issues and pull requests
   color: '#f7cc45'
@@ -15,6 +18,10 @@
 - name: area/testing
   description: Testing related issues and PRs
   color: '#00cc66'
+- name: area/ux
+  description: In pursuit of a delightful user experience
+  color: '#7c4dff'
+  aliases: ['area/UX']
 - name: blocked/needs-validation
   description: Requires wider review and validation
   color: '#e3922e'
@@ -53,6 +60,9 @@
 - name: question
   description: Further information is requested
   color: '#c95dd4'
+- name: request for feedback
+  description: Feedback is requested from users
+  color: '#FFD700'
 - name: umbrella-issue
   description: Umbrella issue for tracking progress of a larger effort
   color: '#c45dac'
