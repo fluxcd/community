@@ -54,6 +54,7 @@
 - name: hold
   description: Issues and pull requests put on hold
   color: '#ff0000'
+  aliases: ['on-hold']
 - name: invalid
   description: This doesn't seem right
   color: '#cccccc'
