@@ -54,7 +54,7 @@
   description: Further information is requested
   color: '#c95dd4'
 - name: umbrella-issue
-  description:
+  description: Umbrella issue for tracking progress of a larger effort
   color: '#c45dac'
 - name: wontfix
   description: This will not be worked on
