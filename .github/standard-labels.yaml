@@ -1,0 +1,61 @@
+# Configuration file to declaratively configure standard labels across
+# Flux projects. These apply to (almost) every repository.
+# Ref: https://github.com/EndBug/label-sync#Config-files
+
+- name: area/ci
+  description: CI related issues and pull requests
+  color: '#f7cc45'
+  aliases: ['area/build']
+- name: area/docs
+  description: Documentation related issues and PRs
+  color: '#0075ca'
+- name: area/security
+  description: Security related issues and PRs
+  color: '#e54d16'
+- name: area/testing
+  description: Testing related issues and PRs
+  color: '#00cc66'
+- name: blocked/needs-validation
+  description: Requires wider review and validation
+  color: '#e3922e'
+  aliases: ['blocked-needs-validation']
+- name: blocked/upstream
+  description: Blocked by an upstream dependency or issue
+  color: '#ff5700'
+  aliases: ['blocked-upstream']
+- name: bug
+  description: Something isn't working
+  color: '#e60000'
+- name: dependencies
+  description: Pull requests that update a dependency
+  color: '#005cbf'
+- name: duplicate
+  description: This issue or pull request already exists
+  color: '#a0a0a0'
+- name: enhancement
+  description: New feature or request
+  color: '#80e27e'
+- name: experimental
+  description: Issues and PRs related to experimental features
+  color: '#ff3399'
+- name: good first issue
+  description: Good for newcomers
+  color: '#40a4ff'
+- name: help wanted
+  description: Extra attention is needed
+  color: '#00b894'
+- name: hold
+  description: Issues and pull requests put on hold
+  color: '#ff0000'
+- name: invalid
+  description: This doesn't seem right
+  color: '#cccccc'
+- name: question
+  description: Further information is requested
+  color: '#c95dd4'
+- name: umbrella-issue
+  description:
+  color: '#c45dac'
+- name: wontfix
+  description: This will not be worked on
+  color: '#888888'
