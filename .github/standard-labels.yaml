@@ -5,6 +5,7 @@
 - name: area/api
   description: API related issues and pull requests
   color: '#ff4081'
+  aliases: ['area/apis']
 - name: area/ci
   description: CI related issues and pull requests
   color: '#f7cc45'
