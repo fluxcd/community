@@ -107,6 +107,7 @@ For people listed below we made exceptions:
 | -- | -- | -- | -- |
 | Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Dynatrace  |
 | Tamao Nakahara  | `@tamao`         | `@mewzherder`   | Weaveworks |
+| Kingdon Barrett | `@KingdonB`      | `@kingdonb`     | Weaveworks |
 
 #### LinkedIn Group
 
@@ -130,7 +131,8 @@ For people listed below we made exceptions:
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
-| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Dynatrace |
+| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Dynatrace  |
+| Kingdon Barrett | `@Kingdon B`     | `@kingdonb`     | Weaveworks |
 
 [flux-drive]: https://drive.google.com/drive/folders/1884_42hqE02EHq8GrhkeIMC4WSFPsdTW?usp=share_link
 [comms-plan]: https://docs.google.com/spreadsheets/d/1hPV3qJ95I_RKPyeo3zUJOPrHc0LNeSlP3f9fjXTen-c/edit#gid=0
