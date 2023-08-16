@@ -33,7 +33,7 @@ Flux strives to operate independently of specific partisan interests, and for de
 ### Meetings
 
 Time zones permitting, Maintainers are expected to participate in the [public
-developer meeting](README.md#meetings).
+developer meeting](https://github.com/fluxcd/community#meetings).
 
 Maintainers will also have closed meetings in order to discuss security reports
 or Code of Conduct violations.  Such meetings should be scheduled by any
