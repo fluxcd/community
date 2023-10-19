@@ -18,4 +18,4 @@ Here are other kinds of contribution that could be recognized:
  - sponsoring the employment of contributors and maintainers
 
 The processes around sponsorship are explained in
-[SPONSORSHIP.md](SPONSORSHIP.ms).
+[SPONSORSHIP.md](SPONSORSHIP.md).
