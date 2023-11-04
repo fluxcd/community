@@ -16,7 +16,7 @@ if os.path.exists('/opt/hostedtoolcache/Python'):
     if LOCAL_PY_PATHS and LOCAL_PY_PATHS[0] not in sys.path:
         sys.path.append(LOCAL_PY_PATHS[0])
 
-from ruamel import yaml
+from ruamel.yaml import YAML
 from ruamel.yaml.comments import CommentedSeq
 
 PROJECT_PATH = os.path.join(os.path.dirname(__file__), '..')
@@ -103,7 +103,8 @@ def write_rolodex(info):
     data['maintainers'].sort(key=lambda a: list(a.keys())[0])
 
     with open(ROLODEX_FN, 'w') as file_desc:
-        yaml.round_trip_dump(data, file_desc, explicit_start=True)
+        yaml = YAML()
+        yaml.dump(data, file_desc)
 
 def write_emeriti(info):
     data = {}
@@ -113,7 +114,8 @@ def write_emeriti(info):
             emeriti.sort()
             data[repo] = emeriti
     with open(EMERITI_FN, 'w') as file_desc:
-        yaml.round_trip_dump(data, file_desc, explicit_start=True)
+        yaml = YAML()
+        yaml.dump(data, file_desc)
 
 
 def write_maintainers(info):
@@ -127,7 +129,8 @@ def write_maintainers(info):
             if repo in SHARED_MAINTENANCE:
                 data[repo].yaml_set_start_comment("Plus flux2 maintainers")
     with open(MAINTAINERS_FN, 'w') as file_desc:
-        yaml.round_trip_dump(data, file_desc, explicit_start=True)
+        yaml = YAML()
+        yaml.dump(data, file_desc)
 
 
 def main():
