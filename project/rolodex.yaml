@@ -19,8 +19,8 @@ maintainers:
     slack: aryan9600
 - darkowlzz:
     name: Sunny
-    email: sunny@weave.works
-    affiliation: Weaveworks
+    email: sunny@darkowlzz.space
+    affiliation: Independent
     slack: darkowlzz
 - foot:
     name: Simon Howe
@@ -37,6 +37,11 @@ maintainers:
     email: kingdon@tuesdaystudios.com
     affiliation: Independent
     slack: Kingdon B
+- makkes:
+    name: Max Jonas Werner
+    email: max@e13.dev
+    affiliation: Weaveworks
+    slack: max
 - makkes:
     name: Max Jonas Werner
     email: max.werner@associmates.eu
@@ -69,28 +74,23 @@ maintainers:
     slack: scottrigby
 - somtochiama:
     name: Somtochi Onyekwere
-    email: somtochi@weave.works
-    affiliation: Weaveworks
+    email: somtochionyekwere@gmail.com
+    affiliation: Independent
     slack: somtochiama
-- somtochiama:
-    name: Somtochi Onyekwere
-    email: somtochi@weave.works
-    affiliation: Weaveworks
-    slack: somtoxhi
-- souleb:
-    name: Soule Ba
-    email: soule@weave.works
-    affiliation: Weaveworks
-    slack: souleb
 - souleb:
     name: Soule BA
-    email: soule@weave.works
-    affiliation: Weaveworks
+    email: bah.soule@gmail.com
+    affiliation: Independent
     slack: souleb
 - stefanprodan:
     name: Stefan Prodan
     email: stefan.prodan@gmail.com
     affiliation: Independent
+    slack: stefanprodan
+- stefanprodan:
+    name: Stefan Prodan
+    email: stefan@weave.works
+    affiliation: Weaveworks
     slack: stefanprodan
 - yiannistri:
     name: Yiannis Triantafyllopoulos
