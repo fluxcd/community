@@ -14,3 +14,4 @@ who are not maintainers (yet).
 | Priyanka Ravi   | @priyanka-ravi | Priyanka Ravi   | Weaveworks      | Issue #293  |
 | Matheus Pimenta | @matheuscscp   | Matheus Pimenta | Arista Networks | Issue #300  |
 | Daniel Holbach  | @dholbach      | Daniel Holbach  | Independent     | PR #302     |
+| Luke Mallon     | @nalum         | nalum           | Independent     | Issue #339  |
