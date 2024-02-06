@@ -39,19 +39,24 @@ maintainers:
     slack: Kingdon B
 - makkes:
     name: Max Jonas Werner
-    email: max@e13.dev
-    affiliation: Weaveworks
+    email: max.werner@associmates.eu
+    affiliation: Associmates
     slack: max
 - makkes:
     name: Max Jonas Werner
-    email: max.werner@associmates.eu
-    affiliation: Associmates
+    email: max@e13.dev
+    affiliation: Weaveworks
     slack: max
 - mathetake:
     name: Takeshi Yoneda
     email: takeshi@tetrate.io
     affiliation: Tetrate
     slack: mathetake
+- mewzherder:
+    name: Tamao Nakahara
+    email: tamaonakahara@gmail.com
+    affiliation: Independent
+    slack: tamao
 - phillebaba:
     name: Philip Laine
     email: philip.laine@xenit.se
@@ -85,7 +90,7 @@ maintainers:
 - stefanprodan:
     name: Stefan Prodan
     email: stefan.prodan@gmail.com
-    affiliation: Independent
+    affiliation: ControlPlane
     slack: stefanprodan
 - stefanprodan:
     name: Stefan Prodan
