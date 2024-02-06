@@ -42,11 +42,6 @@ maintainers:
     email: max.werner@associmates.eu
     affiliation: Associmates
     slack: max
-- makkes:
-    name: Max Jonas Werner
-    email: max@e13.dev
-    affiliation: Weaveworks
-    slack: max
 - mathetake:
     name: Takeshi Yoneda
     email: takeshi@tetrate.io
