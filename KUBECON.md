@@ -5,10 +5,6 @@ KubeCon activities!
 
 ![](https://lh5.googleusercontent.com/xU-q51SiADyWbCa-6tQg-Gj7TG_FQGvznlb9sDbjDh3GcfWPgUnxDauFO1YgshvZMFUZ-FZ624O9o5A6Mrj9j0pqVNM_0X4oAIlZi99Qun5UlSqLuRs-8pwG-T31LR9D5w=w1280)
 
-[
-
-](#h.cn9lzphxuxjy)
-
 KubeCon Paris 2024
 
 
@@ -17,10 +13,6 @@ KubeCon Paris 2024
 March 19-22, 2024
 
 ![](https://lh4.googleusercontent.com/Mrp1DBBTDc1krQUKdNEZBA_-Zs2Jtj8ix_EIC82dvn6hc772sI2m3ws0wTPNwMzCZhAw5KZsYoGMfMRpIAkAtZcEDTJovXw8i5HRcSmeGtQAO95qCdpU1FZq3YYtuRGn3g=w1280)
-
-[
-
-](#h.lev5oj3jsodx)
 
 Flux news!
 
@@ -33,10 +25,6 @@ Flux news!
 
 ![](https://lh4.googleusercontent.com/h2bGXP2YYskdFyeo4nX4TOPrdA9dInimBgHkunYYxVQTpKoxpecxZncJsx4M7rrBZ2NcPnnxn851tiYUch2rb-Hvfc2hRdmwityOXKtxZ9A13F6LqZRSjOhkcfEDJ0-PbA=w1280)
 
-[
-
-](#h.skrvimks3712)
-
 Flux Booth fun!
 
 
@@ -45,10 +33,6 @@ Flux Booth fun!
 Want a bespoke unique all-your-own cuttlefish sticker? Complete the challenge and pick up a human-intelligence or artificial-intelligence Flux sticker! Deploy [the podinfo sample app](https://github.com/stefanprodan/podinfo) and change the text to something like "Cuttlefish playing tennis" and then come by the Flux booth at KubeCon. 😸👩🏻‍🎨🎨
 
 Visit the Flux booth in the KubeCon Project Pavilion to meet the Flux maintainers and contributors for demos and fun!
-
-[
-
-](#h.wrw4ldiekwa8)
 
 Flux talks @ KubeCon Paris!
 
@@ -94,10 +78,6 @@ Friday, March 22, 2024
 
 *   14:00 CET: "[KubeDDR! a Dance of Predictive Scoring with MLOps, Step by Step](https://sched.co/1YeRR)" - Leigh Capili, Broadcom & Annie Talvasto, VSHN
     
-
-[
-
-](#h.816exohuj29s)
 
 Flux Resources
 
