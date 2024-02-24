@@ -84,13 +84,13 @@ maintainers:
     slack: souleb
 - stefanprodan:
     name: Stefan Prodan
-    email: stefan.prodan@gmail.com
-    affiliation: ControlPlane
+    email: stefan@weave.works
+    affiliation: Weaveworks
     slack: stefanprodan
 - stefanprodan:
     name: Stefan Prodan
-    email: stefan@weave.works
-    affiliation: Weaveworks
+    email: stefan.prodan@gmail.com
+    affiliation: ControlPlane
     slack: stefanprodan
 - yiannistri:
     name: Yiannis Triantafyllopoulos
