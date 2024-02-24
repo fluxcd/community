@@ -29,7 +29,7 @@ Currently on our agenda are:
 
 ### Events and Advocacy
 
-It is important to us to create a space for our community to meet, engage, collaborate and learn from each other. Over the past months, we have organised [GitOps Days](https://www.gitopsdays.com/), participated in CloudNativeCon / KubeCon and at various meetups. Check out <https://fluxcd.io/resources/>, to see some of the events we helped to put together recently.
+It is important to us to create a space for our community to meet, engage, collaborate and learn from each other. Over the past months, we have organised [GitOps Days](https://web.archive.org/web/20221206001007/https://www.gitopsdays.com/), participated in CloudNativeCon / KubeCon and at various meetups. Check out <https://fluxcd.io/resources/>, to see some of the events we helped to put together recently.
 
 If you want to join the planning effort, please come and talk to us!
 
