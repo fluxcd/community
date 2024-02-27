@@ -10,7 +10,7 @@
 March 19-22, 2024
 
 
-    {{< figure src="img/flux-horizontal-color.png" alt="Flux Logo" class="inner-header-right-align" >}}
+    {{< figure src="img/blob-waving.gif" alt="Blob Waving" class="inner-header-right-align" >}}
 
 # Flux news!
 
