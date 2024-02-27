@@ -20,6 +20,7 @@ fi
 # sed 1: Remove "Copy heading link" text, which is inserted by Google Site
 # sed 2: make site top-link self-referential, it should point at /kubecon
 # sed 3: remove empty image alt ref with no significance (branding logo)
+# sed 4-6: detect the images from their alt tags, then replace with figure refs
 wget ${SOURCE_SITE} -O ${TEMP_FILE} \
   && ${HTML2MD_BIN} -i ${TEMP_FILE} |sed '1,6d'|head -n -13 \
   | sed 's_# \[Copy heading link\](\\#h\.[a-z0-9]*)[[:space:]]*_# _' \
@@ -32,9 +33,6 @@ wget ${SOURCE_SITE} -O ${TEMP_FILE} \
   | sed -E 's_!\[stickers-float-left[^)]+\)_\
     {{< figure src="img/flux-cuttlefish-stickers.jpeg" alt="Custom printed stickers with cuttlefish mascot and Flux logos" class="stickers-float-left" >}}_g' \
     > ${OUT_FILE}
-
-# TODO: The remaining images all have alt-text which can be further
-# re-processed into CSS selectors? or maybe short codes, I think 😵
 
 if [[ -z "$DEBUG" ]]; then
   rm ${TEMP_FILE} && rm -rf ${HTML2MD}*
