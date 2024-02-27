@@ -29,7 +29,7 @@ wget ${SOURCE_SITE} -O ${TEMP_FILE} \
   | sed -E 's_!\[flux-logo-inner-header-left[^)]+\)_\
     {{< figure src="img/flux-horizontal-color.png" alt="Flux Logo" class="flux-logo-inner-header-left" >}}_g' \
   | sed -E 's_!\[inner-header-right-align[^)]+\)_\
-    {{< figure src="img/flux-horizontal-color.png" alt="Flux Logo" class="inner-header-right-align" >}}_g' \
+    {{< figure src="img/blob-waving.gif" alt="Blob Waving" class="inner-header-right-align" >}}_g' \
   | sed -E 's_!\[stickers-float-left[^)]+\)_\
     {{< figure src="img/flux-cuttlefish-stickers.jpeg" alt="Custom printed stickers with cuttlefish mascot and Flux logos" class="stickers-float-left" >}}_g' \
     > ${OUT_FILE}
