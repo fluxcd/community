@@ -15,16 +15,13 @@ jobs:
         run: |
           # go install github.com/suntong/html2md@latest
           HTML2MD=html2md_1.5.0_linux_amd64
-          wget https://github.com/suntong/html2md/releases/download/v1.5.0/${HTML2MD}.tar.gz
-          tar xvf ${HTML2MD}.tar.gz
+          HTML2MD_VER=v1.5.0
           HTML2MD_BIN="./${HTML2MD}/html2md"
+          SOURCE_SITE="https://sites.google.com/view/flux-kubecon-paris-2024/home"
+          export SOURCE_SITE HTML2MD_BIN HTML2MD_VER HTML2MD
 
-          wget https://sites.google.com/view/flux-kubecon-paris-2024/home -O kubecon.html \
-            && ${HTML2MD_BIN} -i kubecon.html |sed '1,6d'|head -n -13 \
-            | sed 's_# \[Copy heading link\](\\#h\.[a-z0-9]*)[[:space:]]*_# _' \
-            | sed 's_/view/flux-kubecon-paris-2024/home_/kubecon' \
-            > KUBECON.md \
-            && rm kubecon.html && rm -rf ${HTML2MD}*
+          ./script/update-kubecon.sh
+
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:

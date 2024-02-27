@@ -1,14 +1,16 @@
-[![](https://lh3.googleusercontent.com/YyFFZKmhaF_tupq893gXB9QlI0sTIB_kKIWRQRKYkM4DM57NiWsA8-a3fdAsNfVSENMpmB8woL7ZoMxvz60QJ9E=w16383)Flux and Flagger @ KubeCon Paris 2024](/kubecon)
+[Flux and Flagger @ KubeCon Paris 2024](/kubecon)
 
 # KubeCon activities!
 
-![](https://lh4.googleusercontent.com/Zs2nLOcdZduejxNPG1ggl7LC7LGW4e9ICzWj6PVeOvb3U4BA4VxylXIJbNIDUGB9K8lKVQrRhtJ8K7zc69cvVqggfFYepEqpA1c6-QQwZKfzzW6UT3P42uB9M6XpLk7eyA=w1280)
+
+    {{< figure src="img/flux-horizontal-color.png" alt="Flux Logo" class="flux-logo-inner-header-left" >}}
 
 # KubeCon Paris 2024
 
 March 19-22, 2024
 
-![](https://lh5.googleusercontent.com/QSY9peqmDRMHJ48d6C39-WFTsXZmWchXFWGo-sLsPqQjWiYlwgifgBTnpYmmQKmQxAmHcgvCSNvYX4Hy8OY21OHqd7S-05iWaULoskrqSdmspuH4lj31FFOBmIcwQH02kw=w1280)
+
+    {{< figure src="img/flux-horizontal-color.png" alt="Flux Logo" class="inner-header-right-align" >}}
 
 # Flux news!
 
@@ -16,7 +18,8 @@ March 19-22, 2024
 
 [Second Security audit: No CVEs!](https://fluxcd.io/blog/2023/11/flux-security-audit/)
 
-![](https://lh6.googleusercontent.com/kN2ZY5XrU7NJ6OLB6NIZn7m6eXLvhLKieXpvQ4jYhSoffmNMb4civCKYSQGhZ6MNewO2L0RJxhiiGFkmzIsUgzFYEQ4uao2zxwJV07qZ6XQ15m06KkRFdyp09sN1-dbuMg=w1280)
+
+    {{< figure src="img/flux-cuttlefish-stickers.jpeg" alt="Custom printed stickers with cuttlefish mascot and Flux logos" class="stickers-float-left" >}}
 
 # Flux Booth fun!
 
