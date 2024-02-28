@@ -10,6 +10,11 @@
 TEMP_FILE=kubecon.html
 OUT_FILE=KUBECON.md
 
+# sed=gsed
+sed=sed
+# head=ghead
+head=head
+
 if [[ -z "$DEBUG" ]]; then
   wget https://github.com/suntong/html2md/releases/download/${HTML2MD_VER}/${HTML2MD}.tar.gz -O ${HTML2MD}.tar.gz
   tar xvf ${HTML2MD}.tar.gz
@@ -21,17 +26,27 @@ fi
 # sed 2: make site top-link self-referential, it should point at /kubecon
 # sed 3: remove empty image alt ref with no significance (branding logo)
 # sed 4-6: detect the images from their alt tags, then replace with figure refs
+# sed 7: the header which is meant to float between images must also have float
 wget ${SOURCE_SITE} -O ${TEMP_FILE} \
-  && ${HTML2MD_BIN} -i ${TEMP_FILE} |sed '1,6d'|head -n -13 \
-  | sed 's_# \[Copy heading link\](\\#h\.[a-z0-9]*)[[:space:]]*_# _' \
-  | sed 's_/view/flux-kubecon-paris-2024/home_/kubecon_' \
-  | sed -E 's_\[!\[\]\([^)]+\)_[_g' \
-  | sed -E 's_!\[flux-logo-inner-header-left[^)]+\)_\
-{{< figure src="/img/flux-horizontal-color.png" alt="Flux Logo" class="flux-logo-inner-header-left" >}}_g' \
-  | sed -E 's_!\[inner-header-right-align[^)]+\)_\
-{{< figure src="/img/blob-waving.gif" alt="Blob Waving" class="inner-header-right-align" >}}_g' \
-  | sed -E 's_!\[stickers-float-left[^)]+\)_\
-{{< figure src="/img/flux-cuttlefish-stickers.jpeg" alt="Custom printed stickers with cuttlefish mascot and Flux logos" class="stickers-float-left" >}}_g' \
+  && ${HTML2MD_BIN} -i ${TEMP_FILE} |$sed '1,6d'|$head -n -13 \
+  | $sed 's_# \[Copy heading link\](\\#h\.[a-z0-9]*)[[:space:]]*_# _' \
+  | $sed 's_/view/flux-kubecon-paris-2024/home_/kubecon_' \
+  | $sed -E 's_\[!\[\]\([^)]+\)_[_g' \
+  | $sed -E 's_!\[flux-logo-inner-header-left[^)]+\)_\
+<div class="clearfix">\
+<div class="flux-logo-inner-header-left">\
+{{< figure src="/img/flux-horizontal-color.png" alt="Flux Logo" >}}\
+</div>_g' \
+  | $sed -E 's_!\[inner-header-right-align[^)]+\)_\
+<div class="inner-header-right-align">\
+{{< figure src="/img/blob-waving.gif" alt="Blob Waving" >}}\
+</div></div>_g' \
+  | $sed -E 's_!\[stickers-float-left[^)]+\)_\
+<div class="clearfix">\
+  <div class="stickers-float-left">\
+{{< figure src="/img/flux-cuttlefish-stickers.jpeg" alt="Custom printed stickers with cuttlefish mascot and Flux logos" >}}\
+</div></div>_g' \
+  | $sed -z 's_# KubeCon Paris 2024\n\nMarch 19-22, 2024_<div class="float-header-kubecon"># KubeCon Paris 2024\n\nMarch 19-22, 2024</div>_' \
     > ${OUT_FILE}
 
 if [[ -z "$DEBUG" ]]; then
