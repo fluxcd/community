@@ -30,6 +30,7 @@ fi
 # sed 3: remove empty image alt ref with no significance (branding logo)
 # sed 4-6: detect the images from their alt tags, then replace with figure refs
 # sed 7: the header which is meant to float between images must also have float
+# sed 8: flux booth fun (a caption with a heading h1 followed by two paragraphs!)
 wget ${SOURCE_SITE} -O ${TEMP_FILE} \
   && ${HTML2MD_BIN} -i ${TEMP_FILE} |$sed '1,6d'|$head -n -13 \
   | $sed 's_# \[Copy heading link\](\\#h\.[a-z0-9]*)[[:space:]]*_# _' \
@@ -48,8 +49,10 @@ wget ${SOURCE_SITE} -O ${TEMP_FILE} \
 <div class="clearfix">\
   <div class="stickers-float-left">\
 {{< figure src="/img/flux-cuttlefish-stickers.jpeg" alt="Custom printed stickers with cuttlefish mascot and Flux logos" >}}\
-</div></div>_g' \
+</div>_g' \
   | $sed -z 's_# KubeCon Paris 2024\n\nMarch 19-22, 2024_<div class="float-header-kubecon"><h1>KubeCon Paris 2024</h1><p>March 19-22, 2024</p></div>_' \
+  | $sed -Ez 's_# Flux Booth fun!\n\n([^\n]+)\n\n([^\n]+)\n\n#_\
+<div class="float-booth-fun"><h1>Flux Booth fun!</h1><p>\1</p><p>\2</p></div></div>\n\n#_' \
     > ${OUT_FILE}
 
 if [[ -z "$DEBUG" ]]; then
