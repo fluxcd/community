@@ -3,14 +3,14 @@
 # KubeCon activities!
 
 
-    {{< figure src="img/flux-horizontal-color.png" alt="Flux Logo" class="flux-logo-inner-header-left" >}}
+{{< figure src="/img/flux-horizontal-color.png" alt="Flux Logo" class="flux-logo-inner-header-left" >}}
 
 # KubeCon Paris 2024
 
 March 19-22, 2024
 
 
-    {{< figure src="img/blob-waving.gif" alt="Blob Waving" class="inner-header-right-align" >}}
+{{< figure src="/img/blob-waving.gif" alt="Blob Waving" class="inner-header-right-align" >}}
 
 # Flux news!
 
@@ -19,7 +19,7 @@ March 19-22, 2024
 [Second Security audit: No CVEs!](https://fluxcd.io/blog/2023/11/flux-security-audit/)
 
 
-    {{< figure src="img/flux-cuttlefish-stickers.jpeg" alt="Custom printed stickers with cuttlefish mascot and Flux logos" class="stickers-float-left" >}}
+{{< figure src="/img/flux-cuttlefish-stickers.jpeg" alt="Custom printed stickers with cuttlefish mascot and Flux logos" class="stickers-float-left" >}}
 
 # Flux Booth fun!
 
