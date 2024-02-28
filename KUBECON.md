@@ -8,9 +8,7 @@
 {{< figure src="/img/flux-horizontal-color.png" alt="Flux Logo" >}}
 </div>
 
-<div class="float-header-kubecon"># KubeCon Paris 2024
-
-March 19-22, 2024</div>
+<div class="float-header-kubecon"><h1>KubeCon Paris 2024</h1><p>March 19-22, 2024</p></div>
 
 
 <div class="inner-header-right-align">

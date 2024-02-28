@@ -10,10 +10,13 @@
 TEMP_FILE=kubecon.html
 OUT_FILE=KUBECON.md
 
-# sed=gsed
 sed=sed
-# head=ghead
 head=head
+
+if [[ "$OSTYPE" == "darwin"* ]]; then
+  sed=gsed
+  head=ghead
+fi
 
 if [[ -z "$DEBUG" ]]; then
   wget https://github.com/suntong/html2md/releases/download/${HTML2MD_VER}/${HTML2MD}.tar.gz -O ${HTML2MD}.tar.gz
@@ -46,7 +49,7 @@ wget ${SOURCE_SITE} -O ${TEMP_FILE} \
   <div class="stickers-float-left">\
 {{< figure src="/img/flux-cuttlefish-stickers.jpeg" alt="Custom printed stickers with cuttlefish mascot and Flux logos" >}}\
 </div></div>_g' \
-  | $sed -z 's_# KubeCon Paris 2024\n\nMarch 19-22, 2024_<div class="float-header-kubecon"># KubeCon Paris 2024\n\nMarch 19-22, 2024</div>_' \
+  | $sed -z 's_# KubeCon Paris 2024\n\nMarch 19-22, 2024_<div class="float-header-kubecon"><h1>KubeCon Paris 2024</h1><p>March 19-22, 2024</p></div>_' \
     > ${OUT_FILE}
 
 if [[ -z "$DEBUG" ]]; then
