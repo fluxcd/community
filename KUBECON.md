@@ -3,14 +3,17 @@
 # KubeCon activities!
 
 
-{{< figure src="/img/flux-horizontal-color.png" alt="Flux Logo" class="flux-logo-inner-header-left" >}}
+<div class="clearfix">
+<div class="flux-logo-inner-header-left">
+{{< figure src="/img/flux-horizontal-color.png" alt="Flux Logo" >}}
+</div>
 
-# KubeCon Paris 2024
-
-March 19-22, 2024
+<div class="float-header-kubecon"><h1>KubeCon Paris 2024</h1><p>March 19-22, 2024</p></div>
 
 
-{{< figure src="/img/blob-waving.gif" alt="Blob Waving" class="inner-header-right-align" >}}
+<div class="inner-header-right-align">
+{{< figure src="/img/blob-waving.gif" alt="Blob Waving" >}}
+</div></div>
 
 # Flux news!
 
@@ -19,13 +22,13 @@ March 19-22, 2024
 [Second Security audit: No CVEs!](https://fluxcd.io/blog/2023/11/flux-security-audit/)
 
 
-{{< figure src="/img/flux-cuttlefish-stickers.jpeg" alt="Custom printed stickers with cuttlefish mascot and Flux logos" class="stickers-float-left" >}}
+<div class="clearfix">
+  <div class="stickers-float-left">
+{{< figure src="/img/flux-cuttlefish-stickers.jpeg" alt="Custom printed stickers with cuttlefish mascot and Flux logos" >}}
+</div>
 
-# Flux Booth fun!
 
-Want a bespoke unique all-your-own cuttlefish sticker? Complete the challenge and pick up a human-intelligence or artificial-intelligence Flux sticker! Deploy [the podinfo sample app](https://github.com/stefanprodan/podinfo) and change the text to something like "Cuttlefish playing tennis" and then come by the Flux booth at KubeCon. 😸👩🏻‍🎨🎨
-
-Visit the Flux booth in the KubeCon Project Pavilion to meet the Flux maintainers and contributors for demos and fun!
+<div class="float-booth-fun"><h1>Flux Booth fun!</h1><p>Want a bespoke unique all-your-own cuttlefish sticker? Complete the challenge and pick up a human-intelligence or artificial-intelligence Flux sticker! Deploy [the podinfo sample app](https://github.com/stefanprodan/podinfo) and change the text to something like "Cuttlefish playing tennis" and then come by the Flux booth at KubeCon. 😸👩🏻‍🎨🎨</p><p>Visit the Flux booth in the KubeCon Project Pavilion to meet the Flux maintainers and contributors for demos and fun!</p></div></div>
 
 # Flux talks @ KubeCon Paris!
 
