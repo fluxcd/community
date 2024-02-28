@@ -28,7 +28,7 @@
 </div>
 
 
-<div class="float-booth-fun"><h1>Flux Booth fun!</h1><p>Want a bespoke unique all-your-own cuttlefish sticker? Complete the challenge and pick up a human-intelligence or artificial-intelligence Flux sticker! Deploy [the podinfo sample app](https://github.com/stefanprodan/podinfo) and change the text to something like "Cuttlefish playing tennis" and then come by the Flux booth at KubeCon. 😸👩🏻‍🎨🎨</p><p>Visit the Flux booth in the KubeCon Project Pavilion to meet the Flux maintainers and contributors for demos and fun!</p></div></div>
+<div class="float-booth-fun"><h1>Flux Booth fun!</h1><p>Want a bespoke unique all-your-own cuttlefish sticker? Complete the challenge and pick up a human-intelligence or artificial-intelligence Flux sticker! Deploy <a href="https://github.com/stefanprodan/podinfo">the podinfo sample app</a> and change the text to something like "Cuttlefish playing tennis" and then come by the Flux booth at KubeCon. 😸👩🏻‍🎨🎨</p><p>Visit the Flux booth in the KubeCon Project Pavilion to meet the Flux maintainers and contributors for demos and fun!</p></div></div>
 
 # Flux talks @ KubeCon Paris!
 
