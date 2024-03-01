@@ -36,8 +36,6 @@ Tuesday, March 19, 2024
 
 - 9:00 CET: " [CNCF Projects Lightning Talks](https://sched.co/1ZOFb)"
 
-- 10:30 - 20:00 CET: Flux booth hours in the Project Pavilion
-
 - 14:45 CET: " [⚡ Lightning Talk: My Database Runs on Kubernetes. What's Next? Data Platforms!](https://sched.co/1YFiG)" \- Robert Hodges, Altinity @ Data on Kubernetes Day colo event
 
 - 15:15 CET: " [Unlocking Innovation: How NatWest Bank Uses Cloud Native Tools to Deliver Platform as a Product](https://sched.co/1YFif)" \- Chris Plank, Natwest Group & Derik Evangelista, Syntasso @ Platform Engineering Day colo event
@@ -47,7 +45,7 @@ Tuesday, March 19, 2024
 
 Wednesday, March 20, 2024
 
-- 10:30 - 17:00 CET: Flux booth hours in the Project Pavilion
+- 10:30 - 20:00 CET: Visit the Flux booth (Kiosk #: PP9-A) in the Project Pavilion
 
 - 14:30 CET: " [Tackling Configuration Management at Scale with Flux, CUE and OCI at Cisco](https://sched.co/1YeMe)" \- Alec Hothan, Cisco & Stefan Prodan
 
@@ -58,7 +56,7 @@ Wednesday, March 20, 2024
 
 Thursday, March 21, 2024
 
-- 10:30 - 14:30 CET: Flux booth hours in the Project Pavilion
+- 10:30 - 17:00 CET: Visit the Flux booth (Kiosk #: PP9-A) in the Project Pavilion
 
 - 14:30 CET: " [GitOps Continuous Delivery at Scale with Flux](https://sched.co/1YhhG)" (Project maintainer talk) - Stefan Prodan
 
@@ -68,6 +66,8 @@ Thursday, March 21, 2024
 
 
 Friday, March 22, 2024
+
+- 10:30 - 14:30 CET: Visit the Flux booth (Kiosk #: PP9-A) in the Project Pavilion
 
 - 14:00 CET: " [KubeDDR! a Dance of Predictive Scoring with MLOps, Step by Step](https://sched.co/1YeRR)" \- Leigh Capili, Broadcom & Annie Talvasto, VSHN
 
