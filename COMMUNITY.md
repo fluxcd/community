@@ -39,7 +39,7 @@ The team today is this:
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
-| Tamao Nakahara  | `@tamao`       | `@mewzherder`   | Independent  |
+| Tamao Nakahara  | `@tamao`         | `@mewzherder`   | Independent  |
 | Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Independent  |
 
 ### Communications
@@ -131,7 +131,7 @@ For people listed below we made exceptions:
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
-| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Dynatrace  |
+| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Independent |
 | Kingdon Barrett | `@Kingdon B`     | `@kingdonb`     | Independent |
 
 [flux-drive]: https://drive.google.com/drive/folders/1884_42hqE02EHq8GrhkeIMC4WSFPsdTW?usp=share_link
