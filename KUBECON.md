@@ -15,7 +15,7 @@
 {{< figure src="/img/blob-waving.gif" alt="Blob Waving" >}}
 </div></div>
 
-# Flux news! test
+# Flux news!
 
 [Flux General Availability announced in December 2024!](https://fluxcd.io/blog/2023/12/flux-v2.2.0/)
 
