@@ -39,8 +39,8 @@ The team today is this:
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
-| Stacey Potter | `@Stacey Potter` | `@staceypotter` | Dynatrace  |
-| Vanessa Abankwah | `@Vanessa Abankwah` | `@VanessaAbankwah` | Temporal |
+| Tamao Nakahara  | `@tamao`       | `@mewzherder`   | Independent  |
+| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Independent  |
 
 ### Communications
 
@@ -86,7 +86,7 @@ Starting off the team are
 | Name           | Slack handle     | Github handle   | Affiliation |
 | -------------- | ---------------- | --------------- | ----------- |
 | Scott Rigby    | `@scottrigby`    | `@scottrigby`   | Independent |
-| Stacey Potter  | `@Stacey Potter` | `@staceypotter` | Dynatrace   |
+| Stacey Potter  | `@Stacey Potter` | `@staceypotter` | Indepnedent |
 
 Talk to us in [`#flux`](https://cloud-native.slack.com/archives/flux) on [Slack](https://slack.cncf.io) and let us know if you're interested in contributing.
 We would love to have you part of the team.
@@ -105,7 +105,7 @@ For people listed below we made exceptions:
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
-| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Dynatrace  |
+| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Independent |
 | Tamao Nakahara  | `@tamao`         | `@mewzherder`   | Independent |
 | Kingdon Barrett | `@KingdonB`      | `@kingdonb`     | Independent |
 
@@ -115,7 +115,7 @@ For people listed below we made exceptions:
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
-| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Dynatrace |
+| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Independent |
 
 #### Twitter account
 
@@ -123,7 +123,7 @@ For people listed below we made exceptions:
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
-| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Dynatrace |
+| Stacey Potter   | `@Stacey Potter` | `@staceypotter` | Independent |
 
 #### YouTube channels
 
