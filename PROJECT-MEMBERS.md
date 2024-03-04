@@ -3,15 +3,15 @@
 Here is a list of our [Flux Project Members](community-roles.md#project-member)
 who are not maintainers (yet).
 
-| Name            | GitHub Handle  | Slack Handle    | Affiliation     | Application |
-| --------------- | -------------- | --------------- | --------------- | ----------- |
-| Stacey Potter   | @staceypotter  | Stacey Potter   | Independent     | Issue #210  |
-| Ihor Sychevskyi | @arhell        | Arhell          | SmartCats       | Issue #202  |
-| Leigh Capili    | @stealthybox   | stealthybox     | VMware          | Issue #234  |
-| Rashed Kamal    | @rashedkvm     | Rashed          | VMware          | Issue #239  |
-| Batuhan Apaydın | @developer-guy | developer-guy   | Trendyol        | Issue #242  |
-| Michael Fornaro | @xunholy       | Michael Fornaro | Raspbernetes    | Issue #289  |
-| Priyanka Ravi   | @priyanka-ravi | Priyanka Ravi   | Weaveworks      | Issue #293  |
-| Matheus Pimenta | @matheuscscp   | Matheus Pimenta | Arista Networks | Issue #300  |
-| Daniel Holbach  | @dholbach      | Daniel Holbach  | Independent     | PR #302     |
-| Luke Mallon     | @nalum         | nalum           | Independent     | Issue #339  |
+| Name            | GitHub Handle  | Slack Handle    | Affiliation  | Application |
+| --------------- | -------------- | --------------- | ------------ | ----------- |
+| Stacey Potter   | @staceypotter  | Stacey Potter   | Independent  | Issue #210  |
+| Ihor Sychevskyi | @arhell        | Arhell          | SmartCats    | Issue #202  |
+| Leigh Capili    | @stealthybox   | stealthybox     | VMware       | Issue #234  |
+| Rashed Kamal    | @rashedkvm     | Rashed          | VMware       | Issue #239  |
+| Batuhan Apaydın | @developer-guy | developer-guy   | Trendyol     | Issue #242  |
+| Michael Fornaro | @xunholy       | Michael Fornaro | Raspbernetes | Issue #289  |
+| Priyanka Ravi   | @priyanka-ravi | Priyanka Ravi   | Weaveworks   | Issue #293  |
+| Matheus Pimenta | @matheuscscp   | Matheus Pimenta | Luma Health  | Issue #300  |
+| Daniel Holbach  | @dholbach      | Daniel Holbach  | Independent  | PR #302     |
+| Luke Mallon     | @nalum         | nalum           | Independent  | Issue #339  |
