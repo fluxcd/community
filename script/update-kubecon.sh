@@ -33,7 +33,7 @@ fi
 # sed 8: flux booth fun (a caption with a heading h1 followed by three paragraphs!)
 # sed 9: the podinfo sample app link is in an HTML block so :( turn it manually into a link
 wget ${SOURCE_SITE} -O ${TEMP_FILE} \
-  && ${HTML2MD_BIN} -i ${TEMP_FILE} |$sed '1,6d'|$head -n -13 \
+  && ${HTML2MD_BIN} -i ${TEMP_FILE} |$sed '1,6d'|$head -n -19 \
   | $sed 's_# \[Copy heading link\](\\#h\.[a-z0-9]*)[[:space:]]*_# _' \
   | $sed 's_/view/flux-kubecon-paris-2024/home_/kubecon_' \
   | $sed -E 's_\[!\[\]\([^)]+\)_[_g' \
