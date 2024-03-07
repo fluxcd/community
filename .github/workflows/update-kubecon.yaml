@@ -14,11 +14,7 @@ jobs:
       - name: Pull html from site and convert to markdown
         run: |
           # go install github.com/suntong/html2md@latest
-          HTML2MD=html2md_1.5.0_linux_amd64
-          HTML2MD_VER=v1.5.0
-          HTML2MD_BIN="./${HTML2MD}/html2md"
-          SOURCE_SITE="https://sites.google.com/view/flux-kubecon-paris-2024/home"
-          export SOURCE_SITE HTML2MD_BIN HTML2MD_VER HTML2MD
+          # export SOURCE_SITE HTML2MD_BIN HTML2MD_VER HTML2MD
 
           ./script/update-kubecon.sh
 
