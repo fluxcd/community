@@ -1,10 +1,11 @@
 #!/bin/bash
 # Define and export these (ahead of the script):
 #
-# HTML2MD=html2md_1.5.0_linux_amd64
-# HTML2MD_VER=v1.5.0
-# HTML2MD_BIN="./${HTML2MD}/html2md"
-# SOURCE_SITE="https://sites.google.com/view/flux-kubecon-paris-2024/home"
+HTML2MD_VER=1.5.0
+HTML2MD=html2md_${HTML2MD_VER}_linux_amd64
+HTML2MD_VER_SLUG=v${HTML2MD_VER}
+HTML2MD_BIN="./${HTML2MD}/html2md"
+SOURCE_SITE="https://sites.google.com/view/flux-kubecon-paris-2024/home"
 # export SOURCE_SITE HTML2MD_BIN HTML2MD_VER HTML2MD
 
 TEMP_FILE=kubecon.html
@@ -16,13 +17,19 @@ head=head
 if [[ "$OSTYPE" == "darwin"* ]]; then
   sed=gsed
   head=ghead
+  DEBUG=1
 fi
 
 if [[ -z "$DEBUG" ]]; then
-  wget https://github.com/suntong/html2md/releases/download/${HTML2MD_VER}/${HTML2MD}.tar.gz -O ${HTML2MD}.tar.gz
+  wget https://github.com/suntong/html2md/releases/download/${HTML2MD_VER_SLUG}/${HTML2MD}.tar.gz -O ${HTML2MD}.tar.gz
   tar xvf ${HTML2MD}.tar.gz
 else
   HTML2MD_BIN=`which html2md`
+  if [[ -z "$HTML2MD_BIN" ]]; then
+    echo "Run: go install github.com/suntong/html2md@latest and ensure that ~/go/bin/ is in PATH"
+    echo "    Fatal error: html2md was not installed"
+    exit 1
+  fi
 fi
 
 # sed 1: Remove "Copy heading link" text, which is inserted by Google Site

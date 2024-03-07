@@ -29,13 +29,8 @@ KubeCon Paris 2024 Press release (coming soon!)
 {{< figure src="/img/flux-cuttlefish-stickers.jpeg" alt="Custom printed stickers with cuttlefish mascot and Flux logos" >}}
 </div>
 
-# Flux Booth fun!
 
-Want a bespoke unique all-your-own cuttlefish sticker?
-
-Complete the challenge and pick up a human-intelligence or artificial-intelligence Flux sticker!
-
-Challenge = Deploy <a href="https://github.com/stefanprodan/podinfo">the podinfo sample app</a> and change the text to something like "Cuttlefish playing tennis" and then come by the Flux booth at KubeCon for your bespoke sticker! 😸👩🏻‍🎨🎨
+<div class="float-booth-fun"><h1>Flux Booth fun!</h1><p>Want a bespoke unique all-your-own cuttlefish sticker?</p><p>Complete the challenge and pick up a human-intelligence or artificial-intelligence Flux sticker!</p><p>Challenge = Deploy <a href="https://github.com/stefanprodan/podinfo">the podinfo sample app</a> and change the text to something like "Cuttlefish playing tennis" and then come by the Flux booth at KubeCon for your bespoke sticker! 😸👩🏻‍🎨🎨</p></div></div>
 
 # Flux talks @ KubeCon Paris!
 
@@ -84,3 +79,9 @@ Friday, March 22, 2024
 Flux (and Flagger) is a set of continuous and progressive delivery solutions for Kubernetes that are open and extensible. It is the GitOps engine for Microsoft's Arc Kubernetes, AWS's EKS-Anywhere, GitLab, as well as enterprise companies such as telcos, financial institutions, and more.
 
 Flux is a CNCF graduated project and is General Availability.
+
+Get started: [https://fluxcd.io](https://fluxcd.io)
+
+Get help: [https://fluxcd.io/support/](https://fluxcd.io/support/)
+
+Add yourself! [https://fluxcd.io/adopters/](https://fluxcd.io/adopters/)
