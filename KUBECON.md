@@ -19,7 +19,7 @@
 
 KubeCon Paris 2024 Press release (coming soon!)
 
-[Flux General Availability announced in December 2024!](https://fluxcd.io/blog/2023/12/flux-v2.2.0/)
+[Flux General Availability announced in December 2023!](https://fluxcd.io/blog/2023/12/flux-v2.2.0/)
 
 [Second Security audit: No CVEs!](https://fluxcd.io/blog/2023/11/flux-security-audit/)
 
