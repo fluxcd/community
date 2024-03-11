@@ -12,7 +12,6 @@ flux2:
 - hiddeco
 - makkes
 - pjbgf
-- phillebaba
 - aryan9600
 - souleb
 - stefanprodan
@@ -23,9 +22,6 @@ go-git-providers:
 - souleb
 - stefanprodan
 - yiannistri
-image-automation-controller:
-# Plus flux2 maintainers
-- pjbgf
 notification-controller:
 # Plus flux2 maintainers
 - somtochiama
