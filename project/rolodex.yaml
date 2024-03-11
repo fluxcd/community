@@ -9,6 +9,7 @@ emeriti:
 - Michael Beaumont
 - Michael Bridgen
 - Nick Cabatoff
+- Philip Laine
 - Sara El-Zayat
 - Sean Eagan
 maintainers:
@@ -29,8 +30,8 @@ maintainers:
     slack: simonh
 - hiddeco:
     name: Hidde Beydals
-    email: hidde@weave.works
-    affiliation: Weaveworks
+    email: hidde@hhh.computer
+    affiliation: Independent
     slack: hidde
 - kingdonb:
     name: Kingdon Barrett
@@ -52,11 +53,6 @@ maintainers:
     email: tamaonakahara@gmail.com
     affiliation: Independent
     slack: tamao
-- phillebaba:
-    name: Philip Laine
-    email: philip.laine@xenit.se
-    affiliation: Xenit
-    slack: phillebaba
 - pjbgf:
     name: Paulo Gomes
     email: pjbgf@linux.com
@@ -80,7 +76,7 @@ maintainers:
 - souleb:
     name: Soule BA
     email: bah.soule@gmail.com
-    affiliation: Independent
+    affiliation: ControlPlane
     slack: souleb
 - stefanprodan:
     name: Stefan Prodan
