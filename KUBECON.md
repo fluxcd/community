@@ -49,6 +49,8 @@ Wednesday, March 20, 2024
 
 - 10:30 - 20:00 CET: Visit the Flux booth (Kiosk #: PP9-A) in the Project Pavilion
 
+- 11:00 CET: " [Flux and the Wider Ecosystem Planning Birds of a Feather"](https://kccnceu2024.sched.com/event/1akzm/flux-and-the-wider-ecosystem-planning-bof?iframe=no#)
+
 - 14:30 CET: " [Tackling Configuration Management at Scale with Flux, CUE and OCI at Cisco](https://sched.co/1YeMe)" \- Alec Hothan, Cisco & Stefan Prodan
 
 - 15:25 CET: " [How We Are Moving from GitOps to Kubernetes Resource Model in 5G Core](https://sched.co/1YeN2)" \- Joel Studler & Ashan Senevirathne, Swisscom
