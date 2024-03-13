@@ -36,7 +36,7 @@ KubeCon Paris 2024 Press release (coming soon!)
 
 Tuesday, March 19, 2024
 
-- 9:00 CET: " [CNCF Projects Lightning Talks](https://sched.co/1ZOFb)"
+- 12:20 CET: " [Flux: Secure and Scalable GitOps](https://sched.co/1aQgF)" Lightning talk. Part of " [CNCF Projects Lightning Talks](https://sched.co/1ZOFb)"
 
 - 14:45 CET: " [⚡ Lightning Talk: My Database Runs on Kubernetes. What's Next? Data Platforms!](https://sched.co/1YFiG)" \- Robert Hodges, Altinity @ Data on Kubernetes Day colo event
 
