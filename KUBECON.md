@@ -19,6 +19,8 @@
 
 KubeCon Paris 2024 [Press release](https://www.cncf.io/announcements/2024/03/19/cloud-native-computing-foundations-fluxcd-project-gains-new-corporate-support/)!
 
+KubeCon Paris [blog post](https://fluxcd.io/blog/2024/03/flux-project-gains-new-corporate-support-and-ecosystem-in-2024/)!
+
 [Flux General Availability announced in December 2023!](https://fluxcd.io/blog/2023/12/flux-v2.2.0/)
 
 [Second Security audit: No CVEs!](https://fluxcd.io/blog/2023/11/flux-security-audit/)
