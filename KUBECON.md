@@ -17,7 +17,7 @@
 
 # Flux news!
 
-KubeCon Paris 2024 Press release (coming soon!)
+KubeCon Paris 2024 [Press release](https://www.cncf.io/announcements/2024/03/19/cloud-native-computing-foundations-fluxcd-project-gains-new-corporate-support/)!
 
 [Flux General Availability announced in December 2023!](https://fluxcd.io/blog/2023/12/flux-v2.2.0/)
 
