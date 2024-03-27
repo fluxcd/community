@@ -104,7 +104,7 @@ Once the above process has taken its course, make sure you
 
 - Code changes should go through the pull request process, where the idea and implementation details can be publicly discussed with [Maintainers][Maintainer], other contributors, and end users.
   Pull requests should only be merged after receiving GitHub approval from at least one Maintainer who is not the pull request author.
-- For architectural changes to Flux, please use the [RFC process](https://github.com/fluxcd/flux2/tree/main/rfcs).  
+- For architectural changes to Flux, please use the [RFC process](https://github.com/fluxcd/flux2/tree/main/rfcs).
   Note that Flux v2 uses GitHub discussions for (non-architectural) proposals in the `fluxcd/flux2` Git repository <https://github.com/fluxcd/flux2/discussions?discussions_q=category%3AProposals>.
 - Non-code changes should be proposed as GitHub issues.
   If unclear which Git repository to create the issue in, default to the community repository <https://github.com/fluxcd/community>.

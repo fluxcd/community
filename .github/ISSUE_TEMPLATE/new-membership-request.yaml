@@ -1,0 +1,57 @@
+---
+name: New membership request
+description: Create a membership request to join the FluxCD organization
+title: 'REQUEST: New membership for @'
+body:
+  - type: input
+    validations:
+      required: true
+    attributes:
+      label: GitHub username
+      description: Your GitHub username
+  - type: checkboxes
+    id: membership
+    attributes:
+      label: Requirements
+      description: |
+        Please confirm that you meet the following requirements:
+      options:
+        - label: I have reviewed the community membership guidelines in https://github.com/fluxcd/community/issues/community-roles.md
+          required: true
+        - label: I have subscribed to the cncf-flux-dev e-mail list https://lists.cncf.io/g/cncf-flux-dev/join
+          required: true
+        - label:  I am actively contributing to 1 or more fluxcd GitHub org repos (e.g. Flux, Flagger)
+          required: true
+        - label: I have enabled 2FA in GitHub
+          required: true
+        - label: I have two sponsors who meet the sponsor requirements listed in the community membership guidelines
+          required: true
+        - label: I have spoken to my sponsors ahead of this application, and they have agreed to sponsor my application
+          required: true
+  - type: textarea
+    validations:
+      required: true
+    attributes:
+      label: Sponsors
+      description: |
+        List the GitHub usernames of the two sponsors who are supporting your membership request.
+        Sponsors must be existing members of the FluxCD organization.
+      placeholder: |
+        @sponsor1
+        @sponsor2
+  - type: textarea
+    validations:
+      required: true
+    attributes:
+      label: List of contributions to the Flux project
+      description: |
+        Provide a list of contributions you have made to the Flux project.
+        Contributions can be code, documentation, community support, etc.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/fluxcd/terraform-provider-flux/blob/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
