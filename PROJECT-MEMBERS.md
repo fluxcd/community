@@ -4,7 +4,7 @@ Here is a list of our [Flux Project Members](community-roles.md#project-member)
 who are not maintainers (yet).
 
 | Name            | GitHub Handle  | Slack Handle    | Affiliation  | Application |
-| --------------- | -------------- | --------------- | ------------ | ----------- |
+|-----------------|----------------|-----------------| ------------ |-------------|
 | Stacey Potter   | @staceypotter  | Stacey Potter   | Independent  | Issue #210  |
 | Ihor Sychevskyi | @arhell        | Arhell          | SmartCats    | Issue #202  |
 | Leigh Capili    | @stealthybox   | stealthybox     | VMware       | Issue #234  |
@@ -15,3 +15,4 @@ who are not maintainers (yet).
 | Matheus Pimenta | @matheuscscp   | Matheus Pimenta | Luma Health  | Issue #300  |
 | Daniel Holbach  | @dholbach      | Daniel Holbach  | Independent  | PR #302     |
 | Luke Mallon     | @nalum         | nalum           | Independent  | Issue #339  |
+| Steve Wade      | @swade1987     | Steve Wade      | Independent  | Issue #390  |
