@@ -15,3 +15,4 @@ who are not maintainers (yet).
 | Matheus Pimenta | @matheuscscp   | Matheus Pimenta | Luma Health  | Issue #300  |
 | Daniel Holbach  | @dholbach      | Daniel Holbach  | Independent  | PR #302     |
 | Luke Mallon     | @nalum         | nalum           | Independent  | Issue #339  |
+| Steve Wade      | @swade1987     | Steve Wade      | Independent  | Issue #390  |
