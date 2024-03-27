@@ -14,7 +14,7 @@ name: Push to Website
   # repo, then upon detecting changes fires the "Netlify" workflow in website
   # to trigger rebuild of https://fluxcd.io (and redeploy of the said content)
 on:
-  # 
+  #
   # workflow-dispatch:  # NB: this is disabled on-purpose. The push filter conflicts with workflow-dispatch
   #                     # because there is no push event to filter changes based upon. If you want to trigger
   #                     # the netlify job in fluxcd/website, go trigger it directly. (You may need access!)
@@ -23,7 +23,7 @@ on:
   #
   push:
     branches:
-    - main 
+    - main
 
 jobs:
   changes:
