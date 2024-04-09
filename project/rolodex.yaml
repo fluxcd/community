@@ -30,7 +30,12 @@ maintainers:
     slack: simonh
 - hiddeco:
     name: Hidde Beydals
-    email: hidde@hhh.computer
+    email: hidde@weave.works
+    affiliation: Weaveworks
+    slack: hidde
+- hiddeco:
+    name: Hidde Beydals
+    email: hidde@hhh.computers
     affiliation: Independent
     slack: hidde
 - kingdonb:
@@ -53,6 +58,11 @@ maintainers:
     email: tamaonakahara@gmail.com
     affiliation: Independent
     slack: tamao
+- phillebaba:
+    name: Philip Laine
+    email: philip.laine@xenit.se
+    affiliation: Xenit
+    slack: phillebaba
 - pjbgf:
     name: Paulo Gomes
     email: pjbgf@linux.com

@@ -22,6 +22,9 @@ go-git-providers:
 - souleb
 - stefanprodan
 - yiannistri
+image-automation-controller:
+# Plus flux2 maintainers
+- pjbgf
 notification-controller:
 # Plus flux2 maintainers
 - somtochiama
