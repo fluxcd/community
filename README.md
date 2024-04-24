@@ -3,7 +3,7 @@
 We want the [Flux project](https://github.com/fluxcd) to be the vendor-neutral home for GitOps in a Cloud Native world.
 
 Started in 2016 to automate deployments at Weaveworks, the project has taken on a new life since then.
-The Flux community has become the home for a family of projects, all solving specific GitOps needs.
+The Flux community has become the home for a family of projects, all solving a variety of specific GitOps needs.
 
 We also want our community to be diverse, helpful, collaborative and a fun place to be, so we would love to have you join us!
 
@@ -13,7 +13,7 @@ We also want our community to be diverse, helpful, collaborative and a fun place
 
 We run regular meetings and discuss things there.
 
-The upcoming meetings, talks and community events in the next month are maintained here:
+The upcoming meetings, talks, and community events for the next month are here:
 
 {{< home/calendar >}}
 
@@ -37,7 +37,7 @@ Some regularly scheduled meetings are scheduled in their hosts' local time zones
 
 | Which | Times | Agenda & Minutes | Recordings |
 | ----- | ----- | ---------------- | ---------- |
-| Flux Dev Meetings | "early" meeting: Uneven weeks: Wed, 12:00 UTC <br/>"late" meeting: Even weeks: Thu, 15:00 UTC | [Document](https://docs.google.com/document/d/167SKpaDUrpiBqNR2lXnQjXyb5Gxq6uB-Fujz7eBQxyw/edit) | [YouTube](https://www.youtube.com/playlist?list=PLwjBY07V76p5mWNgdINjIiuUiItIeLhIN) |
+| Flux Dev Meetings | "early" meeting: Odd weeks: Wed, 12:00 UTC <br/>"late" meeting: Even weeks: Thu, 15:00 UTC | [Document](https://docs.google.com/document/d/167SKpaDUrpiBqNR2lXnQjXyb5Gxq6uB-Fujz7eBQxyw/edit) | [YouTube](https://www.youtube.com/playlist?list=PLwjBY07V76p5mWNgdINjIiuUiItIeLhIN) |
 | Flux Bug Scrub | "early" meeting: Even weeks: Wed, 8:00 Eastern US time <br/>"late" meeting: Odd weeks: Thu, 13:00 Eastern US time <br/>"AEST Edition" Even weeks: Wed, 8:00 Brisbane time | [Bug Scrub Template (#0090)](https://docs.google.com/spreadsheets/d/1Hv9BIr0vFAOHscqYzmlKKG1Il18Nw8X_iiDyi0HRgCs/edit#gid=2133538565) | [YouTube](https://www.youtube.com/watch?v=c4unRRJp-o0&list=PLwjBY07V76p6J6z30cBRqS_N0Ka6NhEsY) |
 
 Do note that Daylight Savings Time changes can vary across regions, which can cause some confusion.
