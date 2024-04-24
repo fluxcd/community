@@ -11,6 +11,23 @@ We also want our community to be diverse, helpful, collaborative and a fun place
 
 ## Getting involved
 
+### Meetings
+
+We run regular meetings and discuss things there.
+We are very happy if new users, contributors and developers join and we can put names to faces.
+
+Test import calendar table:
+
+{{< home/calendar >}}
+
+All meetings can be found on our calendar: <https://lists.cncf.io/g/cncf-flux-dev/calendar>
+
+| Which | Times | Agenda & Minutes | Recordings |
+| ----- | ----- | ---------------- | ---------- |
+| Flux Dev Meetings | "early" meeting: Uneven weeks: Wed, 12:00 UTC, "late" meeting: Even weeks: Thu, 15:00 UTC | [Document](https://docs.google.com/document/d/167SKpaDUrpiBqNR2lXnQjXyb5Gxq6uB-Fujz7eBQxyw/edit) | [YouTube](https://www.youtube.com/playlist?list=PLwjBY07V76p5mWNgdINjIiuUiItIeLhIN) |
+
+We are looking forward to seeing you there.
+
 ### Finding your interest
 
 To get started, it's important you find out which parts of Flux you are interested in first.
@@ -46,19 +63,6 @@ There currently are:
 
 All projects and teams are open to contributors and every part of the Flux project appreciates your help and consideration.
 Check out the links above to learn more about the team in question.
-
-### Meetings
-
-We run regular meetings and discuss things there.
-We are very happy if new users, contributors and developers join and we can put names to faces.
-
-All meetings can be found on our calendar: <https://lists.cncf.io/g/cncf-flux-dev/calendar>
-
-| Which | Times | Agenda & Minutes | Recordings |
-| ----- | ----- | ---------------- | ---------- |
-| Flux Dev Meetings | "early" meeting: Uneven weeks: Wed, 12:00 UTC, "late" meeting: Even weeks: Thu, 15:00 UTC | [Document](https://docs.google.com/document/d/167SKpaDUrpiBqNR2lXnQjXyb5Gxq6uB-Fujz7eBQxyw/edit) | [YouTube](https://www.youtube.com/playlist?list=PLwjBY07V76p5mWNgdINjIiuUiItIeLhIN) |
-
-We are looking forward to seeing you there.
 
 #### Subscribing to the Flux calendar
 
