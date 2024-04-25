@@ -44,6 +44,20 @@ Do note that Daylight Savings Time changes can vary across regions, which can ca
 
 The calendar at <https://fluxcd.io/community#meetings> has been localized to show the events in your local time zone.
 
+#### Subscribing to the Flux calendar
+
+To add the meetings to your e.g. Google calendar
+
+1. visit the [Flux calendar](https://lists.cncf.io/g/cncf-flux-dev/calendar)
+   > For this you might need to create an account for `lists.cncf.io`
+1. click on "Subscribe to Calendar" at the very bottom of the page
+1. copy the iCalendar URL
+1. open e.g. your Google calendar
+1. find the "add calendar" option
+1. choose "add by URL"
+1. paste iCalendar URL (ends with `.ics`)
+1. done
+
 ### Finding your interest
 
 To get started, it's important you find out which parts of Flux you are interested in first.
@@ -79,20 +93,6 @@ There currently are:
 
 All projects and teams are open to contributors and every part of the Flux project appreciates your help and consideration.
 Check out the links above to learn more about the team in question.
-
-#### Subscribing to the Flux calendar
-
-To add the meetings to your e.g. Google calendar
-
-1. visit the [Flux calendar](https://lists.cncf.io/g/cncf-flux-dev/calendar)
-   > For this you might need to create an account for `lists.cncf.io`
-1. click on "Subscribe to Calendar" at the very bottom of the page
-1. copy the iCalendar URL
-1. open e.g. your Google calendar
-1. find the "add calendar" option
-1. choose "add by URL"
-1. paste iCalendar URL (ends with `.ics`)
-1. done
 
 ## Communication
 
