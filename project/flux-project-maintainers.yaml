@@ -18,10 +18,8 @@ flux2:
 - darkowlzz
 go-git-providers:
 - makkes
-- foot
 - souleb
 - stefanprodan
-- yiannistri
 image-automation-controller:
 # Plus flux2 maintainers
 - pjbgf
@@ -29,7 +27,6 @@ notification-controller:
 # Plus flux2 maintainers
 - somtochiama
 terraform-provider-flux:
-- phillebaba
 - stefanprodan
 website:
 - hiddeco

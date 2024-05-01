@@ -12,6 +12,8 @@ emeriti:
 - Philip Laine
 - Sara El-Zayat
 - Sean Eagan
+- Simon Howe
+- Yiannis Triantafyllopoulos
 maintainers:
 - aryan9600:
     name: Sanskar Jaiswal
@@ -23,11 +25,6 @@ maintainers:
     email: sunny@darkowlzz.space
     affiliation: Independent
     slack: darkowlzz
-- foot:
-    name: Simon Howe
-    email: simon@weave.works
-    affiliation: Weaveworks
-    slack: simonh
 - hiddeco:
     name: Hidde Beydals
     email: hidde@weave.works
@@ -58,11 +55,6 @@ maintainers:
     email: tamaonakahara@gmail.com
     affiliation: Independent
     slack: tamao
-- phillebaba:
-    name: Philip Laine
-    email: philip.laine@xenit.se
-    affiliation: Xenit
-    slack: phillebaba
 - pjbgf:
     name: Paulo Gomes
     email: pjbgf@linux.com
@@ -93,8 +85,3 @@ maintainers:
     email: stefan.prodan@gmail.com
     affiliation: ControlPlane
     slack: stefanprodan
-- yiannistri:
-    name: Yiannis Triantafyllopoulos
-    email: yiannis@weave.works
-    affiliation: Weaveworks
-    slack: yiannis

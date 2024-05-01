@@ -12,11 +12,15 @@ go-git-providers:
 - Dinos Kousidis
 - Michael Beaumont
 - Sara El-Zayat
+- Simon Howe
+- Yiannis Triantafyllopoulos
 helm-controller:
 - Sean Eagan
 helm-operator:
 - Alfonso Acosta
 - Michael Bridgen
+terraform-provider-flux:
+- Philip Laine
 website:
 - Alison Dowdney
 - Daniel Holbach
