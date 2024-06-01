@@ -27,13 +27,13 @@ maintainers:
     slack: darkowlzz
 - hiddeco:
     name: Hidde Beydals
-    email: hidde@weave.works
-    affiliation: Weaveworks
+    email: hidde@hhh.computers
+    affiliation: Independent
     slack: hidde
 - hiddeco:
     name: Hidde Beydals
-    email: hidde@hhh.computers
-    affiliation: Independent
+    email: hidde@weave.works
+    affiliation: Weaveworks
     slack: hidde
 - kingdonb:
     name: Kingdon Barrett
@@ -85,3 +85,8 @@ maintainers:
     email: stefan.prodan@gmail.com
     affiliation: ControlPlane
     slack: stefanprodan
+- swade1987:
+    name: Steven Wade
+    email: steven@stevenwade.co.uk
+    affiliation: Independent
+    slack: Steve Wade

@@ -28,6 +28,7 @@ notification-controller:
 - somtochiama
 terraform-provider-flux:
 - stefanprodan
+- swade1987
 website:
 - hiddeco
 - kingdonb
