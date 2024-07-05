@@ -12,7 +12,6 @@ who are not maintainers (yet).
 | Batuhan Apaydın | @developer-guy | developer-guy   | Trendyol     | Issue #242  |
 | Michael Fornaro | @xunholy       | Michael Fornaro | Raspbernetes | Issue #289  |
 | Priyanka Ravi   | @priyanka-ravi | Priyanka Ravi   | Weaveworks   | Issue #293  |
-| Matheus Pimenta | @matheuscscp   | Matheus Pimenta | Luma Health  | Issue #300  |
 | Daniel Holbach  | @dholbach      | Daniel Holbach  | Independent  | PR #302     |
 | Luke Mallon     | @nalum         | nalum           | Independent  | Issue #339  |
 | Steve Wade      | @swade1987     | Steve Wade      | Independent  | Issue #390  |
