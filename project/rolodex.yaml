@@ -27,13 +27,13 @@ maintainers:
     slack: darkowlzz
 - hiddeco:
     name: Hidde Beydals
-    email: hidde@hhh.computers
-    affiliation: Independent
+    email: hidde@weave.works
+    affiliation: Weaveworks
     slack: hidde
 - hiddeco:
     name: Hidde Beydals
-    email: hidde@weave.works
-    affiliation: Weaveworks
+    email: hidde@hhh.computers
+    affiliation: Independent
     slack: hidde
 - kingdonb:
     name: Kingdon Barrett
@@ -50,6 +50,11 @@ maintainers:
     email: takeshi@tetrate.io
     affiliation: Tetrate
     slack: mathetake
+- matheuscscp:
+    name: Matheus Pimenta
+    email: matheuscscp@gmail.com
+    affiliation: Luma Health
+    slack: matheuscscp
 - mewzherder:
     name: Tamao Nakahara
     email: tamaonakahara@gmail.com
