@@ -27,13 +27,13 @@ maintainers:
     slack: darkowlzz
 - hiddeco:
     name: Hidde Beydals
-    email: hidde@weave.works
-    affiliation: Weaveworks
+    email: hidde@hhh.computers
+    affiliation: Independent
     slack: hidde
 - hiddeco:
     name: Hidde Beydals
-    email: hidde@hhh.computers
-    affiliation: Independent
+    email: hidde@weave.works
+    affiliation: Weaveworks
     slack: hidde
 - kingdonb:
     name: Kingdon Barrett
