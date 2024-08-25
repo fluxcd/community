@@ -27,11 +27,6 @@ maintainers:
     slack: darkowlzz
 - hiddeco:
     name: Hidde Beydals
-    email: hidde@weave.works
-    affiliation: Weaveworks
-    slack: hidde
-- hiddeco:
-    name: Hidde Beydals
     email: hidde@hhh.computers
     affiliation: Independent
     slack: hidde
