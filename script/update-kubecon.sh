@@ -5,7 +5,7 @@ HTML2MD_VER=1.5.0
 HTML2MD=html2md_${HTML2MD_VER}_linux_amd64
 HTML2MD_VER_SLUG=v${HTML2MD_VER}
 HTML2MD_BIN="./${HTML2MD}/html2md"
-SOURCE_SITE="https://sites.google.com/view/flux-kubecon-paris-2024/home"
+SOURCE_SITE="https://sites.google.com/view/flux-kubecon-salt-lake-city-2024/home"
 # export SOURCE_SITE HTML2MD_BIN HTML2MD_VER HTML2MD
 
 TEMP_FILE=kubecon.html
@@ -42,7 +42,7 @@ fi
 wget ${SOURCE_SITE} -O ${TEMP_FILE} \
   && ${HTML2MD_BIN} -i ${TEMP_FILE} |$sed '1,6d'|$head -n -13 \
   | $sed 's_# \[Copy heading link\](\\#h\.[a-z0-9]*)[[:space:]]*_# _' \
-  | $sed 's_/view/flux-kubecon-paris-2024/home_/kubecon_' \
+  | $sed 's_/view/flux-kubecon-salt-lake-city-2024/home_/kubecon_' \
   | $sed -E 's_\[!\[\]\([^)]+\)_[_g' \
   | $sed -E 's_!\[flux-logo-inner-header-left[^)]+\)_\
 <div class="clearfix">\
