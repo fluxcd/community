@@ -5,7 +5,7 @@ HTML2MD_VER=1.5.0
 HTML2MD=html2md_${HTML2MD_VER}_linux_amd64
 HTML2MD_VER_SLUG=v${HTML2MD_VER}
 HTML2MD_BIN="./${HTML2MD}/html2md"
-SOURCE_SITE="https://sites.google.com/view/flux-kubecon-paris-2024/home"
+SOURCE_SITE="https://sites.google.com/view/flux-kubecon-salt-lake-city-2024/home"
 # export SOURCE_SITE HTML2MD_BIN HTML2MD_VER HTML2MD
 
 TEMP_FILE=kubecon.html
