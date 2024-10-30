@@ -44,6 +44,7 @@ fi
 # set 9: the "share this site" and link text under the QR code must also float right
 # sed 10: flux booth fun (a caption with a heading h1 followed by three paragraphs!)
 # sed 11: the podinfo sample app link is in an HTML block so :( turn it manually into a link
+# sed 12: the "Flux News" header is also converted into a float div
 #
 # Note: some of these intentionally generate mismatched div tags, this is done so that one line
 # can capture an element which opens a div, and another line can capture a later element which
@@ -51,10 +52,9 @@ fi
 #
 # Comments cannot be inline below, so they are up here, (please do keep them updated if you edit any of this!)
 #
-# wget ${SOURCE_SITE} -O ${TEMP_FILE} \
-${HTML2MD_BIN} -i flux_flagger.html > ${TEMP_FILE}
-#   && ${HTML2MD_BIN} -i ${TEMP_FILE}
-cat ${TEMP_FILE} |$sed '1,6d'|$head -n -15 \
+wget ${SOURCE_SITE} -O ${TEMP_FILE} \
+  && ${HTML2MD_BIN} -i ${TEMP_FILE} \
+  |$sed '1,6d'|$head -n -13 \
   | $sed 's_# \[Copy heading link\](\\#h\.[a-z0-9]*)[[:space:]]*_# _' \
   | $sed 's_/view/fluxandflaggerkubeconslc2024/home_/kubecon_' \
   | $sed -E 's_\[!\[\]\([^)]+\)_[_g' \
@@ -68,7 +68,6 @@ cat ${TEMP_FILE} |$sed '1,6d'|$head -n -15 \
 {{< figure src="/img/blob-waving.gif" alt="Blob Waving" >}}\
 </div></div>_g' \
   | $sed -E 's_!\[qr-code-right-align[^)]+\)_\
-<div class="clearfix">\
   <div class="qr-code-right-align">\
 {{< figure src="/img/flux-kubecon-qr-code.png" alt="QR Code" >}}\
   </div>_g' \
@@ -83,6 +82,9 @@ cat ${TEMP_FILE} |$sed '1,6d'|$head -n -15 \
   | $sed -Ez 's_# Flux Booth fun!\n\n([^\n]+)\n\n([^\n]+)\n\n([^\n]+)\n\n#_\
 <div class="float-booth-fun"><h1>Flux Booth fun!</h1><p>\1</p><p>\2</p><p>\3</p></div></div>\n\n#_' \
   | $sed -E 's_\[the podinfo sample app\]\(https://github.com/stefanprodan/podinfo\)_<a href="https://github.com/stefanprodan/podinfo">the podinfo sample app</a>_' \
+  | $sed -Ez 's_# Flux news!\n\n([^\n]+)\n\n_\
+<div class="clearfix">\
+  <div class="float-header-kubecon"><h1 id="flux-news">Flux news!</h1><p>\1</p></div>_' \
     > ${OUT_FILE}
 
 if [[ -z "$DEBUG" ]]; then

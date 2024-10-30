@@ -1,4 +1,4 @@
-[Flux and Flagger @ KubeCon SLC 2024](/kubecon?authuser=2)
+[Flux and Flagger @ KubeCon SLC 2024](/kubecon)
 
 # KubeCon activities!
 
@@ -15,12 +15,9 @@
 {{< figure src="/img/blob-waving.gif" alt="Blob Waving" >}}
 </div></div>
 
-# Flux news!
-
-KubeCon Salt Lake City (coming soon)!
-
 
 <div class="clearfix">
+  <div class="float-header-kubecon"><h1 id="flux-news">Flux news!</h1><p>KubeCon Salt Lake City (coming soon)!</p></div>
   <div class="qr-code-right-align">
 {{< figure src="/img/flux-kubecon-qr-code.png" alt="QR Code" >}}
   </div>
@@ -41,7 +38,7 @@ KubeCon Salt Lake City (coming soon)!
 
 Tuesday, November 12, 2024
 
-- 1:35 - 2:00 PM: (Salt Palace \| Level 2 \| 250 D) [Accelerating Application Delivery with OpenTofu Controller and GitOps \- Lucas Duarte & Tiago Reichert (AWS](https://sched.co/1jCbL))at OpenTofu Day, Community Insights colo event
+- 1:35 - 2:00 PM: (Salt Palace \| Level 2 \| 250 D) [Accelerating Application Delivery with OpenTofu Controller and GitOps \- Lucas Duarte & Tiago Reichert (AWS](https://sched.co/1jCbL)) at OpenTofu Day, Community Insights colo event
 
 - 3:18 PM: Flux lightning talk: [What's Flux and What's New?](https://sched.co/1iW8J) \| Project Lightning Talk with Leigh Capili (Flox) & Tamao Nakahara (helix.ml)
 
