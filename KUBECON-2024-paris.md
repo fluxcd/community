@@ -1,4 +1,4 @@
-[Flux and Flagger @ KubeCon SLC 2024](/kubecon)
+[Flux and Flagger @ KubeCon Paris 2024](/kubecon)
 
 # KubeCon activities!
 
@@ -8,22 +8,22 @@
 {{< figure src="/img/flux-horizontal-color.png" alt="Flux Logo" >}}
 </div>
 
-<div class="float-header-kubecon"><h1>KubeCon Salt Lake City 2024</h1><p>November 12-15, 2024</p></div>
+<div class="float-header-kubecon"><h1>KubeCon Paris 2024</h1><p>March 19-22, 2024</p></div>
 
 
 <div class="inner-header-right-align">
 {{< figure src="/img/blob-waving.gif" alt="Blob Waving" >}}
 </div></div>
 
+# Flux news!
 
-<div class="clearfix">
-  <div class="float-header-kubecon"><h1 id="flux-news">Flux news!</h1><p>KubeCon Salt Lake City (coming soon)!</p></div>
-  <div class="qr-code-right-align">
-{{< figure src="/img/flux-kubecon-qr-code.png" alt="QR Code" >}}
-  </div>
+KubeCon Paris 2024 [Press release](https://www.cncf.io/announcements/2024/03/19/cloud-native-computing-foundations-fluxcd-project-gains-new-corporate-support/)!
 
+KubeCon Paris [blog post](https://fluxcd.io/blog/2024/03/flux-project-gains-new-corporate-support-and-ecosystem-in-2024/)!
 
-<div class="float-share-this-site"><h2>fluxcd.io/kubecon</h2><p>share this site!</p></div></div>
+[Flux General Availability announced in December 2023!](https://fluxcd.io/blog/2023/12/flux-v2.2.0/)
+
+[Second Security audit: No CVEs!](https://fluxcd.io/blog/2023/11/flux-security-audit/)
 
 
 <div class="clearfix">
@@ -32,34 +32,50 @@
 </div>
 
 
-<div class="float-booth-fun"><h1>Flux Booth fun!</h1><p>Want a bespoke unique all-your-own cuttlefish sticker?</p><p>Complete the challenge and pick up a Flux sticker made by human-intelligence or artificial-intelligence!</p><p>Challenge = Bootstrap Flux, then deploy <a href="https://github.com/stefanprodan/podinfo">the podinfo sample app</a> and change the text to something like "Cuttlefish playing tennis" and then come by the Flux booth at KubeCon for your bespoke sticker! 😸👩🏻‍🎨🎨 we can print custom stickers!</p></div></div>
+<div class="float-booth-fun"><h1>Flux Booth fun!</h1><p>Want a bespoke unique all-your-own cuttlefish sticker?</p><p>Complete the challenge and pick up a human-intelligence or artificial-intelligence Flux sticker!</p><p>Challenge = Bootstrap Flux, then deploy <a href="https://github.com/stefanprodan/podinfo">the podinfo sample app</a> and change the text to something like "Cuttlefish playing tennis" and then come by the Flux booth at KubeCon for your bespoke sticker! 😸👩🏻‍🎨🎨 we can print custom stickers!</p></div></div>
 
-# Flux talks and booth hours @ KubeCon Salt Lake City!
+# Flux talks @ KubeCon Paris!
 
-Tuesday, November 12, 2024
+Tuesday, March 19, 2024
 
-- 1:35 - 2:00 PM: (Salt Palace \| Level 2 \| 250 D) [Accelerating Application Delivery with OpenTofu Controller and GitOps \- Lucas Duarte & Tiago Reichert (AWS](https://sched.co/1jCbL)) at OpenTofu Day, Community Insights colo event
+- 12:20 CET: " [Flux: Secure and Scalable GitOps](https://sched.co/1aQgF)" Lightning talk. Part of " [CNCF Projects Lightning Talks](https://sched.co/1ZOFb)"
 
-- 3:18 PM: Flux lightning talk: [What's Flux and What's New?](https://sched.co/1iW8J) \| Project Lightning Talk with Leigh Capili (Flox) & Tamao Nakahara (helix.ml)
+- 14:45 CET: " [⚡ Lightning Talk: My Database Runs on Kubernetes. What's Next? Data Platforms!](https://sched.co/1YFiG)" \- Robert Hodges, Altinity @ Data on Kubernetes Day colo event
 
+- 15:15 CET: " [Unlocking Innovation: How NatWest Bank Uses Cloud Native Tools to Deliver Platform as a Product](https://sched.co/1YFif)" \- Chris Plank, Natwest Group & Derik Evangelista, Syntasso @ Platform Engineering Day colo event
 
-Wednesday, November 13, 2024
-
-- 10:45 AM – 8:00 PM: Visit the Flux booth (Kiosk #: 6A) in the Project Pavilion - Salt Palace \| Level 1 \| Halls A-C + 1-5 \| Project Pavilion (Hall 1)(includes KubeCrawl + CloudNativeFest from 6:00 PM – 8:00 PM)
-
-
-Thursday, November 14, 2024
-
-- 10:30 AM – 5:00 PM: Visit the Flux booth (Kiosk #: 6A) in the Project Pavilion - Salt Palace \| Level 1 \| Halls A-C + 1-5 \| Project Pavilion (Hall 1)
-
-- 11:00 - 11:35 AM: [GitOps at Production Scale with Flux \- Leigh Capili (Flox) & Priyanka Ravi (G-Research)](https://sched.co/1howJ)(Project maintainer talk)
+- 17:00 CET: " [Panel: Argo Vs Flagger: Progressive Delivery with Linkerd](https://sched.co/1YFjm)" \- Scott Rigby; Jason Morgan, Buoyant; Ishita Sequeira, Red Hat @ ArgoCon colo event
 
 
-Friday, November 15, 2024
+Wednesday, March 20, 2024
 
-- 9:50am - 10:05am [Keynote: Graduated Project Updates](https://kccncna2024.sched.com/event/1iCSo/keynote-graduated-project-updates#)
+- 10:30 - 20:00 CET: Visit the Flux booth (Kiosk #: PP9-A) in the Project Pavilion
 
-- 10:30 AM – 2:30 PM: Visit the Flux booth (Kiosk #: 6A) in the Project Pavilion - Salt Palace \| Level 1 \| Halls A-C + 1-5 \| Project Pavilion (Hall 1)
+- 11:00 CET: " [Flux and the Wider Ecosystem Planning Birds of a Feather"](https://kccnceu2024.sched.com/event/1akzm/flux-and-the-wider-ecosystem-planning-bof?iframe=no#)
+
+- 14:30 CET: " [Tackling Configuration Management at Scale with Flux, CUE and OCI at Cisco](https://sched.co/1YeMe)" \- Alec Hothan, Cisco & Stefan Prodan
+
+- 15:25 CET: " [How We Are Moving from GitOps to Kubernetes Resource Model in 5G Core](https://sched.co/1YeN2)" \- Joel Studler & Ashan Senevirathne, Swisscom
+
+- 16:30 CET: " [The Art of Kubernetes Add-on Validation: Secure Strategies for the Modern Developer Platform](https://sched.co/1YeN8)" \- Joaquin Rodriguez, Microsoft & Thiebaud Ernstberger, Independent
+
+
+Thursday, March 21, 2024
+
+- 10:30 - 17:00 CET: Visit the Flux booth (Kiosk #: PP9-A) in the Project Pavilion
+
+- 14:30 CET: " [GitOps Continuous Delivery at Scale with Flux](https://sched.co/1YhhG)" (Project maintainer talk) - Stefan Prodan
+
+- 15:25 CET: " [Lessons Learned from Let's Profile](https://sched.co/1YePX)" \- Frederic Branczyk, Polar Signals
+
+- 17:25 CET: " [Make Your Cluster Fly: Embed a Multi-Node Kubernetes Cluster Inside an Aircraft Using Puppet & Flux](https://sched.co/1YeQA)" \- Alexis Bonnin & Guillaume Maquinay, Thales Aerospace
+
+
+Friday, March 22, 2024
+
+- 10:30 - 14:30 CET: Visit the Flux booth (Kiosk #: PP9-A) in the Project Pavilion
+
+- 14:00 CET: " [KubeDDR! a Dance of Predictive Scoring with MLOps, Step by Step](https://sched.co/1YeRR)" \- Leigh Capili, Broadcom & Annie Talvasto, VSHN
 
 
 # Flux Resources
