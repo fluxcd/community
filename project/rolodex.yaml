@@ -80,6 +80,11 @@ maintainers:
     email: bah.soule@gmail.com
     affiliation: ControlPlane
     slack: souleb
+- stealthybox:
+    name: Leigh Capili
+    email: capileigh@gmail.com
+    affiliation: Flox
+    slack: Leigh Capili
 - stefanprodan:
     name: Stefan Prodan
     email: stefan.prodan@gmail.com
