@@ -1,7 +1,6 @@
 community:
 - kingdonb
 - stealthybox
-- matheuscscp
 - scottrigby
 - stefanprodan
 - mewzherder
@@ -12,6 +11,7 @@ flagger:
 flux2:
 - relu
 - hiddeco
+- matheuscscp
 - makkes
 - pjbgf
 - aryan9600
@@ -27,14 +27,9 @@ image-automation-controller:
 - pjbgf
 notification-controller:
 # Plus flux2 maintainers
-- matheuscscp
 - somtochiama
-source-controller:
-# Plus flux2 maintainers
-- matheuscscp
 terraform-provider-flux:
 - stefanprodan
-- swade1987
 website:
 - hiddeco
 - kingdonb

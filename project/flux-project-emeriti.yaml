@@ -21,6 +21,7 @@ helm-operator:
 - Michael Bridgen
 terraform-provider-flux:
 - Philip Laine
+- Steven Wade
 website:
 - Alison Dowdney
 - Daniel Holbach

@@ -13,6 +13,7 @@ emeriti:
 - Sara El-Zayat
 - Sean Eagan
 - Simon Howe
+- Steven Wade
 - Yiannis Triantafyllopoulos
 maintainers:
 - aryan9600:
@@ -90,8 +91,3 @@ maintainers:
     email: stefan.prodan@gmail.com
     affiliation: ControlPlane
     slack: stefanprodan
-- swade1987:
-    name: Steven Wade
-    email: steven@stevenwade.co.uk
-    affiliation: Independent
-    slack: Steve Wade
