@@ -18,12 +18,8 @@ jobs:
         with:
           python-version: '3.13'
           cache: 'pip' # caching pip dependencies
+      - run: python -m pip install -r ./project/requirements.txt
       - run: |
-          python -m venv ./virtualenv
-          source ./virtualenv/bin/activate
-          python -m pip install -r ./project/requirements.txt
-      - run: |
-          source ./virtualenv/bin/activate
           ./project/bin/get_maintainer_data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
