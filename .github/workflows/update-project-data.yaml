@@ -10,16 +10,20 @@ jobs:
   updateProjectData:
     permissions:
       pull-requests: write
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.13'
           cache: 'pip' # caching pip dependencies
-      - run: python3.11 -m pip install -r ./project/requirements.txt
       - run: |
+          python -m venv ./virtualenv
+          source ./virtualenv/bin/activate
+          python -m pip install -r ./project/requirements.txt
+      - run: |
+          source ./virtualenv/bin/activate
           ./project/bin/get_maintainer_data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
