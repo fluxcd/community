@@ -16,7 +16,7 @@ jobs:
         with:
           python-version: '3.10'
           cache: 'pip' # caching pip dependencies
-      - run: pip install -r ./project/requirements.txt
+      - run: pip3.10 install -r ./project/requirements.txt
       - run: |
           ./project/bin/get_maintainer_data
         env:
