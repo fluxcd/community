@@ -94,9 +94,3 @@ Friday, April 4
 Flux (and Flagger) is a set of continuous and progressive delivery solutions for Kubernetes that are open and extensible. It is the GitOps engine for Microsoft's Arc Kubernetes, AWS's EKS-Anywhere, GitLab, as well as enterprise companies such as telcos, financial institutions, and more.
 
 Flux is a CNCF graduated project and is General Availability.
-
-Get started: [https://fluxcd.io](https://fluxcd.io)
-
-Get help: [https://fluxcd.io/support/](https://fluxcd.io/support/)
-
-Add yourself! [https://fluxcd.io/adopters/](https://fluxcd.io/adopters/)
