@@ -5,7 +5,7 @@ HTML2MD_VER=1.5.0
 HTML2MD=html2md_${HTML2MD_VER}_linux_amd64
 HTML2MD_VER_SLUG=v${HTML2MD_VER}
 HTML2MD_BIN="./${HTML2MD}/html2md"
-SOURCE_SITE="https://sites.google.com/view/fluxandflaggerkubeconslc2024/home"
+SOURCE_SITE="https://sites.google.com/helix.ml/flux-kubecon-london-2025/home"
 # export SOURCE_SITE HTML2MD_BIN HTML2MD_VER HTML2MD
 
 TEMP_FILE=kubecon.html
@@ -56,7 +56,7 @@ wget ${SOURCE_SITE} -O ${TEMP_FILE} \
   && ${HTML2MD_BIN} -i ${TEMP_FILE} \
   |$sed '1,6d'|$head -n -13 \
   | $sed 's_# \[Copy heading link\](\\#h\.[a-z0-9]*)[[:space:]]*_# _' \
-  | $sed 's_/view/fluxandflaggerkubeconslc2024/home_/kubecon_' \
+  | $sed 's_/view/flux-kubecon-london-2025/home_/kubecon_' \
   | $sed -E 's_\[!\[\]\([^)]+\)_[_g' \
   | $sed -E 's_!\[flux-logo-inner-header-left[^)]+\)_\
 <div class="clearfix">\
@@ -76,7 +76,7 @@ wget ${SOURCE_SITE} -O ${TEMP_FILE} \
   <div class="stickers-float-left">\
 {{< figure src="/img/flux-cuttlefish-stickers.jpeg" alt="Custom printed stickers with cuttlefish mascot and Flux logos" >}}\
 </div>_g' \
-  | $sed -z 's_# KubeCon Salt Lake City 2024\n\nNovember 12-15, 2024_<div class="float-header-kubecon"><h1>KubeCon Salt Lake City 2024</h1><p>November 12-15, 2024</p></div>_' \
+  | $sed -z 's_# KubeCon London 2025\n\nApril 1-4, 2025_<div class="float-header-kubecon"><h1>KubeCon London 2025</h1><p>April 1-4, 2025</p></div>_' \
   | $sed -Ez 's_## fluxcd.io/kubecon\n\n([^\n]+)\n\n_\
 <div class="float-share-this-site"><h2>fluxcd.io/kubecon</h2><p>\1</p></div></div>\n\n_' \
   | $sed -Ez 's_# Flux Booth fun!\n\n([^\n]+)\n\n([^\n]+)\n\n([^\n]+)\n\n#_\
