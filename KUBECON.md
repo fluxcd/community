@@ -19,15 +19,14 @@
 <div class="clearfix">
 <div class="float-header-kubecon"><h1 id="flux-news">Flux news!</h1><p><a href="https://fluxcd.io/blog/2025/02/flux-v2.5.0/">Flux v.2.5 GA!</a></p></div>
 
-- Common Expression Language (CEL) with the Kubernetes API allow you to do custom healthcheck expressions without changes to Flux
-
-- GitHub and GitLab authentication for repos (and we welcome further contributions for other Git sources!)
-
-- Custom event metadata for notifications
-
-- Come chat with us at the Flux booth about these updates and more!
-
-
+<div>
+<ul>
+<li>Common Expression Language (CEL) with the Kubernetes API allow you to do custom healthcheck expressions without changes to Flux
+<li>GitHub and GitLab authentication for repos (and we welcome further contributions for other Git sources!)
+<li>Custom event metadata for notifications
+<li>Come chat with us at the Flux booth about these updates and more!
+</ul>
+</div>
 
   <div class="qr-code-right-align">
 {{< figure src="/img/flux-kubecon-qr-code.png" alt="QR Code" >}}
