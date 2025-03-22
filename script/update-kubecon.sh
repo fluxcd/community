@@ -54,9 +54,9 @@ fi
 #
 wget ${SOURCE_SITE} -O ${TEMP_FILE} \
   && ${HTML2MD_BIN} -i ${TEMP_FILE} \
-  |$sed '1,6d'|$head -n -13 \
+  |$sed '1,8d'|$head -n -15 \
   | $sed 's_# \[Copy heading link\](\\#h\.[a-z0-9]*)[[:space:]]*_# _' \
-  | $sed 's_/view/flux-kubecon-london-2025/home_/kubecon_' \
+  | $sed 's_/helix\.ml/flux-kubecon-london-2025/home_/kubecon_' \
   | $sed -E 's_\[!\[\]\([^)]+\)_[_g' \
   | $sed -E 's_!\[flux-logo-inner-header-left[^)]+\)_\
 <div class="clearfix">\
