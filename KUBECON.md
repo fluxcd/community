@@ -1,4 +1,4 @@
-[Flux and Flagger @ KubeCon SLC 2024](/kubecon)
+[Flux and Flagger @ KubeCon London 2025](/kubecon)
 
 # KubeCon activities!
 
@@ -8,7 +8,7 @@
 {{< figure src="/img/flux-horizontal-color.png" alt="Flux Logo" >}}
 </div>
 
-<div class="float-header-kubecon"><h1>KubeCon Salt Lake City 2024</h1><p>November 12-15, 2024</p></div>
+<div class="float-header-kubecon"><h1>KubeCon London 2025</h1><p>April 1-4, 2025</p></div>
 
 
 <div class="inner-header-right-align">
@@ -17,7 +17,16 @@
 
 
 <div class="clearfix">
-  <div class="float-header-kubecon"><h1 id="flux-news">Flux news!</h1><p>KubeCon Salt Lake City (coming soon)!</p></div>
+  <div class="float-header-kubecon"><h1 id="flux-news">Flux news!</h1><p>[Flux v.2.5 GA!](https://fluxcd.io/blog/2025/02/flux-v2.5.0/)</p></div>- Common Expression Language (CEL) with the Kubernetes API allow you to do custom healthcheck expressions without changes to Flux
+
+- GitHub and GitLab authentication for repos (and we welcome further contributions for other Git sources!)
+
+- Custom event metadata for notifications
+
+- Come chat with us at the Flux booth about these updates and more!
+
+
+
   <div class="qr-code-right-align">
 {{< figure src="/img/flux-kubecon-qr-code.png" alt="QR Code" >}}
   </div>
@@ -34,33 +43,51 @@
 
 <div class="float-booth-fun"><h1>Flux Booth fun!</h1><p>Want a bespoke unique all-your-own cuttlefish sticker?</p><p>Complete the challenge and pick up a Flux sticker made by human-intelligence or artificial-intelligence!</p><p>Challenge = Bootstrap Flux, then deploy <a href="https://github.com/stefanprodan/podinfo">the podinfo sample app</a> and change the text to something like "Cuttlefish playing tennis" and then come by the Flux booth at KubeCon for your bespoke sticker! 😸👩🏻‍🎨🎨 we can print custom stickers!</p></div></div>
 
-# Flux talks and booth hours @ KubeCon Salt Lake City!
+# Flux talks and booth hours @ KubeCon London
 
-Tuesday, November 12, 2024
+Tuesday, April 1
 
-- 1:35 - 2:00 PM: (Salt Palace \| Level 2 \| 250 D) [Accelerating Application Delivery with OpenTofu Controller and GitOps \- Lucas Duarte & Tiago Reichert (AWS](https://sched.co/1jCbL)) at OpenTofu Day, Community Insights colo event
+### 15:32 BST Project Lightning Talk: Flux - What is it & What's New with Image Automation? - Tamao Nakahara, Community Maintainer
 
-- 3:18 PM: Flux lightning talk: [What's Flux and What's New?](https://sched.co/1iW8J) \| Project Lightning Talk with Leigh Capili (Flox) & Tamao Nakahara (helix.ml)
+### 13:35 BST Cloud Native Telco Day: A Telco Game Changer: Sylva Embraces GitOps - Guillaume Nevicato, Orange & Cedric Yhuel
 
+### 17:00 BST Linkerd Day:  ⚡ Lightning Talk: Upgrading Linkerd With Flux - James Johnstone & Haydn Stokes, Compare the Market
 
-Wednesday, November 13, 2024
+### 15:55 BST OpenFeature Summit: Flag-tastic and Fearless: Feature Flags Meet Kubernetes for Deployments That Sing - Aditya Soni, Forrester & Anshika Tiwari, AWS
 
-- 10:45 AM – 8:00 PM: Visit the Flux booth (Kiosk #: 6A) in the Project Pavilion - Salt Palace \| Level 1 \| Halls A-C + 1-5 \| Project Pavilion (Hall 1)(includes KubeCrawl + CloudNativeFest from 6:00 PM – 8:00 PM)
+Wednesday, April 2
 
+### 10:45 BST Visit the Flux booth in the Project Pavilion! (in [Solutions Showcase](https://kccnceu2025.sched.com/event/1tm4D/solutions-showcase) hall) Closes at 19:45
 
-Thursday, November 14, 2024
+### 11:30 BST Security Slam
 
-- 10:30 AM – 5:00 PM: Visit the Flux booth (Kiosk #: 6A) in the Project Pavilion - Salt Palace \| Level 1 \| Halls A-C + 1-5 \| Project Pavilion (Hall 1)
+### 14:30 BST Security Slam
 
-- 11:00 - 11:35 AM: [GitOps at Production Scale with Flux \- Leigh Capili (Flox) & Priyanka Ravi (G-Research)](https://sched.co/1howJ)(Project maintainer talk)
+### 16:15 BST Flux Ecosystem Evolution - Stefan Prodan, ControlPlane & Sanskar Jaiswal, Kong
 
+### 16:15 BST Signed, Sealed, Delivered - Sign and Verify All the Things - Jeremy Rickard, Microsoft
 
-Friday, November 15, 2024
+### 18:00 BST Visit the Flux booth during the booth crawl! (in [Solutions Showcase](https://kccnceu2025.sched.com/event/1tm4D/solutions-showcase) hall) Closes at 19:45
 
-- 9:50am - 10:05am [Keynote: Graduated Project Updates](https://kccncna2024.sched.com/event/1iCSo/keynote-graduated-project-updates#)
+Thursday, April 3
 
-- 10:30 AM – 2:30 PM: Visit the Flux booth (Kiosk #: 6A) in the Project Pavilion - Salt Palace \| Level 1 \| Halls A-C + 1-5 \| Project Pavilion (Hall 1)
+### 10:30 BST Visit the Flux booth in the Project Pavilion! (in [Solutions Showcase](https://kccnceu2025.sched.com/event/1tm4J/solutions-showcase) hall) Closes at 17:00
 
+### 11:00 BST Security Slam
+
+### 14:15 BST Mind the Gap: Bridging Supply Chain Policy With Git-less GitOps and GUAC - Michael Lieberman, Kusari & Andrew Martin, ControlPlane
+
+Friday, April 4
+
+### 10:30 BST Visit the Flux booth in the Project Pavilion! (in [Solutions Showcase](https://kccnceu2025.sched.com/event/1tm4M/solutions-showcase) hall) Closes at 14:00
+
+### 11:00 BST Tutorial: Workshop: Developing as a Team for Kubernetes With Nix and Flox - Leigh Capili & Tanja Ulianova, Flox
+
+### 13:00 BST Security Slam
+
+### 13:45 BST Thousands of Virtual Kubelets: 1-to-1 Mapping a Supercomputer To Kubernetes With Supernetes - Dennis Marttinen, Aalto University
+
+### 13:45 BST How Millennium Bcp Leverages Radius To Empower Developer + Operator Collaboration - Nuno Guedes, Millennium bcp & Jonathan Smith, Microsoft
 
 # Flux Resources
 
