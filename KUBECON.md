@@ -17,33 +17,33 @@
 
 
 <div class="clearfix">
-  <div class="float-header-kubecon"><h1 id="flux-news">Flux news!</h1><p><a href="https://fluxcd.io/blog/2025/02/flux-v2.5.0/">Flux v.2.5 GA!</a></p></div>
+<div class="float-header-kubecon"><h1 id="flux-news">Flux news!</h1><p><a href="https://fluxcd.io/blog/2025/02/flux-v2.5.0/">Flux v.2.5 GA!</a></p></div>
 
-  <ul>
-    <li>Common Expression Language (CEL) with the Kubernetes API allow you to do custom healthcheck expressions without changes to Flux</li>
+- Common Expression Language (CEL) with the Kubernetes API allow you to do custom healthcheck expressions without changes to Flux
 
-    <li>GitHub and GitLab authentication for repos (and we welcome further contributions for other Git sources!)</li>
+- GitHub and GitLab authentication for repos (and we welcome further contributions for other Git sources!)
 
-    <li>Custom event metadata for notifications</li>
+- Custom event metadata for notifications
 
-    <li>Come chat with us at the Flux booth about these updates and more!</li>
-  </ul>
+- Come chat with us at the Flux booth about these updates and more!
+
+
 
   <div class="qr-code-right-align">
-    {{< figure src="/img/flux-kubecon-qr-code.png" alt="QR Code" >}}
+{{< figure src="/img/flux-kubecon-qr-code.png" alt="QR Code" >}}
   </div>
 
-  <div class="float-share-this-site"><h2>fluxcd.io/kubecon</h2><p>share this site!</p></div></div>
+
+<div class="float-share-this-site"><h2>fluxcd.io/kubecon</h2><p>share this site!</p></div></div>
+
 
 <div class="clearfix">
   <div class="stickers-float-left">
-    {{< figure src="/img/flux-cuttlefish-stickers.jpeg" alt="Custom printed stickers with cuttlefish mascot and Flux logos" >}}
-  </div>
-
-
-  <div class="float-booth-fun"><h1>Flux Booth fun!</h1><p>Want a bespoke unique all-your-own cuttlefish sticker?</p><p>Complete the challenge and pick up a Flux sticker made by human-intelligence or artificial-intelligence!</p><p>Challenge = Bootstrap Flux, then deploy <a href="https://github.com/stefanprodan/podinfo">the podinfo sample app</a> and change the text to something like "Cuttlefish playing tennis" and then come by the Flux booth at KubeCon for your bespoke sticker! 😸👩🏻‍🎨🎨 we can print custom stickers!</p>
-  </div>
+{{< figure src="/img/flux-cuttlefish-stickers.jpeg" alt="Custom printed stickers with cuttlefish mascot and Flux logos" >}}
 </div>
+
+
+<div class="float-booth-fun"><h1>Flux Booth fun!</h1><p>Want a bespoke unique all-your-own cuttlefish sticker?</p><p>Complete the challenge and pick up a Flux sticker made by human-intelligence or artificial-intelligence!</p><p>Challenge = Bootstrap Flux, then deploy <a href="https://github.com/stefanprodan/podinfo">the podinfo sample app</a> and change the text to something like "Cuttlefish playing tennis" and then come by the Flux booth at KubeCon for your bespoke sticker! 😸👩🏻‍🎨🎨 we can print custom stickers!</p></div></div>
 
 # Flux talks and booth hours @ KubeCon London
 
