@@ -29,7 +29,7 @@
 
 #### Headlamp UI for Flux updates! [Check out the new blog post](https://headlamp.dev/blog/2025/03/26/flux-ui-updates/)
 
-#### Flux Operator for even easier Flux bootstrapping: [Details](https://github.com/helixml/genai-cicd-ref)
+#### Flux Operator for even easier Flux bootstrapping: [Find out more here](https://github.com/controlplaneio-fluxcd/flux-operator)
 
 #### CI/CD for GenAI example using Flux: [https://github.com/helixml/genai-cicd-ref](https://github.com/helixml/genai-cicd-ref)
 
