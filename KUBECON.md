@@ -49,10 +49,6 @@
 
 #### 10:45 BST Visit the Flux booth in the Project Pavilion! (in [Solutions Showcase](https://kccnceu2025.sched.com/event/1tm4D/solutions-showcase) hall) Closes at 19:45
 
-#### 11:30 BST Security Slam
-
-#### 14:30 BST Security Slam
-
 #### 16:15 BST Flux Ecosystem Evolution - Stefan Prodan, ControlPlane & Sanskar Jaiswal, Kong
 
 #### 16:15 BST Signed, Sealed, Delivered - Sign and Verify All the Things - Jeremy Rickard, Microsoft
@@ -63,7 +59,7 @@
 
 #### 10:30 BST Visit the Flux booth in the Project Pavilion! (in [Solutions Showcase](https://kccnceu2025.sched.com/event/1tm4J/solutions-showcase) hall) Closes at 17:00
 
-#### 11:00 BST Security Slam
+#### 11:00 BST Security Slam: Flux
 
 #### 14:15 BST Mind the Gap: Bridging Supply Chain Policy With Git-less GitOps and GUAC - Michael Lieberman, Kusari & Andrew Martin, ControlPlane
 
@@ -72,8 +68,6 @@
 #### 10:30 BST Visit the Flux booth in the Project Pavilion! (in [Solutions Showcase](https://kccnceu2025.sched.com/event/1tm4M/solutions-showcase) hall) Closes at 14:00
 
 #### 11:00 BST Tutorial: Workshop: Developing as a Team for Kubernetes With Nix and Flox - Leigh Capili & Tanja Ulianova, Flox
-
-#### 13:00 BST Security Slam
 
 #### 13:45 BST Thousands of Virtual Kubelets: 1-to-1 Mapping a Supercomputer To Kubernetes With Supernetes - Dennis Marttinen, Aalto University
 
