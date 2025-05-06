@@ -5,9 +5,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Restore lychee cache
+        uses: actions/cache@v4
+        id: restore-cache
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
       - name: lychee Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@v2.2.0
+        uses: lycheeverse/lychee-action@v2.4.0
         with:
-          args: --verbose --no-progress .
+          # args: --cache --max-cache-age 1d --verbose --no-progress .
+          args: --accept '100..=103,200..=299,429' --cache --max-cache-age 1d --verbose --no-progress .
           fail: true
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+      # - name: Save lychee cache
+      #   uses: actions/cache/save@v4
+      #   if: always()
+      #   with:
+      #     path: .lycheecache
+      #     key: ${{ steps.restore-cache.outputs.cache-primary-key }}
