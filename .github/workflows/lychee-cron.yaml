@@ -14,10 +14,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Restore lychee cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
       - name: Link Checker
         uses: lycheeverse/lychee-action@v2.4.0
         with:
-          args: --verbose --no-progress .
+          args: --cache --max-cache-age 1d --verbose --no-progress .
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
@@ -28,3 +35,10 @@ jobs:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
           labels: report, automated issue
+
+      - name: Save lychee cache
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: .lycheecache
+          key: ${{ steps.restore-cache.outputs.cache-primary-key }}
