@@ -20,10 +20,12 @@ jobs:
           args: --cache --max-cache-age 1d --verbose --no-progress .
           # args: --accept '100..=103,200..=299,429' --cache --max-cache-age 1d --verbose --no-progress .
           fail: true
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
-      - name: Save lychee cache
-        uses: actions/cache/save@v4
-        if: always()
-        with:
-          path: .lycheecache
-          key: ${{ steps.restore-cache.outputs.cache-primary-key }}
+      # - name: Save lychee cache
+      #   uses: actions/cache/save@v4
+      #   if: always()
+      #   with:
+      #     path: .lycheecache
+      #     key: ${{ steps.restore-cache.outputs.cache-primary-key }}
