@@ -25,8 +25,8 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v2.4.0
         with:
-          args: --cache --max-cache-age 1d --verbose --no-progress .
-          # args: --accept '100..=103,200..=299,429' --cache --max-cache-age 1d --verbose --no-progress .
+          # args: --cache --max-cache-age 1d --verbose --no-progress .
+          args: --accept '100..=103,200..=299,429' --cache --max-cache-age 1d --verbose --no-progress .
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
@@ -38,9 +38,9 @@ jobs:
           content-filepath: ./lychee/out.md
           labels: report, automated issue
 
-      - name: Save lychee cache
-        uses: actions/cache/save@v4
-        if: always()
-        with:
-          path: .lycheecache
-          key: ${{ steps.restore-cache.outputs.cache-primary-key }}
+      # - name: Save lychee cache
+      #   uses: actions/cache/save@v4
+      #   if: always()
+      #   with:
+      #     path: .lycheecache
+      #     key: ${{ steps.restore-cache.outputs.cache-primary-key }}
