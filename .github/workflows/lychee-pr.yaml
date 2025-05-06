@@ -17,7 +17,7 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v2.4.0
         with:
-          args: --cache --max-cache-age 1d --verbose --no-progress .
+          args: --accept '100..=103,200..=299,429' --cache --max-cache-age 1d --verbose --no-progress .
           fail: true
 
       - name: Save lychee cache
@@ -25,4 +25,4 @@ jobs:
         if: always()
         with:
           path: .lycheecache
-          key: lychee-cache-
+          key: ${{ steps.restore-cache.outputs.cache-primary-key }}

@@ -41,4 +41,4 @@ jobs:
         if: always()
         with:
           path: .lycheecache
-          key: lychee-cache-
+          key: ${{ steps.restore-cache.outputs.cache-primary-key }}
