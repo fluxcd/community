@@ -15,4 +15,3 @@ who are not maintainers (yet).
 | Daniel Holbach  | @dholbach      | Daniel Holbach  | Independent  | PR #302     |
 | Luke Mallon     | @nalum         | nalum           | Independent  | Issue #339  |
 | Steve Wade      | @swade1987     | Steve Wade      | Independent  | Issue #390  |
-| Dipti Pai       | @dipti-pai     | Dipti Pai       | Microsoft    | Issue #409 |

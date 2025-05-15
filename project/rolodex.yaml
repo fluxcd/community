@@ -22,6 +22,11 @@ maintainers:
     email: jaiswalsanskar078@gmail.com
     affiliation: Independent
     slack: aryan9600
+- dipti-pai:
+    name: Dipti Pai
+    email: diptipai@microsoft.com
+    affiliation: Microsoft
+    slack: Dipti Pai
 - hiddeco:
     name: Hidde Beydals
     email: hidde@hhh.computer
@@ -75,12 +80,12 @@ maintainers:
 - souleb:
     name: Soule BA
     email: bah.soule@gmail.com
-    affiliation: ControlPlane
+    affiliation: Independent
     slack: souleb
 - stealthybox:
     name: Leigh Capili
     email: capileigh@gmail.com
-    affiliation: Flox
+    affiliation: ControlPlane
     slack: Leigh Capili
 - stefanprodan:
     name: Stefan Prodan
