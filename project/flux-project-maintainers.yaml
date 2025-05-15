@@ -1,6 +1,5 @@
 community:
 - kingdonb
-- stealthybox
 - scottrigby
 - stefanprodan
 - mewzherder
@@ -11,6 +10,7 @@ flagger:
 flux2:
 - relu
 - hiddeco
+- stealthybox
 - matheuscscp
 - makkes
 - pjbgf
@@ -23,10 +23,14 @@ go-git-providers:
 - stefanprodan
 image-automation-controller:
 # Plus flux2 maintainers
+- dipti-pai
 - pjbgf
 notification-controller:
 # Plus flux2 maintainers
 - somtochiama
+source-controller:
+# Plus flux2 maintainers
+- dipti-pai
 terraform-provider-flux:
 - stefanprodan
 website:
