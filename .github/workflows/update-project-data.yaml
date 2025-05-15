@@ -9,6 +9,7 @@ on:
 jobs:
   updateProjectData:
     permissions:
+      contents: write
       pull-requests: write
     runs-on: ubuntu-24.04
     steps:
