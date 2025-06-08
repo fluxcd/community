@@ -111,7 +111,7 @@ For these kinds of decisions, a deadline can be given, and unanimity with a quor
 Links to relevant CNCF documentation:
 
 - <https://github.com/cncf/foundation/blob/master/charter.md#11-ip-policy>
-- <https://github.com/cncf/foundation/blob/master/allowed-third-party-license-policy.md#approved-licenses-for-allowlist>
+- <https://github.com/cncf/foundation/blob/master/policies-guidance/allowed-third-party-license-policy.md#approved-licenses-for-allowlist>
 - <https://github.com/cncf/foundation/blob/master/copyright-notices.md#copyright-notices>
 
 <!-- md links -->
