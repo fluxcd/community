@@ -13,7 +13,14 @@
 
 <div class="info-box"> <h3>Visit the Flux Project Booth</h3>
 <p> Have questions? Want to talk GitOps? Or just want to grab some stickers? Come say hi to the Flux maintainers! </p>
-<p style="font-size: 1.3rem; font-weight: 600; text-align: center; margin-top: 1rem;">Booth 8A, Project Pavilion
+<p style="font-size: 1.3rem; font-weight: 600; text-align: left; margin-top: 1rem; padding-left: 1rem;">Booth 8A, Project Pavilion
+
+We'll be using 
+<strong>
+Flux Operator MCP Server</strong>
+to show off
+<a href="https://fluxcd.io/blog/2025/05/ai-assisted-gitops">
+AI Assisted GitOps</a>.
 
 The Project Pavilion is located in the Solutions Showcase. We're near the center :)</p> </div>
 
@@ -176,7 +183,9 @@ The Project Pavilion is located in the Solutions Showcase. We're near the center
     </li>
 </ul>
 
-<p> You may also want to look at: </p>
+<h3>Ecosystem</h3>
+<p> Flux has a rich ecosystem of extensions and compatible, open software.
+Here are a few things to look at: </p>
 
 <ul class="resources-list">
 
@@ -187,13 +196,19 @@ target="_blank" rel="noopener">Flux UI blog post</a>
 </li>
 
 <li>
-<strong>Flux Operator for easier Flux upgrades:</strong>
+<strong>Flux Operator:</strong> easier Flux upgrades - 
 <a href="https://github.com/controlplaneio-fluxcd/flux-operator"
 target="_blank" rel="noopener">controlplaneio-fluxcd/flux-operator</a>
 </li>
 
 <li>
-<strong>CI/CD for GenAI example using Flux:</strong>
+<strong>Flux Operator MCP Server:</strong>
+<a href="https://fluxcd.io/blog/2025/05/ai-assisted-gitops"
+target="_blank" rel="noopener">AI Assisted GitOps</a>
+</li>
+
+<li>
+<strong>CI/CD for GenAI:</strong> GenAI example using Flux:
 <a href="https://github.com/helixml/genai-cicd-ref"
 target="_blank" rel="noopener">helixml/genai-cicd-ref</a>
 </li>
@@ -220,7 +235,7 @@ target="_blank" rel="noopener">helixml/genai-cicd-ref</a>
 
 .kubecon-page h2 { font-size: 2rem; color: var(--flux-blue); border-bottom: 1px solid var(--border-color); padding-bottom: 0.25rem; margin-top: 2.5rem; margin-bottom: 1.5rem; }
 
-.kubecon-page h3 { font-size: 1.5rem; color: var(--text-primary); margin-bottom: 0.5rem; }
+.kubecon-page h3 { font-size: 1.5rem; color: var(--flux-dark-blue); margin-bottom: 0.5rem; }
 
 .kubecon-page p { margin-bottom: 1rem; font-size: 1.1rem; }
 
@@ -267,7 +282,7 @@ target="_blank" rel="noopener">helixml/genai-cicd-ref</a>
 /* --- FluxCon Card --- */
 .fluxcon-card { background-color: var(--bg-white); border: 2px solid var(--flux-light-blue); border-radius: 8px; padding: 1.5rem; margin: 2rem 0; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
 .fluxcon-card img { width: 150px; margin-bottom: 1rem; }
-.fluxcon-card h3 { font-size: 1.75rem; color: var(--flux-light-blue); margin: 0; }
+.fluxcon-card h3 { font-size: 1.75rem; color: var(--flux-blue); margin: 0; }
 .fluxcon-card .fluxcon-details { font-size: 1.15rem; color: var(--text-secondary); margin: 0.5rem 0 1.5rem 0; }
 .fluxcon-card .sched-link { display: inline-block; font-size: 1.1rem; font-weight: 600; padding: 0.75rem 1.5rem; background-color: var(--flux-blue); color: white; border-radius: 5px; text-decoration: none; transition: background-color 0.2s; }
 .fluxcon-card .sched-link:hover { background-color: var(--flux-dark-blue); color: white; text-decoration: none; }
@@ -283,7 +298,7 @@ target="_blank" rel="noopener">helixml/genai-cicd-ref</a>
 .talk-avatars img:nth-child(2) { left: 30px; /* Overlap */ }
 
 .talk-details { flex-grow: 1; }
-.talk-card h3 { font-size: 1.4rem; color: var(--flux-blue); margin: 0 0 0.25rem 0; }
+.talk-card h3 { font-size: 1.4rem; color: var(--flux-dark-blue); margin: 0 0 0.25rem 0; }
 .talk-card h4 { font-size: 1.1rem; color: var(--text-primary); margin: 0 0 0.5rem 0; font-weight: 600; }
 
 .talk-time { font-size: 1rem; color: var(--text-secondary); margin-bottom: 1rem; display: block; font-weight: 500; }
