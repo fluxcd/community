@@ -7,12 +7,12 @@
 
 <div class="fluxcon-card"> <img src="https://events.linuxfoundation.org/wp-content/uploads/2025/05/fluxCon-horizontal-color.svg" alt="FluxCon"> <h3>FluxCon is Here!</h3> <div class="fluxcon-details"> The first-ever FluxCon is our co-located event for the whole community.
 
-<strong>When:</strong> Monday, November 10, 2025
+<strong>When:</strong> Monday, November 10, 2025 - 1:30 pm - 5:40 pm 
 
 <strong>Where:</strong> Building B | Level 3 | B309 </div> <a class="sched-link" href="https://colocatedeventsna2025.sched.com/list/descriptions/area/FluxCon" target="_blank" rel="noopener"> View the Full FluxCon Schedule </a> </div>
 
 <div class="info-box"> <h3>Visit the Flux Project Booth</h3>
-<p> Have questions? Want to talk GitOps? Or just want to grab some stickers? Come say hi to the Flux maintainers! </p>
+<p> Have questions? Want to talk GitOps? Or just want to grab some stickers? Come say hi to the Flux maintainers! Stefan will also be be at the booth for extended Q&A after each session.</p>
 <p style="font-size: 1.3rem; font-weight: 600; text-align: left; margin-top: 1rem; padding-left: 1rem;">Booth 8A, Project Pavilion
 
 We'll be using 
@@ -37,7 +37,7 @@ The Project Pavilion is located in the Solutions Showcase. We're near the center
     <h3>Project Lightning Talk: ⚡ GitOps With Or Without Git Using Flux</h3>
     <h4>Tamao Nakahara, Community Maintainer</h4>
     <span class="talk-time">
-      <strong>Mon, Nov 10</strong> • 4:10pm - 4:15pm EST
+      <strong>Mon, Nov 10</strong> • 11:55pm - noon EST (and outside the venue for Q&A)
       <br>
       Building C | Level 3 | Georgia Ballroom 2 
     </span>
