@@ -37,7 +37,7 @@ The Project Pavilion is located in the Solutions Showcase. We're near the center
     <h3>Project Lightning Talk: ⚡ GitOps With Or Without Git Using Flux</h3>
     <h4>Tamao Nakahara, Community Maintainer</h4>
     <span class="talk-time">
-      <strong>Mon, Nov 10</strong> • 4:10pm - 4:15pm EST
+      <strong>Mon, Nov 10</strong> • 11:55am - 12:00pm EST
       <br>
       Building C | Level 3 | Georgia Ballroom 2 
     </span>
