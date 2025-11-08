@@ -7,7 +7,7 @@
 
 <div class="fluxcon-card"> <img src="https://events.linuxfoundation.org/wp-content/uploads/2025/05/fluxCon-horizontal-color.svg" alt="FluxCon"> <h3>FluxCon is Here!</h3> <div class="fluxcon-details"> The first-ever FluxCon is our co-located event for the whole community.
 
-<strong>When:</strong> Monday, November 10, 2025 - 1:30 pm - 5:40 pm 
+<strong>When:</strong> Monday, November 10, 2025 - 1:20 pm - 5:40 pm 
 
 <strong>Where:</strong> Building B | Level 3 | B309 </div> <a class="sched-link" href="https://colocatedeventsna2025.sched.com/list/descriptions/area/FluxCon" target="_blank" rel="noopener"> View the Full FluxCon Schedule </a> </div>
 
