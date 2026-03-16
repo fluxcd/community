@@ -2,18 +2,239 @@
 
 <img src="https://fluxcd.io/img/flux-horizontal-color.png" alt="Flux CD Logo" class="page-logo">
 
-<h1>Flux at KubeCon NA 2025</h1>
-<p style="text-align: center; font-size: 1.2rem; font-weight: 500;"> Welcome, Flux friends! We're excited to see you in Atlanta. Here's your guide to all things Flux and GitOps at KubeCon North America 2025. </p>
+<h1>Flux at KubeCon EU 2026</h1>
+<p style="text-align: center; font-size: 1.2rem; font-weight: 500;">Welcome, Flux friends! We're excited to see you in Amsterdam. Here's your guide to all things Flux and GitOps at KubeCon Europe 2025.</p>
 
-<div class="fluxcon-card"> <img src="https://events.linuxfoundation.org/wp-content/uploads/2025/05/fluxCon-horizontal-color.svg" alt="FluxCon"> <h3>FluxCon is Here!</h3> <div class="fluxcon-details"> The first-ever FluxCon is our co-located event for the whole community.
+<div class="fluxcon-card"> <img src="https://events.linuxfoundation.org/wp-content/uploads/2025/09/fluxCon-horizontal-color.svg" alt="FluxCon Europe"> <h3>FluxCon is here!</h3> <div class="fluxcon-details"> FluxCon is back for its second year as a CNCF-hosted co-located event - a dedicated half-day for the whole Flux community.
 
-<strong>When:</strong> Monday, November 10, 2025 - 1:20 pm - 5:40 pm 
+<strong>When:</strong> Monday, March 23, 2026 - 09:00 - 12:45 CET
 
-<strong>Where:</strong> Building B | Level 3 | B309 </div> <a class="sched-link" href="https://colocatedeventsna2025.sched.com/list/descriptions/area/FluxCon" target="_blank" rel="noopener"> View the Full FluxCon Schedule </a> </div>
+<strong>Where:</strong> Elicium 1, RAI Amsterdam </div> </div>
+
+
+<details class="fluxcon-schedule-details">
+<summary class="sched-link fluxcon-toggle"> View the Full FluxCon Schedule <span class="toggle-icon"></span> </summary>
+
+
+<h2>FluxCon Sessions</h2>
+<p>A full morning of Flux talks featuring production stories from Air France–KLM, NatWest, Orange, and our maintainers.</p>
+
+<div class="talk-list">
+
+<div class="talk-card">
+  <div class="talk-avatars">
+    <img src="https://avatars.sched.co/0/c9/20007423/avatar.jpg?2b4" alt="Francesco Beltramini">
+  </div>
+  <div class="talk-details">
+    <h3>FluxCon | Welcome + Opening Remarks</h3>
+    <h4>Francesco Beltramini, ControlPlane</h4>
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 09:00 - 09:05 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DZNO" target="_blank" rel="noopener">
+      View on Sched
+    </a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-avatars">
+    <img src="https://fluxcd.io/img/speakers/stefan-profile.png" alt="Stefan Prodan">
+  </div>
+  <div class="talk-details">
+    <h3>Vibe Coding Meets GitOps</h3>
+    <h4>Stefan Prodan, ControlPlane</h4>
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 09:10 - 09:35 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DY11" target="_blank" rel="noopener">
+      View on Sched
+    </a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-avatars">
+    <img src="https://avatars.sched.co/4/f4/23400859/avatar.jpg?0d7" alt="Amine Alaoui Echerif">
+    <img src="https://avatars.sched.co/d/5d/24104729/avatar.jpg?86d" alt="Ravi Ramrattan">
+  </div>
+  <div class="talk-details">
+    <h3>Air France–KLM's GitOps Takeoff: Real Stories From the Flight Deck</h3>
+    <h4>Alaoui Echerif Amine & Ravi Ramrattan, Air France KLM</h4>
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 09:40 - 10:05 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DY1V" target="_blank" rel="noopener">
+      View on Sched
+    </a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-avatars">
+    <img src="https://avatars.sched.co/9/a3/15550662/avatar.jpg?15c" alt="Andy Martin">
+  </div>
+  <div class="talk-details">
+    <h3>Agentic GitOps: Evolving Enterprise Delivery</h3>
+    <h4>Andy Martin, ControlPlane</h4>
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 10:10 - 10:15 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DZNV" target="_blank" rel="noopener">
+      View on Sched
+    </a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-avatars">
+    <img src="https://avatars.sched.co/3/7e/20970339/avatar.jpg?ff7" alt="Joel King">
+    <img src="https://avatars.sched.co/2/7b/24132865/avatar.jpg?d08" alt="Lee Coupe">
+  </div>
+  <div class="talk-details">
+    <h3>May the Flux Be With You: Tales From the GitOps Trenches at NatWest</h3>
+    <h4>Joel King & Lee Coupe, NatWest Group</h4>
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 10:20 - 10:45 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DY1w" target="_blank" rel="noopener">
+      View on Sched
+    </a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-avatars">
+    <div class="avatar-zoom" style="width: 60px; height: 60px; border-radius: 50%; overflow: hidden; border: 2px solid var(--bg-white); box-shadow: 0 2px 4px rgba(0,0,0,0.1); position: absolute; left: 0; top: 0;">
+      <img src="https://avatars.sched.co/f/c0/13761057/avatar.jpg?c86" alt="Sanskar Jaiswal" style="width: 100%; height: 100%; object-fit: cover; transform: scale(2.3);">
+    </div>
+  </div>
+  <div class="talk-details">
+    <h3>Towards Better Canary Releases With Flagger and Gateway API</h3>
+    <h4>Sanskar Jaiswal, Kong</h4>
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 11:00 - 11:25 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DY2o" target="_blank" rel="noopener">
+      View on Sched
+    </a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-avatars">
+    <img src="https://avatars.sched.co/b/31/17835365/avatar.jpg?917" alt="William Rizzo">
+  </div>
+  <div class="talk-details">
+    <h3>Talking to Your Cluster: Conversational GitOps with Flux MCP</h3>
+    <h4>William Rizzo, Mirantis</h4>
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 11:30 - 11:55 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2ICsA" target="_blank" rel="noopener">
+      View on Sched
+    </a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-avatars">
+    <img src="https://avatars.sched.co/b/62/21355662/avatar.jpg?51f" alt="Paris Nakita Kejser">
+  </div>
+  <div class="talk-details">
+    <h3>⚡ Lightning Talk: Flux-Powered Bootstrapping a Kubernetes With GitOps and CaC</h3>
+    <h4>Paris Nakita Kejser, Astrona</h4>
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 12:00 - 12:10 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DY3s" target="_blank" rel="noopener">
+      View on Sched
+    </a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-avatars">
+    <img src="https://avatars.sched.co/4/c7/3798593/avatar.jpg?ec0" alt="Francois Eleouet">
+    <img src="https://avatars.sched.co/9/3b/24104849/avatar.jpg?fbe" alt="Thomas Morin">
+  </div>
+  <div class="talk-details">
+    <h3>Sylva, Taming Complexity With FluxCD Dependency Management</h3>
+    <h4>Thomas Morin & Francois Eleouet, Orange</h4>
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 12:15 - 12:40 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DY41" target="_blank" rel="noopener">
+      View on Sched
+    </a>
+  </div>
+</div>
+
+</div>
+
+</details>
+
+
+
+<div class="banner-image">
+  <img src="https://fluxcd.io/img/fluxcon-na-25/maintainers-6.png" alt="Flux Maintainer, Stefan Prodan, speaking to a crowd at KubeCon">
+</div>
+
+
+<h2>Flux at KyvernoCon</h2>
+<p>Flux and Kyverno together - attend this cross-project session in the afternoon:</p>
+
+<div class="talk-list">
+
+<div class="talk-card">
+  <div class="talk-avatars">
+    <img src="https://avatars.sched.co/f/93/18897752/avatar.jpg?c8f" alt="Leigh Capili">
+    <img src="https://avatars.sched.co/1/8b/19942184/avatar.jpg?c67" alt="Cortney Nickerson">
+  </div>
+  <div class="talk-details">
+    <h3>Policy & GitOps Unite! Kyverno and Flux Save Cluster City</h3>
+    <h4>Cortney Nickerson, Nirmata & Leigh Capili, ControlPlane</h4>
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 13:35 - 14:00 CET
+      <br>
+      E106-108
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DY5E" target="_blank" rel="noopener">
+      View on Sched
+    </a>
+  </div>
+</div>
+
+</div>
+
+<div class="banner-image">
+  <img src="https://fluxcd.io/img/speakers/stefan-talk-emphasis.jpg" alt="Stefan Prodan speaking to a crowd at KubeCon">
+</div>
+
+
+
 
 <div class="info-box"> <h3>Visit the Flux Project Booth</h3>
 <p> Have questions? Want to talk GitOps? Or just want to grab some stickers? Come say hi to the Flux maintainers! Stefan will also be be at the booth for extended Q&A after each session.</p>
-<p style="font-size: 1.3rem; font-weight: 600; text-align: left; margin-top: 1rem; padding-left: 1rem;">Booth 8A, Project Pavilion
+<p style="font-size: 1.3rem; font-weight: 600; text-align: left; margin-top: 1rem; padding-left: 1rem;">Booth 5B, Project Pavilion
 
 We'll be using 
 <strong>
@@ -24,24 +245,28 @@ AI Assisted GitOps</a>.
 
 The Project Pavilion is located in the Solutions Showcase. We're near the center :)</p> </div>
 
-<h2>Talks on Flux</h2>
-<p>Don't miss these Flux and GitOps-ecosystem sessions during the main conference.</p>
+
+<h2>Flux at KubeCon</h2>
+
+<p>Catch these Flux sessions during the main conference:</p>
 
 <div class="talk-list">
 
 <div class="talk-card">
   <div class="talk-avatars">
-    <img src="https://avatars.sched.co/6/73/23335813/avatar.jpg?490" alt="Tamao Nakahara">
+    <div class="avatar-zoom" style="width: 60px; height: 60px; border-radius: 50%; overflow: hidden; border: 2px solid var(--bg-white); box-shadow: 0 2px 4px rgba(0,0,0,0.1); position: absolute; left: 0; top: 0;">
+      <img src="https://avatars.sched.co/a/52/1784940/avatar.jpg?157" alt="Tamao Nakahara" style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.2);">
+    </div>
   </div>
   <div class="talk-details">
-    <h3>Project Lightning Talk: ⚡ GitOps With Or Without Git Using Flux</h3>
+    <h3>⚡ Project Lightning Talk: FluxCD - Gitops For All Sizes</h3>
     <h4>Tamao Nakahara, Community Maintainer</h4>
     <span class="talk-time">
-      <strong>Mon, Nov 10</strong> • 11:55pm - noon EST (and outside the venue for Q&A)
+      <strong>Mon, Mar 23</strong> • 14:15 - 14:20 CET
       <br>
-      Building C | Level 3 | Georgia Ballroom 2 
+      Elicium 2
     </span>
-    <a class="sched-link" href="https://kccncna2025.sched.com/event/27d61" target="_blank" rel="noopener">
+    <a class="sched-link" href="https://kccnceu2026.sched.com/event/2EFyN" target="_blank" rel="noopener">
       View on Sched
     </a>
   </div>
@@ -49,18 +274,18 @@ The Project Pavilion is located in the Solutions Showcase. We're near the center
 
 <div class="talk-card">
   <div class="talk-avatars">
-    <img src="https://i.imgur.com/b0xE9fJ.png" alt="Stefan Prodan">
-    <img src="https://avatars.sched.co/a/60/22649481/avatar.jpg?7f8" alt="Dipti Pai">
+    <img src="https://avatars.sched.co/3/bd/24047760/avatar.jpg?9fc" alt="Lucas Hornung">
+    <img src="https://avatars.sched.co/c/b7/24047622/avatar.jpg?388" alt="Christian Matthaei">
   </div>
   <div class="talk-details">
-    <h3>Flux - The GitLess GitOps Edition</h3>
-    <h4>Stefan Prodan, ControlPlane & Dipti Pai, Microsoft</h4>
+    <h3>From "No Time for GitOps" to Enterprise Adoption: Selling Flux the Human Way</h3>
+    <h4>Lucas Hornung & Christian Matthaei, Tchibo GmbH</h4>
     <span class="talk-time">
-      <strong>Tues, Nov 11</strong> •  5:45pm - 6:15pm EST
+      <strong>Wed, Mar 25</strong> • 11:45 - 12:15 CET
       <br>
-      Building C | Level 3 | Georgia Ballroom 2 
+      Hall 7 | Room B
     </span>
-    <a class="sched-link" href="https://kccncna2025.sched.com/event/27NnQ" target="_blank" rel="noopener">
+    <a class="sched-link" href="https://kccnceu2026.sched.com/event/2CW1l" target="_blank" rel="noopener">
       View on Sched
     </a>
   </div>
@@ -68,104 +293,74 @@ The Project Pavilion is located in the Solutions Showcase. We're near the center
 
 <div class="talk-card">
   <div class="talk-avatars">
-    <img src="https://i.imgur.com/b0xE9fJ.png" alt="Stefan Prodan">
+    <img src="https://avatars.sched.co/1/ff/23430187/avatar.jpg?eb9" alt="Matteo Bianchi">
+    <img src="https://fluxcd.io/img/speakers/stefan-profile.png" alt="Stefan Prodan">
   </div>
   <div class="talk-details">
-    <h3>AI-Assisted GitOps With Flux MCP Server</h3>
+    <h3>Pull Request Wars: The Flux Awakens - Ephemeral Kubernetes Environments Strike Back</h3>
+    <h4>Matteo Bianchi, GitHub & Stefan Prodan, ControlPlane</h4>
+    <span class="talk-time">
+      <strong>Wed, Mar 25</strong> • 15:00 - 15:30 CET
+      <br>
+      Hall 8 | Room G
+    </span>
+    <a class="sched-link" href="https://kccnceu2026.sched.com/event/2CW37" target="_blank" rel="noopener">
+      View on Sched
+    </a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-avatars">
+    <img src="https://fluxcd.io/img/speakers/stefan-profile.png" alt="Stefan Prodan">
+  </div>
+  <div class="talk-details">
+    <h3>Visualizing GitOps: A Tour of Flux UIs in the Open Source Ecosystem</h3>
     <h4>Stefan Prodan, ControlPlane</h4>
     <span class="talk-time">
-      <strong>Thurs, Nov 13</strong> • 11:00am - 11:30am EST
+      <strong>Thurs, Mar 26</strong> • 13:45 - 14:15 CET
       <br>
-      Building B | Level 2 | B206 
+      Elicium 2
     </span>
-    <a class="sched-link" href="https://kccncna2025.sched.com/event/27Fco" target="_blank" rel="noopener">
+    <a class="sched-link" href="https://kccnceu2026.sched.com/event/2EF4I" target="_blank" rel="noopener">
       View on Sched
     </a>
   </div>
+</div>
+
+</div>
+
+<div class="banner-image">
+  <img src="https://fluxcd.io/img/fluxcon-na-25/maintainers-opening-2.jpg" alt="Flux maintainers at FluxCon NA 2025">
 </div>
 <div class="banner-image">
-  <img src="https://i.imgur.com/U4dbhWJ.jpeg" alt="Flux Maintainer, Stefan Prodan, speaking to a crowd at KubeCon">
-</div>
-<h2>Talks about GitOps</h2>
-<p>These talks cover techniques that are useful with Flux. Make a friend and share your experiences!</p>
-<div class="talk-card">
-  <div class="talk-avatars">
-    <img src="https://avatars.sched.co/0/fc/6825234/avatar.jpg?9cc" alt="Jesse Suen">
-  </div>
-  <div class="talk-details">
-    <h3>Bringing OCI into the GitOps World</h3>
-    <h4>Jesse Suen, Akuity</h4>
-    <span class="talk-time">
-      <strong>Thurs, Nov 13</strong> • 11:45am - 12:15pm EST
-      <br>
-      Building B | Level 4 | B406b-407 
-    </span>
-    <a class="sched-link" href="https://kccncna2025.sched.com/event/27Fdg" target="_blank" rel="noopener">
-      View on Sched
-    </a>
-  </div>
+  <img src="https://fluxcd.io/img/speakers/stefan-talk-crowd-OCI.JPG" alt="Stefan Prodan speaking to a crowd at KubeCon">
 </div>
 
-<div class="talk-card">
-  <div class="talk-avatars">
-    <img src="https://avatars.sched.co/b/ff/20351894/avatar.jpg?19e" alt="Alexis Richardson">
-    <img src="https://avatars.sched.co/f/a2/23272171/avatar.jpg?f4c" alt="Brian Grant">
-  </div>
-  <div class="talk-details">
-    <h3>GitOps Without Variables</h3>
-    <h4>Brian Grant & Alexis Richardson, ConfigHub Inc.</h4>
-    <span class="talk-time">
-      <strong>Thurs, Nov 13</strong> • 1:45pm - 2:15pm EST
-      <br>
-      Building B | Level 5 | Thomas Murphy Ballroom 1 
-    </span>
-    <a class="sched-link" href="https://kccncna2025.sched.com/event/27FeG/" target="_blank" rel="noopener">
-      View on Sched
-    </a>
-  </div>
-</div>
 
-<div class="talk-card">
-  <div class="talk-avatars">
-    <img src="https://avatars.sched.co/9/08/20023096/avatar.jpg?d94" alt="Dag Bjerre-Andersen">
-  </div>
-  <div class="talk-details">
-    <h3>GitOps and the Manifest Dilemma: Helm, Kustomize, Crossplane, Kro, and Beyond</h3>
-    <h4>Dag Bjerre-Andersen, Egmont</h4>
-    <span class="talk-time">
-      <strong>Thurs, Nov 13</strong> • 1:45pm - 2:15pm EST
-      <br>
-      Building B | Level 3 | B312-314 
-    </span>
-    <a class="sched-link" href="https://kccncna2025.sched.com/event/27Fe4" target="_blank" rel="noopener">
-      View on Sched
-    </a>
-  </div>
-</div>
-
-</div>
-
-<div class="info-box" style="margin-top: 2.5rem;"> <h3>Announcing Flux 2.7 GA</h3>
-<p> We're thrilled to announce the <strong>Flux 2.7 General Availability</strong> release. This is a major milestone, bringing GA status to our image update automation features. </p>
+<div class="info-box" style="margin-top: 2.5rem;"> <h3>Announcing Flux 2.8 GA</h3>
+<p> We're thrilled to announce the <strong>Flux 2.8 General Availability</strong> release. This is a major milestone, bringing Helm v4 support natively to Flux. </p>
 <p> Key highlights include: </p>
 <ul>
-  <li>General Availability of Image Update Automation</li>
-  <li>New API: <code>ExternalArtifact</code> for extending Flux with your own sources</li>
-  <li>New API: <code>ArtifactGenerator</code> for composing sources and decomposing monorepos</li>
-  <li><code>HelmRelease</code> using <code>valuesFrom</code> can now watch ConfigMaps and Secrets for value changes</li>
-  <li>OpenTelemetry (OTEL) tracing support</li>
+  <li>Helm v4 support with server-side apply and kstatus-based health checking</li>
+  <li>Helm v3 backward compatibility for existing releases + opt-ins</li>
+  <li>Reduced mean time to recovery - new revisions can immediately cancel stale health checks</li>
+  <li>CEL expressions for readiness evaluation of Helm-managed objects</li>
+  <li><code>ArtifactGenerator</code> support for extracting and modifying Helm charts</li>
+  <li>PR/MR comment providers for preview environment feedback loops</li>
+  <li>Cosign v3 support for verifying OCI artifacts and container images</li>
+  <li>Custom SSA apply stages for ordering resource application in kustomize-controller</li>
 </ul>
-<p> <a href="https://fluxcd.io/blog/2025/09/flux-v2.7.0/" target="_blank" rel="noopener"> Read the full 2.7 Release Announcement </a> </p> </div>
+<p> <a href="https://fluxcd.io/blog/2026/02/flux-v2.8.0/" target="_blank" rel="noopener"> Read the full 2.8 Release Announcement </a> </p> </div>
 
 <div class="psa-banner">
-<p> <strong>Flux 2.7.x Upgrade Instructions</strong> The Flux 2.7 release removes old API versions. To ensure a smooth upgrade, please follow the detailed instructions before updating your clusters.
-
-
+<p> <strong>Flux 2.8.x Upgrade Instructions</strong> Releases of Flux 2.7+ and up remove old API versions. To ensure a smooth upgrade, please follow the detailed instructions before updating your clusters.
 
 <a href="https://github.com/fluxcd/flux2/discussions/5572" target="_blank" rel="noopener"> Upgrade instructions & Support here </a> </p> </div>
 
+
 <h2>Flux Resources</h2>
-<p> Flux (and Flagger) is a set of continuous and progressive delivery solutions for Kubernetes that are open and extensible. It is the GitOps engine for Microsoft’s Arc Kubernetes, AWS’s EKS-Anywhere, GitLab, and many more. </p>
+<p> Flux (and Flagger) is a set of continuous and progressive delivery solutions for Kubernetes that are open and extensible. It is the GitOps engine for Microsoft's Arc Kubernetes, AWS's EKS-Anywhere, GitLab, and many more. </p>
 <p> Flux is a CNCF graduated project and is General Availability. </p>
 
 <ul class="resources-list">
@@ -190,15 +385,21 @@ Here are a few things to look at: </p>
 <ul class="resources-list">
 
 <li>
-<strong>Headlamp's UI for Flux:</strong>
-<a href="https://headlamp.dev/blog/2025/03/26/flux-ui-updates/"
-target="_blank" rel="noopener">Flux UI blog post</a>
+<strong>Flux Operator Web UI:</strong> 
+<a href="https://fluxoperator.dev/web-ui/"
+target="_blank" rel="noopener">lightweight, mobile friendly</a>
 </li>
 
 <li>
-<strong>Flux Operator:</strong> easier Flux upgrades - 
-<a href="https://github.com/controlplaneio-fluxcd/flux-operator"
-target="_blank" rel="noopener">controlplaneio-fluxcd/flux-operator</a>
+<strong>Installing Flux Operator:</strong> 
+<a href="https://fluxoperator.dev/docs/guides/migration/#flux-bootstrap-migration"
+target="_blank" rel="noopener">Migrate from `flux bootstrap`</a>
+</li>
+
+<li>
+<strong>Headlamp's UI for Flux:</strong>
+<a href="https://headlamp.dev/blog/2025/03/26/flux-ui-updates/"
+target="_blank" rel="noopener">Flux UI blog post</a>
 </li>
 
 <li>
@@ -208,14 +409,13 @@ target="_blank" rel="noopener">AI Assisted GitOps</a>
 </li>
 
 <li>
-<strong>CI/CD for GenAI:</strong> GenAI example using Flux:
+<strong>CI/CD for GenAI:</strong>GenAI example using Flux:
 <a href="https://github.com/helixml/genai-cicd-ref"
 target="_blank" rel="noopener">helixml/genai-cicd-ref</a>
 </li>
 </ul>
 
 </div>
-
 
 
 <style>
@@ -256,26 +456,22 @@ target="_blank" rel="noopener">helixml/genai-cicd-ref</a>
 
 /* --- Banner Image (with object-fit) --- */
 .banner-image {
-  margin: 2.5rem 0; /* Adds spacing above and below */
+  margin: 2.5rem 0;
 }
 
 .banner-image img {
-  width: 100%;    /* Make the image fill the container width */
-  height: 300px;   /* Set a nice banner height for desktop */
-  
-  /* This is the magic: */
-  object-fit: cover; /* Fill the box, maintain aspect ratio, and crop */
-  object-position: left center; /* Prioritize left side, crop from right */
-
-  border-radius: 8px; /* Softens the corners */
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1); /* Adds a subtle shadow */
-  display: block; /* Removes extra space below the image */
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  object-position: left center;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  display: block;
 }
 
-/* Adjust banner height for mobile */
 @media (max-width: 768px) {
   .banner-image img {
-    height: 200px; /* A shorter height is better for mobile screens */
+    height: 200px;
   }
 }
 
@@ -287,6 +483,18 @@ target="_blank" rel="noopener">helixml/genai-cicd-ref</a>
 .fluxcon-card .sched-link { display: inline-block; font-size: 1.1rem; font-weight: 600; padding: 0.75rem 1.5rem; background-color: var(--flux-blue); color: white; border-radius: 5px; text-decoration: none; transition: background-color 0.2s; }
 .fluxcon-card .sched-link:hover { background-color: var(--flux-dark-blue); color: white; text-decoration: none; }
 
+/* --- FluxCon Schedule Details/Summary --- */
+.fluxcon-schedule-details { margin: 2rem 0; }
+.fluxcon-schedule-details > .fluxcon-toggle { display: inline-flex; align-items: center; justify-content: center; font-size: 1.1rem; font-weight: 600; padding: 0.75rem 1.5rem; background-color: var(--flux-blue); color: white; border-radius: 5px; text-decoration: none; transition: background-color 0.2s; cursor: pointer; list-style: none; text-align: center; width: 100%; box-sizing: border-box; }
+.fluxcon-schedule-details > .fluxcon-toggle::-webkit-details-marker { display: none; }
+.fluxcon-schedule-details > .fluxcon-toggle::marker { display: none; content: ""; }
+.fluxcon-schedule-details > .fluxcon-toggle:hover { background-color: var(--flux-dark-blue); color: white; }
+.fluxcon-schedule-details[open] > .fluxcon-toggle { margin-bottom: 1.5rem; }
+.fluxcon-toggle .toggle-icon { display: inline-flex; align-items: center; justify-content: center; margin-left: 0.5rem; width: 1.2em; height: 1.2em; font-size: 1.4em; font-weight: 700; line-height: 1; vertical-align: middle; transition: transform 0.3s ease; }
+.fluxcon-toggle .toggle-icon::before { content: "▾"; position: relative; top: -0.05em; }
+.fluxcon-schedule-details[open] > .fluxcon-toggle .toggle-icon::before { content: "+"; }
+.fluxcon-schedule-details[open] > .fluxcon-toggle .toggle-icon { transform: rotate(45deg); }
+
 /* --- Talk List & Cards --- */
 .talk-list { display: grid; grid-template-columns: 1fr; gap: 1.25rem; }
 
@@ -295,7 +503,7 @@ target="_blank" rel="noopener">helixml/genai-cicd-ref</a>
 
 .talk-avatars { flex-shrink: 0; width: 90px; height: 60px; margin-right: 1rem; margin-top: 0.25rem; position: relative; display: flex; align-items: center; }
 .talk-avatars img { width: 60px; height: 60px; border-radius: 50%; border: 2px solid var(--bg-white); box-shadow: 0 2px 4px rgba(0,0,0,0.1); position: absolute; left: 0; top: 0; }
-.talk-avatars img:nth-child(2) { left: 30px; /* Overlap */ }
+.talk-avatars img:nth-child(2) { left: 30px; }
 
 .talk-details { flex-grow: 1; }
 .talk-card h3 { font-size: 1.4rem; color: var(--flux-dark-blue); margin: 0 0 0.25rem 0; }
@@ -312,12 +520,15 @@ target="_blank" rel="noopener">helixml/genai-cicd-ref</a>
 .resources-list strong { color: var(--text-primary); margin-right: 0.5rem; }
 
 /* --- Mobile Responsiveness --- */
-@media (max-width: 768px) { .kubecon-page { padding: 0.5rem; }
+@media (max-width: 768px) {
+  .avatar-zoom { position: relative !important; left: auto !important; top: auto !important; }
+  .kubecon-page { padding: 0.5rem; }
 .kubecon-page h1 { font-size: 2rem; }
 .kubecon-page h2 { font-size: 1.75rem; }
 .info-box, .psa-banner, .fluxcon-card, .talk-card { padding: 1.25rem; }
 .talk-card { flex-direction: column; align-items: stretch; }
 .talk-avatars { width: auto; height: 60px; margin-right: 0; margin-bottom: 1rem; display: flex; justify-content: center; }
 .talk-avatars img { position: relative; left: 0; top: 0; }
-.talk-avatars img:nth-child(2) { left: -15px; / Overlap on mobile */ }
-.talk-details { text-align: center; } } </style>
+.talk-avatars img:nth-child(2) { left: -15px; }
+.talk-details { text-align: center; } }
+</style>
