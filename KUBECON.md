@@ -23,11 +23,12 @@
 
 <div class="talk-card">
   <div class="talk-avatars">
+    <img src="https://avatars.sched.co/5/15/23428902/avatar.jpg?643" alt="Tiffany Wang">
     <img src="https://avatars.sched.co/0/c9/20007423/avatar.jpg?2b4" alt="Francesco Beltramini">
   </div>
   <div class="talk-details">
     <h3>FluxCon | Welcome + Opening Remarks</h3>
-    <h4>Francesco Beltramini, ControlPlane</h4>
+    <h4>Tiffany Wang, Morgan Stanley & Francesco Beltramini, ControlPlane</h4>
     <span class="talk-time">
       <strong>Mon, Mar 23</strong> • 09:00 - 09:05 CET
       <br>
@@ -305,6 +306,24 @@ The Project Pavilion is located in the Solutions Showcase. We're near the center
       Hall 8 | Room G
     </span>
     <a class="sched-link" href="https://kccnceu2026.sched.com/event/2CW37" target="_blank" rel="noopener">
+      View on Sched
+    </a>
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-avatars">
+    <img src="https://avatars.sched.co/9/3d/20222551/avatar.jpg?9c4" alt="Luiz Ariza">
+  </div>
+  <div class="talk-details">
+    <h3>From Chaos to Control: A Prescription for Managing Apps on Private Cellular Networks</h3>
+    <h4>Luiz Ariza, Beanters</h4>
+    <span class="talk-time">
+      <strong>Thurs, Mar 26</strong> • 11:00 - 11:30 CET
+      <br>
+      Hall 7 | Room C
+    </span>
+    <a class="sched-link" href="https://kccnceu2026.sched.com/event/2CW5X" target="_blank" rel="noopener">
       View on Sched
     </a>
   </div>
