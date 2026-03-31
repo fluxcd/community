@@ -3,17 +3,21 @@
 <img src="https://fluxcd.io/img/flux-horizontal-color.png" alt="Flux CD Logo" class="page-logo">
 
 <h1>Flux at KubeCon EU 2026</h1>
-<p style="text-align: center; font-size: 1.2rem; font-weight: 500;">Flux friends! We had such a great time seeing you in Amsterdam. Here's what went down with all things Flux and GitOps at KubeCon Europe 2026.</p>
+<p style="text-align: center; font-size: 1.2rem; font-weight: 500;">Welcome, Flux friends! We're excited to see you in Amsterdam. Here's your guide to all things Flux and GitOps at KubeCon Europe 2025.</p>
 
-<div class="fluxcon-card"> <img src="https://events.linuxfoundation.org/wp-content/uploads/2025/09/fluxCon-horizontal-color.svg" alt="FluxCon Europe"> <h3>FluxCon was packed!</h3> <div class="fluxcon-details"> FluxCon came back for its second year as a CNCF-hosted co-located event, a dedicated half-day for the whole Flux community.
+<div class="fluxcon-card"> <img src="https://events.linuxfoundation.org/wp-content/uploads/2025/09/fluxCon-horizontal-color.svg" alt="FluxCon Europe"> <h3>FluxCon is here!</h3> <div class="fluxcon-details"> FluxCon is back for its second year as a CNCF-hosted co-located event - a dedicated half-day for the whole Flux community.
 
-</div> </div>
+<strong>When:</strong> Monday, March 23, 2026 - 09:00 - 12:45 CET
+
+<strong>Where:</strong> Elicium 1, RAI Amsterdam </div> </div>
 
 
 <details class="fluxcon-schedule-details">
-<summary class="yt-link fluxcon-toggle"> Watch the talks from FluxCon <span class="toggle-icon"></span> </summary>
+<summary class="sched-link fluxcon-toggle"> View the Full FluxCon Schedule <span class="toggle-icon"></span> </summary>
 
-<p>A full morning of Flux talks featured production stories from Air France-KLM, NatWest, Orange, and our maintainers.</p>
+
+<h2>FluxCon Sessions</h2>
+<p>A full morning of Flux talks featuring production stories from Air France–KLM, NatWest, Orange, and our maintainers.</p>
 
 <div class="talk-list">
 
@@ -25,8 +29,13 @@
   <div class="talk-details">
     <h3>FluxCon | Welcome + Opening Remarks</h3>
     <h4>Tiffany Wang, Morgan Stanley & Francesco Beltramini, ControlPlane</h4>
-    <a class="yt-link" href="https://www.youtube.com/watch?v=3rzM7xHl--4&list=PLj6h78yzYM2MeuSNqpcDl-qdMeCe6vp6p" target="_blank" rel="noopener">
-      ▶ YouTube
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 09:00 - 09:05 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DZNO" target="_blank" rel="noopener">
+      View on Sched
     </a>
   </div>
 </div>
@@ -38,8 +47,13 @@
   <div class="talk-details">
     <h3>Vibe Coding Meets GitOps</h3>
     <h4>Stefan Prodan, ControlPlane</h4>
-    <a class="yt-link" href="https://www.youtube.com/watch?v=efpqMLQJaW4&list=PLj6h78yzYM2MeuSNqpcDl-qdMeCe6vp6p" target="_blank" rel="noopener">
-      ▶ YouTube
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 09:10 - 09:35 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DY11" target="_blank" rel="noopener">
+      View on Sched
     </a>
   </div>
 </div>
@@ -52,8 +66,13 @@
   <div class="talk-details">
     <h3>Air France–KLM's GitOps Takeoff: Real Stories From the Flight Deck</h3>
     <h4>Alaoui Echerif Amine & Ravi Ramrattan, Air France KLM</h4>
-    <a class="yt-link" href="https://www.youtube.com/watch?v=yyjzEzWfGmo&list=PLj6h78yzYM2MeuSNqpcDl-qdMeCe6vp6p" target="_blank" rel="noopener">
-      ▶ YouTube
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 09:40 - 10:05 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DY1V" target="_blank" rel="noopener">
+      View on Sched
     </a>
   </div>
 </div>
@@ -65,8 +84,13 @@
   <div class="talk-details">
     <h3>Agentic GitOps: Evolving Enterprise Delivery</h3>
     <h4>Andy Martin, ControlPlane</h4>
-    <a class="yt-link" href="https://www.youtube.com/watch?v=2zudwGs3bMM&list=PLj6h78yzYM2MeuSNqpcDl-qdMeCe6vp6p" target="_blank" rel="noopener">
-      ▶ YouTube
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 10:10 - 10:15 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DZNV" target="_blank" rel="noopener">
+      View on Sched
     </a>
   </div>
 </div>
@@ -79,8 +103,13 @@
   <div class="talk-details">
     <h3>May the Flux Be With You: Tales From the GitOps Trenches at NatWest</h3>
     <h4>Joel King & Lee Coupe, NatWest Group</h4>
-    <a class="yt-link" href="https://www.youtube.com/watch?v=79o52DAZT_k&list=PLj6h78yzYM2MeuSNqpcDl-qdMeCe6vp6p" target="_blank" rel="noopener">
-      ▶ YouTube
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 10:20 - 10:45 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DY1w" target="_blank" rel="noopener">
+      View on Sched
     </a>
   </div>
 </div>
@@ -94,8 +123,13 @@
   <div class="talk-details">
     <h3>Towards Better Canary Releases With Flagger and Gateway API</h3>
     <h4>Sanskar Jaiswal, Kong</h4>
-    <a class="yt-link" href="https://www.youtube.com/watch?v=CMC3f26wX80&list=PLj6h78yzYM2MeuSNqpcDl-qdMeCe6vp6p" target="_blank" rel="noopener">
-      ▶ YouTube
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 11:00 - 11:25 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DY2o" target="_blank" rel="noopener">
+      View on Sched
     </a>
   </div>
 </div>
@@ -107,8 +141,13 @@
   <div class="talk-details">
     <h3>Talking to Your Cluster: Conversational GitOps with Flux MCP</h3>
     <h4>William Rizzo, Mirantis</h4>
-    <a class="yt-link" href="https://www.youtube.com/watch?v=zJg1crt5hBo&list=PLj6h78yzYM2MeuSNqpcDl-qdMeCe6vp6p" target="_blank" rel="noopener">
-      ▶ YouTube
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 11:30 - 11:55 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2ICsA" target="_blank" rel="noopener">
+      View on Sched
     </a>
   </div>
 </div>
@@ -120,8 +159,13 @@
   <div class="talk-details">
     <h3>⚡ Lightning Talk: Flux-Powered Bootstrapping a Kubernetes With GitOps and CaC</h3>
     <h4>Paris Nakita Kejser, Astrona</h4>
-    <a class="yt-link" href="https://www.youtube.com/watch?v=Pcu7bWCqhe4&list=PLj6h78yzYM2MeuSNqpcDl-qdMeCe6vp6p" target="_blank" rel="noopener">
-      ▶ YouTube
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 12:00 - 12:10 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DY3s" target="_blank" rel="noopener">
+      View on Sched
     </a>
   </div>
 </div>
@@ -134,8 +178,13 @@
   <div class="talk-details">
     <h3>Sylva, Taming Complexity With FluxCD Dependency Management</h3>
     <h4>Thomas Morin & Francois Eleouet, Orange</h4>
-    <a class="yt-link" href="https://www.youtube.com/watch?v=KCRFOrMKKcg&list=PLj6h78yzYM2MeuSNqpcDl-qdMeCe6vp6p" target="_blank" rel="noopener">
-      ▶ YouTube
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 12:15 - 12:40 CET
+      <br>
+      Elicium 1
+    </span>
+    <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DY41" target="_blank" rel="noopener">
+      View on Sched
     </a>
   </div>
 </div>
@@ -152,7 +201,7 @@
 
 
 <h2>Flux at KyvernoCon</h2>
-<p>Flux and Kyverno come together in this cross-project session:</p>
+<p>Flux and Kyverno together - attend this cross-project session in the afternoon:</p>
 
 <div class="talk-list">
 
@@ -164,6 +213,11 @@
   <div class="talk-details">
     <h3>Policy & GitOps Unite! Kyverno and Flux Save Cluster City</h3>
     <h4>Cortney Nickerson, Nirmata & Leigh Capili, ControlPlane</h4>
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 13:35 - 14:00 CET
+      <br>
+      E106-108
+    </span>
     <a class="sched-link" href="https://colocatedeventseu2026.sched.com/event/2DY5E" target="_blank" rel="noopener">
       View on Sched
     </a>
@@ -179,38 +233,40 @@
 
 
 
-<div class="info-box"> <h3>The Flux Project Booth</h3>
-<p> Had questions? Wanted to talk GitOps? Or just wanted to grab some stickers? The Flux maintainers were there! Stefan was also at the booth for extended Q&A after each session.</p>
-<p style="font-size: 1.3rem; font-weight: 600; text-align: left; margin-top: 1rem; padding-left: 1rem;">
+<div class="info-box"> <h3>Visit the Flux Project Booth</h3>
+<p> Have questions? Want to talk GitOps? Or just want to grab some stickers? Come say hi to the Flux maintainers! Stefan will also be be at the booth for extended Q&A after each session.</p>
+<p style="font-size: 1.3rem; font-weight: 600; text-align: left; margin-top: 1rem; padding-left: 1rem;">Booth 5B, Project Pavilion
 
-We used 
+We'll be using 
 <strong>
 Flux Operator MCP Server</strong>
 to show off
 <a href="https://fluxcd.io/blog/2025/05/ai-assisted-gitops">
 AI Assisted GitOps</a>.
-</p>
 
-We also launched [fluxcd/agent-skills](https://github.com/fluxcd/agent-skills), to help you work with your repos and clusters more effectively within Claude Code, Copilot, Kiro, and more.
-
-</div>
+The Project Pavilion is located in the Solutions Showcase. We're near the center :)</p> </div>
 
 
 <h2>Flux at KubeCon</h2>
 
-<p>Flux sessions from the main conference:</p>
+<p>Catch these Flux sessions during the main conference:</p>
 
 <div class="talk-list">
 
 <div class="talk-card">
   <div class="talk-avatars">
     <div class="avatar-zoom" style="width: 60px; height: 60px; border-radius: 50%; overflow: hidden; border: 2px solid var(--bg-white); box-shadow: 0 2px 4px rgba(0,0,0,0.1); position: absolute; left: 0; top: 0;">
-      <img src="https://avatars.githubusercontent.com/u/2975506?v=4" alt="Matheus Pimenta" style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.2);">
+      <img src="https://avatars.sched.co/a/52/1784940/avatar.jpg?157" alt="Tamao Nakahara" style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.2);">
     </div>
   </div>
   <div class="talk-details">
-    <h3>⚡ Project Lightning Talk: FluxCD - GitOps For All Sizes</h3>
-    <h4>Matheus Pimenta, Core Maintainer</h4>
+    <h3>⚡ Project Lightning Talk: FluxCD - Gitops For All Sizes</h3>
+    <h4>Tamao Nakahara, Community Maintainer</h4>
+    <span class="talk-time">
+      <strong>Mon, Mar 23</strong> • 14:15 - 14:20 CET
+      <br>
+      Elicium 2
+    </span>
     <a class="sched-link" href="https://kccnceu2026.sched.com/event/2EFyN" target="_blank" rel="noopener">
       View on Sched
     </a>
@@ -225,6 +281,11 @@ We also launched [fluxcd/agent-skills](https://github.com/fluxcd/agent-skills), 
   <div class="talk-details">
     <h3>From "No Time for GitOps" to Enterprise Adoption: Selling Flux the Human Way</h3>
     <h4>Lucas Hornung & Christian Matthaei, Tchibo GmbH</h4>
+    <span class="talk-time">
+      <strong>Wed, Mar 25</strong> • 11:45 - 12:15 CET
+      <br>
+      Hall 7 | Room B
+    </span>
     <a class="sched-link" href="https://kccnceu2026.sched.com/event/2CW1l" target="_blank" rel="noopener">
       View on Sched
     </a>
@@ -239,6 +300,11 @@ We also launched [fluxcd/agent-skills](https://github.com/fluxcd/agent-skills), 
   <div class="talk-details">
     <h3>Pull Request Wars: The Flux Awakens - Ephemeral Kubernetes Environments Strike Back</h3>
     <h4>Matteo Bianchi, GitHub & Stefan Prodan, ControlPlane</h4>
+    <span class="talk-time">
+      <strong>Wed, Mar 25</strong> • 15:00 - 15:30 CET
+      <br>
+      Hall 8 | Room G
+    </span>
     <a class="sched-link" href="https://kccnceu2026.sched.com/event/2CW37" target="_blank" rel="noopener">
       View on Sched
     </a>
@@ -252,6 +318,11 @@ We also launched [fluxcd/agent-skills](https://github.com/fluxcd/agent-skills), 
   <div class="talk-details">
     <h3>From Chaos to Control: A Prescription for Managing Apps on Private Cellular Networks</h3>
     <h4>Luiz Ariza, Beanters</h4>
+    <span class="talk-time">
+      <strong>Thurs, Mar 26</strong> • 11:00 - 11:30 CET
+      <br>
+      Hall 7 | Room C
+    </span>
     <a class="sched-link" href="https://kccnceu2026.sched.com/event/2CW5X" target="_blank" rel="noopener">
       View on Sched
     </a>
@@ -265,6 +336,11 @@ We also launched [fluxcd/agent-skills](https://github.com/fluxcd/agent-skills), 
   <div class="talk-details">
     <h3>Visualizing GitOps: A Tour of Flux UIs in the Open Source Ecosystem</h3>
     <h4>Stefan Prodan, ControlPlane</h4>
+    <span class="talk-time">
+      <strong>Thurs, Mar 26</strong> • 13:45 - 14:15 CET
+      <br>
+      Elicium 2
+    </span>
     <a class="sched-link" href="https://kccnceu2026.sched.com/event/2EF4I" target="_blank" rel="noopener">
       View on Sched
     </a>
@@ -428,10 +504,10 @@ target="_blank" rel="noopener">helixml/genai-cicd-ref</a>
 
 /* --- FluxCon Schedule Details/Summary --- */
 .fluxcon-schedule-details { margin: 2rem 0; }
-.fluxcon-schedule-details > .fluxcon-toggle { display: inline-flex; align-items: center; justify-content: center; font-size: 1.1rem; font-weight: 600; padding: 0.75rem 1.5rem; background-color: #fee2e2; color: #cc0000; border-radius: 5px; text-decoration: none; transition: background-color 0.2s; cursor: pointer; list-style: none; text-align: center; width: 100%; box-sizing: border-box; }
+.fluxcon-schedule-details > .fluxcon-toggle { display: inline-flex; align-items: center; justify-content: center; font-size: 1.1rem; font-weight: 600; padding: 0.75rem 1.5rem; background-color: var(--flux-blue); color: white; border-radius: 5px; text-decoration: none; transition: background-color 0.2s; cursor: pointer; list-style: none; text-align: center; width: 100%; box-sizing: border-box; }
 .fluxcon-schedule-details > .fluxcon-toggle::-webkit-details-marker { display: none; }
 .fluxcon-schedule-details > .fluxcon-toggle::marker { display: none; content: ""; }
-.fluxcon-schedule-details > .fluxcon-toggle:hover { background-color: #fecaca; color: #a00; }
+.fluxcon-schedule-details > .fluxcon-toggle:hover { background-color: var(--flux-dark-blue); color: white; }
 .fluxcon-schedule-details[open] > .fluxcon-toggle { margin-bottom: 1.5rem; }
 .fluxcon-toggle .toggle-icon { display: inline-flex; align-items: center; justify-content: center; margin-left: 0.5rem; width: 1.2em; height: 1.2em; font-size: 1.4em; font-weight: 700; line-height: 1; vertical-align: middle; transition: transform 0.3s ease; }
 .fluxcon-toggle .toggle-icon::before { content: "▾"; position: relative; top: -0.05em; }
@@ -457,9 +533,6 @@ target="_blank" rel="noopener">helixml/genai-cicd-ref</a>
 
 .sched-link { display: inline-block; font-size: 1rem; font-weight: 600; padding: 0.5rem 1rem; background-color: var(--flux-light-blue); color: white; border-radius: 5px; text-decoration: none; transition: background-color 0.2s; }
 .sched-link:hover { background-color: var(--flux-blue); color: white; text-decoration: none; }
-
-.yt-link { display: inline-block; font-size: 1rem; font-weight: 600; padding: 0.5rem 1rem; background-color: #fee2e2; color: #cc0000 !important; border-radius: 5px; text-decoration: none; transition: background-color 0.2s; }
-.yt-link:hover { background-color: #fecaca; color: #a00 !important; text-decoration: none; }
 
 /* --- Resources Section --- */ .resources-list { list-style-type: none; padding-left: 0; }
 .resources-list li { font-size: 1.1rem; margin-bottom: 0.75rem; }
