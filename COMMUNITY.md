@@ -101,7 +101,7 @@ For people listed below we made exceptions:
 
 #### Calendar
 
-<https://lists.cncf.io/g/cncf-flux-dev/calendar>
+<https://zoom-lfx.platform.linuxfoundation.org/meetings/fluxcd>
 
 | Name | Slack handle | Github handle | Affiliation |
 | -- | -- | -- | -- |
