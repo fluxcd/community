@@ -17,7 +17,7 @@ The upcoming meetings, talks, and community events for the next month are here:
 
 {{< home/calendar >}}
 
-Our calendar data is hosted on the CNCF-Flux-Dev List, which has the option to subscribe: <https://lists.cncf.io/g/cncf-flux-dev/calendar>
+Our calendar data is hosted on LFX Platform, which has the option to subscribe via iCal Link: <https://zoom-lfx.platform.linuxfoundation.org/meetings/fluxcd>
 
 We are very happy if new users, contributors and developers join and we can put names to faces!
 
@@ -48,9 +48,8 @@ The calendar at <https://fluxcd.io/community#meetings> has been localized to sho
 
 To add the meetings to your e.g. Google calendar
 
-1. visit the [Flux calendar](https://lists.cncf.io/g/cncf-flux-dev/calendar)
-   > For this you might need to create an account for `lists.cncf.io`
-1. click on "Subscribe to Calendar" at the very bottom of the page
+1. visit the [Flux calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/fluxcd)
+1. click on "iCal" at the center top of the page
 1. copy the iCalendar URL
 1. open e.g. your Google calendar
 1. find the "add calendar" option
