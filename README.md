@@ -49,7 +49,6 @@ The calendar at <https://fluxcd.io/community#meetings> has been localized to sho
 To add the meetings to your e.g. Google calendar
 
 1. visit the [Flux calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/fluxcd)
-   > For this you might need to create an account for `lists.cncf.io`
 1. click on "iCal" at the center top of the page
 1. copy the iCalendar URL
 1. open e.g. your Google calendar
