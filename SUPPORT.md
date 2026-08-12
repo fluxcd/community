@@ -1,1 +1,1 @@
-This document was moved to <https://github.com/fluxcd/website/blob/main/content/en/support.md>.
+This document was moved to <https://github.com/fluxcd/.github/blob/main/SUPPORT.md>.
