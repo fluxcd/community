@@ -21,9 +21,7 @@ Our calendar data is publicly available at: <https://zoom-lfx.platform.linuxfoun
 
 The LFX Platform calendar has the option to subscribe to Flux events via iCal Link. You can subscribe directly to the iCal feed via the link below:
 
-```
-https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IfTjDQAV
-```
+<https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IfTjDQAV>
 
 We are very happy if new users, contributors and developers join and we can put names to faces!
 
