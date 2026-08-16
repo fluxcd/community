@@ -42,7 +42,6 @@ Some regularly scheduled meetings are scheduled in their hosts' local time zones
 | Which | Times | Agenda & Minutes | Recordings |
 | ----- | ----- | ---------------- | ---------- |
 | Flux Dev Meetings | "early" meeting: Odd weeks: Wed, 12:00 UTC <br/>"late" meeting: Even weeks: Thu, 15:00 UTC | [Document](https://docs.google.com/document/d/167SKpaDUrpiBqNR2lXnQjXyb5Gxq6uB-Fujz7eBQxyw/edit) | [YouTube](https://www.youtube.com/playlist?list=PLwjBY07V76p5mWNgdINjIiuUiItIeLhIN) |
-| Flux Bug Scrub | "early" meeting: Even weeks: Wed, 8:00 Eastern US time <br/>"late" meeting: Odd weeks: Thu, 13:00 Eastern US time <br/>"AEST Edition" Even weeks: Wed, 8:00 Brisbane time | [Bug Scrub Template (#0090)](https://docs.google.com/spreadsheets/d/1Hv9BIr0vFAOHscqYzmlKKG1Il18Nw8X_iiDyi0HRgCs/edit#gid=2133538565) | [YouTube](https://www.youtube.com/watch?v=c4unRRJp-o0&list=PLwjBY07V76p6J6z30cBRqS_N0Ka6NhEsY) |
 
 Do note that Daylight Savings Time changes can vary across regions, which can cause some confusion.
 
