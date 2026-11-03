@@ -16,3 +16,4 @@ who are not maintainers (yet).
 | Luke Mallon     | @nalum         | nalum           | Independent  | Issue #339  |
 | Steve Wade      | @swade1987     | Steve Wade      | Independent  | Issue #390  |
 | Shu Kutsuzawa   | @cappyzawa     | cappyzawa       | Independent  | Issue #450  |
+| George Gaál     | @gecube        | George Gaal     | Independent  | Issue #473  |
